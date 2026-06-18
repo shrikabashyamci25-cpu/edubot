@@ -1,0 +1,3684 @@
+#TOPIC=civil
+#KEYS=staircase types classification how many
+Types of Staircases (8 main types):
+  1. Straight flight staircase:
+     Single straight run from one floor to another. No change in direction.
+     Simplest and most economical. Used in factories, warehouses.
+  2. Dog-legged staircase:
+     Two flights running in opposite directions (180 deg turn) with a
+     common landing between them. Most common in residential buildings.
+     No open well between the flights.
+  3. Open-well staircase:
+     Two or more flights arranged around a rectangular open well/void.
+     Provides natural light and ventilation. Used in public buildings.
+  4. Spiral / Geometrical staircase:
+     Helical shape around a central column or open well.
+     Space-saving, decorative. Used in large halls and showrooms.
+  5. Bifurcated (Imperial) staircase:
+     One wide flight at the bottom splits into two narrower flights
+     at a landing going in opposite directions. Used in public buildings.
+  6. Quarter-turn staircase:
+     Changes direction by 90 deg at a landing or by using winder steps.
+  7. Three-quarter turn staircase:
+     Direction changes by 270 deg. Used where floor area is limited.
+  8. Circular staircase:
+     Continuous curved form. Grand entrances, decorative purposes.
+  Components: Flight, Landing, Tread (horizontal), Rise (vertical),
+  Nosing, Soffit, Baluster, Handrail, Newel post, Going.
+##END##
+
+#TOPIC=civil
+#KEYS=arch types classification masonry
+Types of Arches (by shape):
+  1. Semicircular arch: rise = half the span. Strong, widely used in masonry.
+  2. Segmental arch: rise < half span; a segment of a circle. Most common
+     for door and window openings (flatter appearance).
+  3. Pointed / Gothic arch: two curves meeting at a point at the crown.
+     Used in Gothic architecture, churches.
+  4. Flat / Jack arch: nearly flat; span is small; used for small openings.
+  5. Elliptical arch: forms an ellipse; pleasing appearance; used in bridges.
+  6. Parabolic arch: parabolic shape; efficient for self-weight loads; bridges.
+  7. Horseshoe arch: more than a semicircle (>180 deg); Islamic architecture.
+  Parts of an arch: Intrados (soffit), Extrados (back), Crown, Springing line,
+  Keystone, Voussoir, Skewback, Haunch, Abutment, Spandrel.
+##END##
+
+#TOPIC=civil
+#KEYS=bridge types classification span
+Types of Bridges (by structural form):
+  1. Beam / Girder bridge: simplest form; beam rests on two supports.
+     Used for short to medium spans.
+  2. Truss bridge: triangulated framework of members; efficient for
+     medium spans (50-150 m). Example: Warren truss, Pratt truss.
+  3. Arch bridge: load transferred to abutments by arch action.
+     Suitable for rocky foundations. Spans up to 500 m.
+  4. Suspension bridge: deck hung from cables anchored at towers.
+     Longest spans (>500 m). Example: Golden Gate Bridge.
+  5. Cable-stayed bridge: deck supported directly by cables from pylons.
+     Spans 200-1000 m. Modern appearance.
+  6. Cantilever bridge: overhanging beams counterbalanced. Example: Howrah.
+  7. Moveable bridges: bascule (drawbridge), swing, vertical-lift.
+  Classification by use: Road bridge, Railway bridge, Aqueduct, Flyover.
+  Classification by span: Culvert (<6m), Minor (<30m), Major (>30m).
+##END##
+
+#TOPIC=civil
+#KEYS=roof types classification pitched flat truss
+Types of Roofs:
+  FLAT ROOFS:
+    Flat / Terrace roof: slope < 10 deg. RCC/brick used. Common in hot
+    dry climates. Provides usable terrace space.
+  PITCHED ROOFS (slope > 10 deg):
+    1. Lean-to (shed) roof: single slope; simplest pitched roof.
+    2. Gable roof: two slopes meeting at a central ridge; triangular gable ends.
+    3. Hip roof: all four sides slope downward; no vertical gable ends.
+    4. Gambrel roof: two slopes on each side; lower slope steeper.
+    5. Mansard roof: double slope on all four sides; extra usable floor space.
+  TRUSSED ROOFS:
+    King post truss, Queen post truss, Fink truss, Howe truss.
+    Used for large spans in factories, halls, railway stations.
+  SHELL ROOFS:
+    Barrel vault, Dome, Hyperbolic paraboloid (hypar), Folded plate.
+    Used for large column-free areas; aesthetically pleasing.
+##END##
+
+#TOPIC=civil
+#KEYS=dam types classification gravity arch earthen
+Types of Dams (by construction material and structural action):
+  1. Gravity dam: relies on its own weight to resist water pressure.
+     Made of concrete or masonry. Example: Bhakra Dam.
+  2. Arch dam: curved structure transferring water pressure to valley walls.
+     Requires strong rocky foundations on both sides.
+     Example: Hoover Dam, Idukki Dam.
+  3. Earthen / Embankment dam: compacted earth/soil fill.
+     Largest category by number. Example: Tehri Dam.
+  4. Rockfill dam: rock fragments as the main fill material with
+     impervious clay core or concrete facing for watertightness.
+  5. Buttress dam: sloping slab supported by buttresses. Less material
+     than gravity dam. Types: Flat slab, Multiple arch, Massive head.
+  6. Composite dam: combination of above types.
+  Components: Crest, Free board, Spillway, Gallery, Toe, Heel,
+  Diversion tunnel, Drainage blanket.
+##END##
+
+#TOPIC=civil
+#KEYS=flexible rigid pavement road types difference
+Flexible vs Rigid Pavement:
+  FLEXIBLE PAVEMENT (Bituminous/Asphalt):
+    Layers: Subgrade -> Sub-base -> Base course -> Binder course -> Wearing course.
+    Load transferred by grain-to-grain contact (interlocking).
+    Low flexural strength; distributes load over a wider area.
+    Design life: 10-15 years. Easy to repair; cheaper initial cost.
+    Failure: Rutting, cracking, potholes.
+  RIGID PAVEMENT (Cement Concrete):
+    Layers: Subgrade -> Sub-base -> PCC slab.
+    PCC slab (M30-M40 grade) has high flexural strength.
+    Load carried by slab action (beam action).
+    Design life: 30-40 years. Higher initial cost; low maintenance.
+    Joints provided: Expansion joint, Contraction joint, Construction joint.
+    Failure: Slab cracking, pumping, faulting.
+  IRC (Indian Roads Congress) code governs road design in India.
+##END##
+
+#TOPIC=civil
+#KEYS=prestressed concrete pre-tensioning post-tensioning
+Prestressed Concrete (PSC):
+  Concrete with high-tensile steel tendons stressed before loading
+  to counteract tensile stresses due to bending.
+  WHY: Concrete is weak in tension (~3 MPa); PSC eliminates tension.
+  PRE-TENSIONING:
+    Tendons stressed BEFORE concrete is cast. Tendons bonded to concrete.
+    Done in factory (precast). Bond transfers prestress to concrete.
+    Used for: Railway sleepers, poles, small beams, bridge girders.
+  POST-TENSIONING:
+    Tendons stressed AFTER concrete has hardened. Ducts cast in concrete.
+    Tendons inserted, stressed, then anchored at ends.
+    Used for: Large bridges, tanks, slabs, nuclear structures.
+  High-tensile steel: wires (2-7mm), strands (7-wire), bars (25-40mm).
+  Grade: Fe1600, Fe1800, Fe1960.
+  Advantages: Larger spans, thinner sections, no cracks under service load.
+##END##
+
+#TOPIC=civil
+#KEYS=formwork shuttering types timber steel aluminum
+Types of Formwork (Shuttering):
+  Formwork: temporary structure that holds wet concrete in place until
+  it gains sufficient strength.
+  1. Timber formwork: traditional; flexible and easy to cut; low initial cost;
+     limited reuse (5-10 times). Most common for small works.
+  2. Plywood formwork: better surface finish; lighter than solid timber.
+  3. Steel formwork: high initial cost; can be reused 100+ times;
+     smooth concrete finish; used for large repetitive structures.
+  4. Aluminium formwork (MIVAN technology): very light, high reuse,
+     used for mass housing; produces very smooth surfaces.
+  5. Plastic/GRP formwork: lightweight, rust-free, gives good finish.
+  6. Slip formwork: continuously moved upward as concrete sets;
+     used for silos, shafts, chimneys (continuous vertical structures).
+  7. Jump formwork: hydraulically lifted; used for tall buildings/dams.
+  Striking (removal) time per IS 456:
+    Columns/walls: 24-48 hours. Slabs: 14 days. Beams: 14-21 days.
+##END##
+
+#TOPIC=civil
+#KEYS=types beams simply supported cantilever fixed continuous
+Types of Beams (by end condition / support):
+  1. Simply supported beam: rests on two supports; free to rotate at ends.
+     BM at supports = 0; max BM at centre for UDL = wL^2/8.
+  2. Cantilever beam: one end fixed, other end free.
+     Max BM at fixed end = wL^2/2 (for UDL).
+  3. Fixed beam (built-in/encastre): both ends fully fixed.
+     Develops fixing moments at both ends; less deflection than SS beam.
+  4. Continuous beam: extends over more than two supports.
+     Economical; used in bridges and building floors.
+  5. Propped cantilever: cantilever with a prop/support at free end.
+  6. Overhanging beam: extends beyond one or both supports.
+  Types by cross-section: T-beam, L-beam, Box beam, I-section, Hollow.
+  Types by material: RCC beam, Steel beam, Timber beam, Composite beam.
+##END##
+
+#TOPIC=civil
+#KEYS=slab types one way two way flat plate waffle ribbed
+Types of Slabs:
+  1. One-way slab: Ly/Lx > 2. Load transfers along shorter span only.
+     Reinforcement provided along shorter span (main steel).
+     Distribution steel along longer span.
+  2. Two-way slab: Ly/Lx <= 2. Load transfers in both directions.
+     Reinforcement in both directions; more efficient; used for square panels.
+  3. Flat plate slab: RCC slab supported directly on columns (no beams/drop panels).
+     Simple formwork; minimum depth; used in apartments.
+  4. Flat slab: slab directly on columns WITH drop panels / column capitals.
+     Better shear resistance than flat plate.
+  5. Waffle (grid) slab: two-way ribbed slab; reduces dead weight;
+     used for large column-free spans in auditoriums/halls.
+  6. Hollow core slab: precast; voids reduce weight; used in offices/parking.
+  7. Composite slab: steel deck with concrete topping; used in steel buildings.
+##END##
+
+#TOPIC=civil
+#KEYS=column types shape braced unbraced short long
+Types of Columns:
+  By length/slenderness:
+    Short column: leff/d < 12 (or leff/r < 45). Fails by crushing (material failure).
+    Long/Slender column: leff/d >= 12. Fails by buckling (Euler's formula).
+    leff = effective length; r = radius of gyration.
+  By shape of cross-section:
+    Square, Rectangular, Circular (most common).
+    L-shaped, T-shaped, Cross-shaped (special boundary columns).
+  By lateral bracing:
+    Braced column: lateral loads taken by shear walls/bracings; column carries axial load only.
+    Unbraced column: must resist lateral loads itself; larger moments.
+  By position in plan:
+    Corner column, Edge column, Interior column.
+  By material: RCC column, Steel column (H-section, hollow section), Composite column.
+  Effective length (leff) per IS 456:
+    Both ends fixed: 0.5L.  One fixed, one pinned: 0.7L.  Both pinned: L.  One fixed, one free: 2L.
+##END##
+
+#TOPIC=civil
+#KEYS=scaffolding types single double cantilever suspended
+Types of Scaffolding:
+  1. Single (brick layer's) scaffolding: one row of vertical standards (uprights)
+     near the wall. Ledgers connect standards; putlogs rest on ledgers and wall.
+     Used for brick masonry work.
+  2. Double (mason's/independent) scaffolding: two rows of uprights; independent
+     of wall. Used for stone masonry (cannot make holes in stone wall).
+  3. Cantilever (needle) scaffolding: needles project from walls/openings.
+     Used when ground does not allow standards (traffic, drains).
+  4. Suspended scaffolding: platform hung from roof by ropes/chains.
+     Used for painting, repairs on tall buildings.
+  5. Trestle scaffolding: platform supported on movable tripods/ladders.
+     Used indoors for heights up to 5m.
+  6. Steel tube (tubular) scaffolding: steel tubes and couplers.
+     Strong, durable, flexible for any shape. Most common today.
+  7. Patented scaffolding: readymade proprietary systems with special
+     couplings and frames. Fast to erect and dismantle.
+##END##
+
+#TOPIC=civil
+#KEYS=brick masonry bond types english flemish stretcher header
+Types of Brick Masonry Bonds:
+  A bond is the arrangement of bricks in successive courses to ensure
+  overlapping of vertical joints (no continuous vertical joints).
+  1. Stretcher bond: only stretchers visible in face; used for half-brick
+     partition walls. Weakest bond.
+  2. Header bond: only headers visible; used for curved walls and piers.
+  3. English bond: alternate courses of stretchers and headers.
+     Strongest bond. Most commonly used in India.
+  4. Flemish bond: each course has alternate stretchers and headers.
+     Stronger appearance but structurally weaker than English bond.
+     Single Flemish: English bond at back, Flemish at face.
+     Double Flemish: Flemish bond throughout thickness.
+  5. Dutch bond (modified English): corners of English bond are stronger.
+  6. Zigzag bond: bricks laid in zigzag pattern; used for paving.
+  7. Garden wall bond: variation of English/Flemish for thin one-brick walls.
+##END##
+
+#TOPIC=civil
+#KEYS=pointing types masonry weathered flush recessed tuck
+Types of Pointing (Finishing of Mortar Joints):
+  Pointing = finishing the mortar joints in brickwork/stonework after
+  raking out the old/fresh mortar to a depth of 12-20mm.
+  1. Flush pointing: mortar pressed flush with the face. Most common.
+     Gives a neat appearance; not very durable.
+  2. Recessed (sunk) pointing: mortar pressed back 5mm from face.
+     Creates shadow lines; modern appearance; less durable.
+  3. Weathered (struck) pointing: top of joint pressed in, bottom projects.
+     Sheds water well; durable; used for external walls.
+  4. V-groove pointing: V-shaped groove formed in joint. Decorative.
+  5. Tuck pointing: mortar filled flush; then a narrow ridge of lime putty
+     (tuck) pressed in centre. Gives appearance of fine joints.
+  6. Beaded pointing: half-round bead formed along joint. Decorative.
+  Mortar for pointing: 1:3 cement:sand or lime mortar depending on exposure.
+##END##
+
+#TOPIC=civil
+#KEYS=mortar types lime cement gauged surkhi
+Types of Mortar:
+  Mortar = binding material made by mixing a cementing agent + fine aggregate + water.
+  1. Lime mortar: slaked lime + sand (1:2 or 1:3). Slow setting; flexible;
+     good for old masonry repairs. Not suitable for wet locations.
+  2. Cement mortar: OPC + sand. Common ratios: 1:3 (rich), 1:6 (lean).
+     Strong, durable, impermeable. Widely used.
+  3. Gauged mortar: lime + cement + sand. Combines workability of lime
+     with strength of cement. Common: 1:1:6 (cement:lime:sand).
+  4. Surkhi mortar: burnt brick powder (surkhi) + lime. Hydraulic;
+     sets under water; used for foundations, cisterns.
+  5. Gypsum mortar: gypsum plaster + water. Sets very fast; interior use only.
+  6. Mud mortar: clay soil + water (+ sometimes lime/cowdung).
+     Cheapest; used for rural/temporary construction.
+  Grade of mortar per IS 2250: MM0.7, MM1.5, MM3.0, MM5.0, MM7.5, MM10.
+##END##
+
+#TOPIC=civil
+#KEYS=plastering types cement lime gypsum
+Types of Plastering:
+  Plastering = applying mortar coat on wall/ceiling surfaces for:
+  (a) protection from weather, (b) smooth surface, (c) decoration.
+  1. Lime plaster: slaked lime + sand. 3 coats: rendering, floating, setting.
+     Smooth finish; flexible; used for old buildings.
+  2. Cement plaster: OPC + sand (1:4 or 1:6). Durable, hard, waterproof.
+     Widely used for external and internal walls.
+  3. Gypsum plaster: quick-setting, smooth interior finish; no shrinkage cracks.
+     Cannot be used in damp locations.
+  4. Mud plaster: clay + straw/grass fiber. Used in rural areas.
+  5. Stucco plaster: cement + sand + lime. 3 coats; decorative exterior finish.
+  6. Waterproof plaster: cement + sand + waterproofing compound.
+     Used for bathrooms, water tanks, basements.
+  Coats: Scratch coat (first, 12mm), Floating coat (8mm), Finishing coat (3mm).
+##END##
+
+#TOPIC=civil
+#KEYS=admixtures types plasticizer superplasticizer retarder accelerator
+Types of Admixtures (IS 9103):
+  Admixtures are materials added to concrete (other than cement, water,
+  aggregate) to modify properties of fresh or hardened concrete.
+  1. Plasticizers (Water Reducers): reduce water content by 5-10% for
+     same workability. Increase strength. Example: Lignosulfonates.
+  2. Superplasticizers (High Range Water Reducers): reduce water by
+     15-30%. Produce flowing/self-compacting concrete. Example: Naphthalene,
+     Polycarboxylate ether (PCE).
+  3. Retarders: slow down hydration; used in hot weather and for large pours.
+     Example: Calcium lignosulfonate, Sugar, Citric acid.
+  4. Accelerators: speed up hydration; early strength gain; used in cold
+     weather and precast. Example: Calcium chloride (CaCl2).
+  5. Air-entraining agents: introduce tiny air bubbles (3-6%);
+     improve freeze-thaw resistance. Example: Vinsol resin.
+  6. Waterproofing agents: reduce permeability. Integral waterproofing.
+  7. Mineral admixtures (supplementary cementitious materials):
+     Fly ash (class C, F), GGBS, Silica fume, Metakaolin.
+##END##
+
+#TOPIC=civil
+#KEYS=aggregate tests impact crushing abrasion elongation
+Tests on Coarse Aggregate:
+  1. Aggregate Impact Value (AIV) test (IS 2386 Part IV):
+     Measures resistance to sudden impact/shock loads.
+     Aggregate in cylinder struck 15 blows by 14kg hammer.
+     AIV = (fines passing 2.36mm / original mass) x 100%
+     Limits: Roads < 30%; concrete < 45%; wearing surface < 30%.
+  2. Aggregate Crushing Value (ACV) test (IS 2386 Part IV):
+     Measures resistance to crushing under gradually applied load.
+     ACV = (fines / original) x 100%. Limit < 30% for roads, < 45% for concrete.
+  3. Los Angeles Abrasion test (IS 2386 Part IV):
+     Resistance to wear/abrasion. Aggregate + steel balls in rotating drum.
+     Limit < 30% for wearing surfaces, < 50% for sub-base material.
+  4. Elongation Index: % of elongated particles (length > 1.8 x mean size).
+     Limit < 15% for good quality aggregate.
+  5. Flakiness Index: % of flat particles (thickness < 0.6 x mean size).
+     Limit < 15%. High flakiness reduces workability and strength.
+  6. Specific gravity: coarse aggregate = 2.6-2.9.
+     Water absorption < 2% for good aggregate.
+##END##
+
+#TOPIC=civil
+#KEYS=workability tests vee-bee compaction factor
+Workability Tests for Concrete:
+  1. Slump test (IS 1199): most common; suitable for medium workability.
+     Not suitable for very dry or very wet mixes.
+  2. Vee-Bee (Vibration) test: suitable for very dry, low workability mixes.
+     Concrete in slump cone on vibrating table; time (seconds) to compact = Vee-Bee degree.
+     Lower time = more workable. Used for precast and road concrete.
+  3. Compaction Factor test: measures degree of compaction relative to fully
+     compacted concrete. Two hoppers; concrete falls into a cylinder.
+     CF = mass of partially compacted / mass of fully compacted.
+     Range: 0.7 (low) to 0.95 (high workability).
+     More sensitive than slump test for low workability mixes.
+  4. Flow table test: measures spread diameter of concrete on a flow table.
+     Used for self-compacting concrete and high workability mixes.
+  5. Kelly Ball test: penetration of a heavy ball; suitable for field use.
+##END##
+
+#TOPIC=civil
+#KEYS=joints concrete expansion construction contraction isolation
+Types of Joints in Concrete Structures:
+  1. Expansion joint: allows thermal expansion and contraction of structure.
+     Full separation between two sections; filled with compressible filler.
+     Provided every 30-45m in pavements, every 30m in buildings.
+  2. Construction (cold) joint: formed when concreting is stopped and
+     resumed later. Not a designed joint; must be properly prepared
+     (roughened, cleaned, bonding agent applied) before fresh concrete.
+  3. Contraction (control) joint: induces cracking at a controlled location.
+     Sawn to 1/4 slab depth. Provided every 4-6m in pavements.
+  4. Isolation joint: separates structural slab from walls, columns, footings;
+     allows differential movement without cracking.
+  5. Day joint: construction joint between concreting operations done on
+     different days; formed at end of day's pour.
+##END##
+
+#TOPIC=civil
+#KEYS=pile types driven bored under-reamed material
+Types of Piles (Foundation):
+  By material:
+    Timber piles: cheap, used in marine works; treated against decay.
+    Concrete piles: most common; precast (driven) or cast-in-situ (bored).
+    Steel piles: H-piles, pipe piles; high load capacity; costly.
+    Composite piles: combination of materials.
+  By load transfer mechanism:
+    End-bearing piles: tip rests on hard stratum; load via tip resistance.
+    Friction piles: load transferred via skin friction along shaft.
+    Combination: both friction and end bearing.
+  By method of installation:
+    Driven piles: hammered into ground (displacement piles).
+    Bored (cast-in-situ) piles: hole bored, then concrete cast. No vibration.
+    Under-reamed piles: bored pile with one or more bulbs at base;
+      used in expansive soils (black cotton soil); IS 2911.
+  Pile cap: connects tops of piles into a group; transfers column load to piles.
+##END##
+
+#TOPIC=civil
+#KEYS=weir barrage difference irrigation diversion
+Weir vs Barrage:
+  WEIR:
+    A structure built across a river to raise the water level on the
+    upstream side and allow controlled diversion into canals.
+    No gates or with only limited gated openings.
+    Water flows over the crest of the weir (overflows).
+    Permanent structure; simple; low cost.
+    Cannot regulate water level effectively during floods.
+    Examples: Okhla Weir (Delhi), Mettur Weir (Tamil Nadu).
+  BARRAGE:
+    A low dam across a river with a series of gates extending the full
+    length of the structure. Gates fully regulate water level.
+    Water flows THROUGH the gates (not over).
+    More flexible water level control; handles floods better.
+    More expensive; complex construction.
+    Examples: Farakka Barrage, Bhimgoda Barrage.
+  Both are diversion structures (do not store water like dams).
+##END##
+
+#TOPIC=civil
+#KEYS=CPM PERT network analysis difference project management
+CPM vs PERT (Network Analysis):
+  Both are project scheduling techniques using network diagrams.
+  CPM (Critical Path Method):
+    Deterministic: single time estimate per activity.
+    Used when durations are well-known (construction projects).
+    Finds the CRITICAL PATH: longest path from start to finish.
+    Activities on critical path: any delay delays the whole project.
+    Float: difference between latest and earliest start time.
+  PERT (Programme Evaluation and Review Technique):
+    Probabilistic: THREE time estimates per activity:
+      Optimistic (to), Most likely (tm), Pessimistic (tp).
+      Expected time: te = (to + 4tm + tp) / 6.
+    Used for R&D, new projects with uncertain durations.
+    Calculates probability of completing by a given date.
+  Both use: Activity, Event, Dummy activity, Float, Critical path.
+  Difference: CPM = deterministic + activity-on-arrow/node;
+              PERT = probabilistic + activity-on-arrow.
+##END##
+
+#TOPIC=civil
+#KEYS=IS codes important civil engineering standards
+Important IS Codes in Civil Engineering:
+  Concrete:
+    IS 456 : Plain and Reinforced Concrete Code of Practice.
+    IS 10262: Concrete Mix Design Guidelines.
+    IS 383 : Specification for Coarse and Fine Aggregates.
+    IS 1489: Portland Pozzolana Cement.
+    IS 12269: 53 Grade Ordinary Portland Cement.
+  Steel:
+    IS 1786: High Strength Deformed (HSD) Bars (TMT rebar).
+    IS 800 : Code of Practice for Steel Structures.
+  Bricks and Masonry:
+    IS 1077: Common Burnt Clay Building Bricks.
+    IS 2212: Code of Practice for Brickwork.
+  Foundation:
+    IS 1904: Code of Practice for Structural Use of Unreinforced Masonry.
+    IS 2911: Code of Practice for Design and Construction of Pile Foundations.
+  Loads:
+    IS 875 (Part 1-5): Code for Design Loads (Dead, Live, Wind, Snow, Seismic).
+    IS 1893: Criteria for Earthquake Resistant Design.
+  Roads:
+    IRC:37 - Guidelines for Flexible Pavement Design.
+    IRC:58 - Guidelines for Rigid Pavement Design.
+##END##
+
+#TOPIC=civil
+#KEYS=qualities good brick properties standard
+Qualities of a Good Brick:
+  1. Shape and size: uniform rectangular shape with sharp edges and
+     plane surfaces. Standard size: 190x90x90 mm (IS 1077).
+  2. Color: uniform deep red, cherry, or copper color indicating good burning.
+  3. Hardness: should resist scratching by a fingernail.
+  4. Compressive strength: min 3.5 N/mm^2 (Class III) to 10.5 N/mm^2 (Class I).
+  5. Water absorption: should not exceed 20% of dry weight after 24 hours
+     immersion (Class I) and 22% (Class II).
+  6. Efflorescence: white patches from soluble salts. Should be 'nil' to
+     'slight' for good quality bricks (IS 3495 test).
+  7. Soundness: when two bricks are struck together, should produce a
+     clear ringing metallic sound (not dull or hollow).
+  8. Thermal insulation: low thermal conductivity; keeps buildings cool.
+  9. Durability: should withstand weather, frost, and rain without crumbling.
+  10. Warpage: should be minimal (< 3mm for a 190mm brick).
+##END##
+
+#TOPIC=civil
+#KEYS=surveying levelling types differential profile reciprocal
+Types of Levelling in Surveying:
+  Levelling determines relative heights (elevations) of different points.
+  Terms: Benchmark (BM), Back Sight (BS), Fore Sight (FS), Intermediate Sight (IS),
+         Height of Instrument (HI), Reduced Level (RL).
+  1. Simple levelling: instrument set up at one point; levels two points.
+  2. Differential (fly) levelling: instrument moved multiple times to
+     find difference in elevation between distant points.
+  3. Profile levelling: elevations along a fixed line (road/pipeline centreline).
+     Produces longitudinal section.
+  4. Cross-section levelling: elevations at right angles to profile line.
+  5. Reciprocal levelling: level measured from both ends to eliminate
+     errors of collimation and curvature/refraction. Used for wide rivers.
+  6. Precise levelling: high-accuracy; used for benchmarks; invar staff.
+  Errors: Error of collimation, Curvature of earth (0.0785 D^2 metres),
+  Atmospheric refraction (0.0112 D^2 metres, opposes curvature).
+##END##
+
+#TOPIC=civil
+#KEYS=types walls load bearing partition cavity shear
+Types of Walls in Building Construction:
+  1. Load-bearing wall: carries loads from slabs, beams, roofs down to
+     foundation. Made of brick/stone/concrete. Cannot be removed easily.
+  2. Non-load-bearing (partition) wall: divides interior space only;
+     carries no structural load. Can be removed/relocated.
+     Materials: brick, AAC block, glass, gypsum board, plywood.
+  3. Cavity wall: two leaves (wythes) of masonry with a 50mm air gap.
+     Excellent thermal and moisture insulation. Used in coastal areas.
+  4. Shear wall: vertical RCC wall resisting lateral (wind/earthquake) loads.
+     Located at building core or perimeter. Essential in high-rise buildings.
+  5. Retaining wall: resists lateral earth/soil pressure on sloped ground.
+     Types: gravity, cantilever, counterfort.
+  6. Parapet wall: low wall along edge of roof/balcony. Provides safety.
+  7. Curtain wall: non-load-bearing exterior wall hung from structural frame.
+     Glass/aluminium curtain walls in modern high-rise buildings.
+##END##
+
+#TOPIC=civil
+#KEYS=concrete mix design M20 M25 nominal design mix
+Concrete Mix Design (IS 10262):
+  PURPOSE: Determine the proportions of cement, water, FA, CA to achieve
+  target strength, workability, and durability.
+  NOMINAL MIX (IS 456 Table 9): for M5 to M20 grade only.
+    M5: 1:5:10, M7.5: 1:4:8, M10: 1:3:6, M15: 1:2:4, M20: 1:1.5:3.
+  DESIGN MIX (IS 10262): for M25 and above.
+  Steps in mix design:
+    1. Determine target mean strength: fck + 1.65*s (s = standard deviation).
+    2. Select water-cement ratio from durability and strength requirements.
+    3. Estimate water content (depends on max aggregate size and workability).
+    4. Calculate cement content = water / w-c ratio.
+    5. Determine proportions of FA and CA (zone, specific gravity).
+    6. Trial mixes and adjustment.
+  Minimum cement content per IS 456 (moderate exposure, M25): 300 kg/m^3.
+  Maximum cement content: 450 kg/m^3 (to avoid heat of hydration cracking).
+##END##
+
+#TOPIC=civil
+#KEYS=irrigation types surface drip sprinkler canal
+Types of Irrigation:
+  1. Surface irrigation: water applied at one or more points on the
+     surface and allowed to flow over and through the soil.
+     a) Border strip irrigation: elongated strips.
+     b) Check (basin) irrigation: bunded rectangular plots; paddy fields.
+     c) Furrow irrigation: water flows in small channels (furrows) between crop rows.
+  2. Drip (trickle) irrigation: water delivered directly to root zone via
+     emitters at low flow rate. Water use efficiency >90%. Ideal for orchards.
+  3. Sprinkler irrigation: water sprayed in the air and falls like rain.
+     Suitable for irregular terrain. Water use efficiency ~75%.
+  4. Sub-surface irrigation: perforated pipes below soil surface;
+     water applied directly to root zone. Highest efficiency.
+  Canal irrigation: most common in India; gravity flow from rivers via weirs/barrages.
+  Lift irrigation: water pumped from lower level to field.
+  Water requirement of crops: delta (depth), duty (area per unit discharge).
+##END##
+
+#TOPIC=civil
+#KEYS=soil investigation boring methods geotechnical site
+Geotechnical Investigation Methods:
+  Purpose: determine soil profile, strength, compressibility for foundation design.
+  BORING METHODS:
+    1. Auger boring: hand or power-driven helical auger. Shallow depths, soft soils.
+    2. Wash boring: water jet breaks soil; cuttings brought up with wash water.
+       Simple, fast; suitable for soft to medium soils.
+    3. Rotary drilling: rotating bit + drilling fluid (mud). Used in hard soils/rocks.
+    4. Percussion drilling: heavy chisel bit dropped repeatedly. For hard strata.
+  SAMPLING:
+    Disturbed sample: auger/wash boring. For classification tests only.
+    Undisturbed sample: Shelby tube / thin-walled sampler. For strength tests.
+  IN-SITU TESTS:
+    SPT (Standard Penetration Test): N-value; 63.5kg hammer, 300mm penetration.
+      N < 4: very loose sand; N > 50: dense sand/hard clay.
+    CPT (Cone Penetration Test): continuous soil profile.
+    Vane shear test: in-situ undrained shear strength of soft clay.
+    Plate load test: bearing capacity and settlement of soil.
+##END##
+
+#TOPIC=civil
+#KEYS=concrete grades M30 M35 M40 high strength special
+High Strength and Special Concrete:
+  HIGH PERFORMANCE CONCRETE (HPC):
+    Compressive strength > 60 MPa. Low w/c ratio (0.25-0.35).
+    Superplasticizer + silica fume + reduced water content.
+    Used for: high-rise columns, bridge decks, parking structures.
+  SELF COMPACTING CONCRETE (SCC):
+    Flows and consolidates under its own weight. No vibration needed.
+    Requires superplasticizer + viscosity-modifying admixture.
+    Used for: congested reinforcement, complex formwork.
+  LIGHTWEIGHT CONCRETE:
+    Density < 1840 kg/m^3. Uses lightweight aggregates (pumice, LECA).
+    Thermal insulation; used for roof slabs, partitions.
+  FIBRE REINFORCED CONCRETE (FRC):
+    Steel, polypropylene, glass, or carbon fibres added.
+    Improves tensile strength, ductility, crack control.
+  MASS CONCRETE:
+    Large volume pours (dams, raft foundations).
+    Low heat cement (LHC) or PPC + cooling measures to control
+    temperature differential (max 20 deg C between surface and core).
+##END##
+
+#TOPIC=civil
+#KEYS=terzaghi bearing capacity soil failure shear
+Bearing Capacity of Soil:
+  Bearing capacity = ability of soil to support loads from a foundation
+  without shear failure or excessive settlement.
+  Ultimate bearing capacity (qu): load per unit area causing shear failure.
+  Safe bearing capacity (qs) = qu / FOS. FOS = 3 for footings.
+  TERZAGHI'S BEARING CAPACITY EQUATION (general shear failure):
+    qu = c*Nc + q*Nq + 0.5*gamma*B*Ngamma
+    where c = cohesion, q = surcharge, B = width, Nc,Nq,Ngamma = bearing
+    capacity factors depending on angle of internal friction (phi).
+  Types of failure (Vesic classification):
+    1. General shear failure: dense sand/stiff clay; sudden collapse.
+    2. Local shear failure: medium dense sand/medium clay; gradual.
+    3. Punching shear failure: loose sand/soft clay; vertical settlement.
+  Plate load test (IS 1888): determines bearing capacity and settlement in-situ.
+##END##
+
+#TOPIC=civil
+#KEYS=cement concrete test compression strength cube cylinder
+Compressive Strength Test of Concrete (IS 516):
+  Purpose: determine 28-day compressive strength (fck).
+  Specimens: 150mm x 150mm x 150mm cube (IS) or 150mm dia x 300mm cylinder (ACI).
+  Curing: 24 hrs in mould, then 27 days in water at 27+/-2 deg C.
+  Testing: compression testing machine (CTM); load applied at 140 kg/cm^2/min.
+  Compressive strength = Load at failure / cross-sectional area.
+  Characteristic strength (fck): strength below which not more than 5%
+  of results are expected to fall (95th percentile for acceptance).
+  Acceptance criteria (IS 456):
+    Mean of any group of 4 consecutive samples >= fck + 0.825 * s
+    Any individual sample >= fck - 3 N/mm^2.
+  Conversion: Cylinder strength ~ 0.8 x Cube strength.
+  7-day strength ~ 65% of 28-day strength.
+##END##
+
+#TOPIC=civil
+#KEYS=earthquake seismic zone IS 1893 ductility
+Earthquake Resistant Design (IS 1893):
+  Seismic zones in India (IS 1893:2016): Zone II (low), III (moderate),
+  IV (high), V (very high/severe). Zone V: NE India, J&K, Himachal Pradesh.
+  Design base shear: Vb = Ah * W
+    Ah = design horizontal acceleration = Z * I * Sa / (2 * R * g)
+    Z = zone factor, I = importance factor, R = response reduction factor.
+  Ductility: ability to undergo large inelastic deformations without collapse.
+  Ductile detailing (IS 13920): special reinforcement in beams, columns,
+  joints to ensure ductile failure mode. Mandatory in zones III, IV, V.
+  Soft storey: storey with stiffness < 70% of storey above; very vulnerable.
+  Short column effect: columns restrained by partial infill walls; dangerous.
+  Shear walls: most effective lateral load resisting system.
+  Base isolation: pads isolate structure from ground motion (rubber bearings).
+##END##
+
+#TOPIC=physics
+#KEYS=archimedes principle buoyancy upthrust
+Archimedes' Principle:
+  When a body is partially or fully submerged in a fluid, it experiences
+  an upward buoyant force equal to the weight of fluid displaced.
+  Buoyant force (Fb) = rho_fluid * V_submerged * g
+  Conditions:
+    If Fb > Weight of body: body FLOATS (less dense than fluid).
+    If Fb = Weight of body: body is in neutral equilibrium (suspended).
+    If Fb < Weight of body: body SINKS.
+  Law of flotation: a floating body displaces fluid equal to its own WEIGHT.
+  Applications: ship design, hot air balloons, submarines, hydrometers.
+  Relative density (specific gravity) = density of substance / density of water.
+##END##
+
+#TOPIC=physics
+#KEYS=bernoulli theorem principle fluid flow pressure velocity
+Bernoulli's Theorem (Principle):
+  For a steady, incompressible, non-viscous fluid flowing along a streamline:
+  P + (1/2)*rho*v^2 + rho*g*h = constant
+  P = pressure, v = velocity, h = height, rho = density.
+  Meaning: as fluid velocity increases, pressure decreases (and vice versa).
+  Applications:
+    Venturimeter: measures flow rate; velocity increases in throat -> pressure drop.
+    Aerofoil/aircraft wing: faster flow over curved top -> lower pressure -> lift.
+    Spray gun/atomizer: fast air stream creates low pressure; liquid drawn up.
+    Pitot tube: measures fluid velocity by comparing static and stagnation pressure.
+  Limitations: does not apply to viscous fluids, compressible gases at high speeds,
+  or turbulent flow.
+##END##
+
+#TOPIC=physics
+#KEYS=faraday law electromagnetic induction EMF
+Faraday's Laws of Electromagnetic Induction:
+  First Law: whenever the magnetic flux through a coil changes, an EMF
+  (electromotive force) is induced in the coil.
+  Second Law: the magnitude of induced EMF is proportional to the rate of
+  change of magnetic flux.
+  EMF = -N * d(phi)/dt
+  N = number of turns, phi = magnetic flux = B * A * cos(theta).
+  Negative sign: Lenz's Law (induced current opposes the change in flux).
+  Applications: electric generators, transformers, induction motors,
+  dynamic microphones, inductive sensors.
+  Mutual induction: EMF induced in coil B due to changing current in coil A.
+  Self-induction: EMF induced in coil due to its own changing current.
+  Self-inductance L: EMF = -L * dI/dt [Henry].
+##END##
+
+#TOPIC=physics
+#KEYS=pascals law hydraulic pressure fluid
+Pascal's Law:
+  Pressure applied to an enclosed fluid is transmitted equally and
+  undiminished to every part of the fluid and the walls of the container.
+  P = F/A. Pressure at depth h: P = rho*g*h.
+  Hydraulic systems (Pascal's principle):
+    F2/F1 = A2/A1 (force multiplied proportional to area ratio).
+  Applications:
+    Hydraulic jack / hydraulic press: small force on small piston
+    creates large force on large piston.
+    Hydraulic brakes: uniform braking pressure applied to all wheels.
+    Hydraulic lift: used in workshops to lift vehicles.
+    Hydraulic clutch, power steering.
+  Atmospheric pressure: 101325 Pa = 1 atm = 760 mmHg = 1.013 bar.
+##END##
+
+#TOPIC=physics
+#KEYS=electromagnetic spectrum radio microwave infrared UV X-ray gamma
+Electromagnetic Spectrum:
+  EM waves are transverse waves; travel at c = 3x10^8 m/s in vacuum.
+  In order of increasing frequency (decreasing wavelength):
+  1. Radio waves:     f < 3GHz.    Wavelength > 1mm.   Radio/TV transmission.
+  2. Microwaves:      3GHz-300GHz. Radar, microwave oven, satellite communication.
+  3. Infrared (IR):   300GHz-430THz. Heat radiation, TV remotes, night vision.
+  4. Visible light:   430THz-770THz. 400nm(violet) to 700nm(red).
+     ROYGBIV: Red, Orange, Yellow, Green, Blue, Indigo, Violet.
+  5. Ultraviolet (UV): 770THz-30PHz. Causes sunburn, sterilization, fluorescence.
+  6. X-rays:          30PHz-30EHz. Medical imaging, security scanners.
+  7. Gamma rays:      f > 30EHz. Shortest wavelength; nuclear reactions, cancer treatment.
+  Energy: E = hf (h = 6.626x10^-34 J*s, Planck's constant).
+  All travel at speed of light; differ only in frequency and wavelength.
+##END##
+
+#TOPIC=physics
+#KEYS=photoelectric effect Einstein photon work function
+Photoelectric Effect:
+  When light (photons) of sufficient frequency strikes a metal surface,
+  electrons are emitted from the surface.
+  Einstein's explanation (1905, Nobel Prize): light consists of photons.
+  Energy of photon: E = hf (h = Planck's constant, f = frequency).
+  Work function (phi_0): minimum energy needed to eject an electron from the surface.
+  Threshold frequency: f_0 = phi_0 / h. Below this, no emission regardless of intensity.
+  Einstein's equation: KE_max = hf - phi_0
+  Observations:
+    - No emission below threshold frequency, even with high intensity.
+    - Above threshold: emission is instantaneous.
+    - Increasing intensity increases number of photons (current), NOT their energy.
+    - Increasing frequency increases kinetic energy of emitted electrons.
+  Application: solar cells, photodiodes, CCD cameras, photomultiplier tubes.
+##END##
+
+#TOPIC=physics
+#KEYS=Lenz law magnetic induction direction oppose
+Lenz's Law:
+  The direction of the induced current (or EMF) is always such that it
+  opposes the change in magnetic flux that caused it.
+  This is the negative sign in Faraday's law: EMF = -N * d(phi)/dt.
+  Consequence: induced current creates a magnetic field that:
+    - Opposes increase in flux (when flux increases, induced B opposes external B).
+    - Opposes decrease in flux (when flux decreases, induced B tries to maintain it).
+  Lenz's law is a statement of conservation of energy: work must be done
+  against the opposing force to maintain the flux change.
+  Application: eddy current braking in trains and roller coasters,
+  electromagnetic damping in galvanometers, induction cookers.
+##END##
+
+#TOPIC=maths
+#KEYS=differential equations types ordinary partial order degree
+Differential Equations:
+  An equation involving derivatives of an unknown function.
+  ORDER: highest derivative present. DEGREE: power of highest derivative.
+  ORDINARY DE (ODE): one independent variable. Example: dy/dx + y = x.
+  PARTIAL DE (PDE): two or more independent variables. Example: del^2u/delx^2 = 0.
+  Types of ODE:
+    1. Separable: variables can be separated: f(y)dy = g(x)dx. Integrate both sides.
+    2. Linear 1st order: dy/dx + P(x)y = Q(x). Solved by integrating factor e^(INT P dx).
+    3. Homogeneous: substitute y = vx.
+    4. Exact: M dx + N dy = 0 where delM/dely = delN/delx.
+    5. Linear 2nd order with constant coefficients: ay'' + by' + cy = f(x).
+       Complementary function (CF) + Particular integral (PI).
+  Characteristic equation: am^2 + bm + c = 0.
+  Roots real distinct -> CF = Ae^(m1x) + Be^(m2x).
+  Roots complex (alpha+/-i*beta) -> CF = e^(alpha*x)(A cos beta*x + B sin beta*x).
+##END##
+
+#TOPIC=maths
+#KEYS=complex numbers imaginary argand modulus argument
+Complex Numbers:
+  A complex number: z = a + ib, where i = sqrt(-1), i^2 = -1.
+  a = real part (Re), b = imaginary part (Im).
+  OPERATIONS:
+    Addition: (a+ib) + (c+id) = (a+c) + i(b+d).
+    Multiplication: (a+ib)(c+id) = (ac-bd) + i(ad+bc).
+    Division: multiply numerator and denominator by conjugate (a-ib).
+  Modulus: |z| = sqrt(a^2 + b^2). Argument: theta = arctan(b/a).
+  Polar form: z = r(cos theta + i sin theta) = r * e^(i*theta)  [Euler's form].
+  De Moivre's Theorem: z^n = r^n * (cos(n*theta) + i sin(n*theta)).
+  Conjugate: z_bar = a - ib. |z|^2 = z * z_bar.
+  Euler's Identity: e^(i*pi) + 1 = 0 (often called the most beautiful equation).
+  Applications: AC circuit analysis, signal processing, control systems, quantum mechanics.
+##END##
+
+#TOPIC=maths
+#KEYS=fourier series transform periodic signal harmonics
+Fourier Series:
+  Any periodic function f(x) of period 2L can be expressed as an
+  infinite sum of sines and cosines:
+  f(x) = a0/2 + SUM[n=1 to inf] (an*cos(n*pi*x/L) + bn*sin(n*pi*x/L))
+  Coefficients: a0 = (1/L)*INT[-L to L] f(x)dx
+                an = (1/L)*INT[-L to L] f(x)*cos(n*pi*x/L)dx
+                bn = (1/L)*INT[-L to L] f(x)*sin(n*pi*x/L)dx
+  Dirichlet conditions: function must be periodic, bounded, piecewise continuous.
+  FOURIER TRANSFORM (for non-periodic signals):
+  F(omega) = INT[-inf to inf] f(t) * e^(-i*omega*t) dt
+  Converts signal from time domain to frequency domain.
+  Applications: signal processing, image compression (JPEG), audio processing,
+  solving PDEs, vibration analysis.
+##END##
+
+#TOPIC=maths
+#KEYS=numerical methods Euler Runge-Kutta Newton Raphson bisection
+Numerical Methods:
+  Methods to find approximate solutions to mathematical problems computationally.
+  ROOT FINDING:
+    Bisection method: repeatedly halves interval containing root; always converges.
+    Newton-Raphson: x_{n+1} = x_n - f(x_n)/f'(x_n); quadratic convergence; fast.
+    Secant method: like Newton-Raphson but uses finite difference for derivative.
+  INTERPOLATION:
+    Newton's forward/backward interpolation, Lagrange interpolation.
+  NUMERICAL INTEGRATION:
+    Trapezoidal rule: INT approx (h/2)(y0+2y1+...+2y_{n-1}+yn). Error O(h^2).
+    Simpson's 1/3 rule: groups of 2 intervals; error O(h^4); more accurate.
+    Simpson's 3/8 rule: groups of 3 intervals.
+  SOLVING ODEs:
+    Euler's method: y_{n+1} = y_n + h*f(x_n, y_n). Simple; first-order error.
+    Runge-Kutta 4th order (RK4): 4 slope evaluations per step; very accurate.
+    RK4: y_{n+1} = y_n + (h/6)(k1 + 2k2 + 2k3 + k4).
+##END##
+
+#TOPIC=maths
+#KEYS=linear programming simplex method LPP objective constraint
+Linear Programming (LPP):
+  Optimization of a LINEAR objective function subject to LINEAR constraints.
+  Standard form: Maximize/Minimize Z = c1*x1 + c2*x2 + ... + cn*xn
+  Subject to: a11*x1 + a12*x2 + ... <= b1 (constraints), xi >= 0.
+  GRAPHICAL METHOD (2 variables):
+    1. Plot constraint lines. 2. Identify feasible region (convex polygon).
+    3. Optimal solution at a corner (vertex) of feasible region.
+  SIMPLEX METHOD (multiple variables):
+    Converts to standard form using slack/surplus/artificial variables.
+    Moves along edges of feasible polytope to reach optimal corner.
+  Key concepts:
+    Feasible solution: satisfies all constraints.
+    Optimal solution: best feasible solution (min or max of objective).
+    Degenerate solution: basic feasible solution with a zero basic variable.
+    Unbounded solution: objective can increase/decrease indefinitely.
+    Infeasible: no solution satisfies all constraints.
+  Applications: production planning, diet problem, transportation, scheduling.
+##END##
+
+#TOPIC=maths
+#KEYS=graph theory vertices edges connectivity path cycle
+Graph Theory:
+  A graph G = (V, E) consists of vertices (V) connected by edges (E).
+  Types of graphs:
+    Directed (digraph): edges have direction (arrows).
+    Undirected: edges have no direction.
+    Weighted: edges have weights/costs.
+  Key terms:
+    Degree of vertex: number of edges connected to it.
+    Path: sequence of vertices connected by edges (no repeated vertices).
+    Cycle: closed path (starts and ends at same vertex).
+    Connected graph: path exists between every pair of vertices.
+    Tree: connected graph with no cycles; n vertices, n-1 edges.
+  Important algorithms:
+    BFS (Breadth-First Search): visits level by level; finds shortest path.
+    DFS (Depth-First Search): visits as deep as possible first.
+    Dijkstra's: shortest path in weighted graph (non-negative weights).
+    Prim's / Kruskal's: minimum spanning tree.
+    Euler path: visits every EDGE exactly once.
+    Hamiltonian path: visits every VERTEX exactly once.
+##END##
+
+#TOPIC=ai
+#KEYS=transfer learning fine tuning pre-trained model
+Transfer Learning:
+  Using knowledge gained from training one model on one task (source domain)
+  and applying it to a different but related task (target domain).
+  WHY: training deep models from scratch requires huge data and computation.
+  HOW:
+    1. Take a pre-trained model (e.g., VGG, ResNet, BERT, GPT).
+    2. Freeze early layers (they capture generic features: edges, textures).
+    3. Fine-tune last layers on new task-specific data.
+  Types:
+    Feature extraction: frozen pre-trained layers + new classifier on top.
+    Fine-tuning: unfreeze some or all layers; retrain with small learning rate.
+    Domain adaptation: source and target domains are different.
+  Examples:
+    ImageNet pre-trained ResNet -> medical image classification.
+    BERT pre-trained on Wikipedia -> sentiment analysis/NER.
+  Advantage: works with small datasets; saves training time; better accuracy.
+##END##
+
+#TOPIC=ai
+#KEYS=precision recall F1 score evaluation metrics confusion matrix
+Model Evaluation Metrics:
+  CONFUSION MATRIX (binary classification):
+    TP=True Positive, TN=True Negative, FP=False Positive, FN=False Negative.
+  ACCURACY:  (TP+TN) / (TP+TN+FP+FN). Misleading for imbalanced classes.
+  PRECISION: TP / (TP+FP). Of predicted positives, how many are correct?
+             "How precise is the model when it predicts positive?"
+  RECALL (Sensitivity): TP / (TP+FN). Of actual positives, how many found?
+             "How many actual positives did the model find?"
+  F1 SCORE:  2*(Precision*Recall)/(Precision+Recall). Harmonic mean.
+             Used when both precision and recall matter equally.
+  Specificity: TN / (TN+FP).
+  ROC Curve: plot of TPR vs FPR at different thresholds.
+  AUC (Area Under ROC Curve): 1.0 = perfect, 0.5 = random.
+  For multi-class: Macro-average (equal weight per class), Micro-average.
+  When to use:
+    Precision: spam detection (don't want false alarms).
+    Recall: cancer detection (don't miss any positives).
+    F1: information retrieval, NLP tasks.
+##END##
+
+#TOPIC=ai
+#KEYS=transformer attention mechanism BERT GPT NLP
+Transformer and Attention Mechanism:
+  Introduced in "Attention is All You Need" (Vaswani et al., 2017).
+  Replaces RNN with self-attention; parallelizable; state-of-the-art NLP.
+  SELF-ATTENTION:
+    Each token attends to all other tokens in the sequence.
+    Computes Query (Q), Key (K), Value (V) matrices.
+    Attention(Q,K,V) = softmax(QK^T / sqrt(dk)) * V
+  MULTI-HEAD ATTENTION: run self-attention h times in parallel; concatenate.
+  POSITIONAL ENCODING: adds position information (since no recurrence).
+  ENCODER-DECODER structure:
+    Encoder: processes input sequence (BERT uses encoder only).
+    Decoder: generates output sequence (GPT uses decoder only).
+  Notable models:
+    BERT: bidirectional encoder; masked language modeling; used for classification.
+    GPT: decoder-only; causal language modeling; text generation.
+    T5, BART: encoder-decoder; seq2seq tasks (translation, summarization).
+  Applications: machine translation, Q&A, text generation, code generation.
+##END##
+
+#TOPIC=ai
+#KEYS=PCA dimensionality reduction principal component analysis
+Principal Component Analysis (PCA):
+  Unsupervised technique to reduce dimensionality of data by finding
+  directions (principal components) of maximum variance.
+  STEPS:
+    1. Standardize data (zero mean, unit variance).
+    2. Compute covariance matrix.
+    3. Compute eigenvectors and eigenvalues of covariance matrix.
+    4. Sort eigenvectors by eigenvalue (descending).
+    5. Select top k eigenvectors as principal components.
+    6. Project data onto k-dimensional subspace.
+  Principal components are ORTHOGONAL to each other.
+  Explained variance ratio: how much variance each component captures.
+  Scree plot: plot eigenvalues; look for 'elbow' to choose k.
+  USES:
+    Data visualization (reduce to 2D/3D for plotting).
+    Noise reduction. Speed up ML algorithms. Image compression.
+  Limitation: only captures LINEAR relationships. For non-linear use t-SNE or UMAP.
+##END##
+
+#TOPIC=ai
+#KEYS=recurrent neural network LSTM vanishing gradient sequence
+RNN and LSTM:
+  RNN (Recurrent Neural Network):
+    Processes sequential data by maintaining a hidden state across time steps.
+    h_t = tanh(W_h * h_{t-1} + W_x * x_t + b)
+    Problem: VANISHING GRADIENT - gradients shrink exponentially over long sequences;
+    can't learn long-term dependencies.
+  LSTM (Long Short-Term Memory) - Hochreiter & Schmidhuber 1997:
+    Solves vanishing gradient via GATING MECHANISM.
+    Three gates + cell state:
+      Forget gate (f): decides what to forget from cell state.
+      Input gate (i):  decides what new info to add.
+      Output gate (o): decides what to output as hidden state.
+    Cell state: long-term memory conveyor belt; gradients flow unimpeded.
+  GRU (Gated Recurrent Unit): simplified LSTM with 2 gates; faster to train.
+  Applications: time series forecasting, text generation, speech recognition,
+  machine translation (before Transformers).
+  Modern trend: Transformers largely replaced RNNs for NLP due to parallelism.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=sorting algorithms bubble selection insertion quicksort mergesort
+Sorting Algorithms in C:
+  1. BUBBLE SORT: O(n^2) avg/worst. Repeatedly swap adjacent elements.
+     for(i=0;i<n-1;i++) for(j=0;j<n-i-1;j++) if(a[j]>a[j+1]) swap.
+  2. SELECTION SORT: O(n^2). Find minimum in unsorted part; swap to front.
+  3. INSERTION SORT: O(n^2) worst; O(n) best (nearly sorted). Good for small n.
+  4. MERGE SORT: O(n log n) always. Divide-and-conquer; stable sort.
+     Split array in half, sort each half recursively, merge.
+  5. QUICK SORT: O(n log n) average; O(n^2) worst (bad pivot).
+     Pick pivot; partition: elements < pivot left, > pivot right; recurse.
+     In-place; cache-friendly; fastest in practice.
+  6. HEAP SORT: O(n log n). Build max-heap; repeatedly extract max.
+     In-place but not stable.
+  Stable sort: equal elements maintain original relative order (Merge, Insertion).
+  qsort() in stdlib.h: built-in C sorting with comparator function.
+  int cmp(const void *a, const void *b) { return (*(int*)a - *(int*)b); }
+  qsort(arr, n, sizeof(int), cmp);
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=function pointer callback typedef C
+Function Pointers in C:
+  A pointer that stores the ADDRESS of a function.
+  Declaration: return_type (*ptr_name)(parameter_types);
+  Example:
+    int (*fptr)(int, int);
+    int add(int a, int b) { return a+b; }
+    fptr = add;       // assign
+    int res = fptr(3, 4);  // call via pointer -> res = 7
+  USES:
+    Callbacks: pass function as argument to another function.
+    qsort(arr, n, sizeof(int), compare_func);
+    Dispatch tables: array of function pointers for fast switching.
+    State machines: function pointer per state.
+    Plugin systems: dynamically load and call functions.
+  typedef makes it cleaner:
+    typedef int (*MathFunc)(int, int);
+    MathFunc ops[] = {add, subtract, multiply};
+    ops[0](3,4); // calls add(3,4)
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=enum union C user defined
+Enums and Unions in C:
+  ENUM (enumeration):
+    User-defined type assigning names to integer constants.
+    enum Color { RED=0, GREEN=1, BLUE=2 };
+    enum Color c = GREEN; // c == 1
+    Default: first member = 0, each subsequent += 1.
+    Improves code readability; type-safe alternative to #define constants.
+    sizeof(enum) = sizeof(int) on most platforms.
+  UNION:
+    Like struct, but ALL members share the SAME memory location.
+    Size of union = size of LARGEST member.
+    Only one member can hold a valid value at a time.
+    union Data { int i; float f; char str[20]; };
+    // sizeof(union Data) = 20 (size of char str[20])
+    Used for: memory-efficient storage, type punning, hardware registers.
+    vs struct: struct allocates separate space for each member.
+  Bit-fields (struct with :n notation): control exact number of bits.
+    struct Flags { unsigned int read:1; unsigned int write:1; };
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=stack queue implementation C data structure
+Stack and Queue Implementation in C:
+  STACK (LIFO - Last In First Out):
+    Using array:
+      int stack[MAX]; int top = -1;
+      Push: stack[++top] = val; (check top < MAX-1)
+      Pop:  val = stack[top--];  (check top >= 0)
+      Peek: stack[top];
+    Operations: O(1). Used for: function call stack, undo, expression eval, DFS.
+  QUEUE (FIFO - First In First Out):
+    Using array (circular queue):
+      int q[MAX]; int front=0, rear=0, count=0;
+      Enqueue: q[rear] = val; rear = (rear+1)%MAX; count++;
+      Dequeue: val = q[front]; front = (front+1)%MAX; count--;
+    Using linked list: no size limit; dynamic.
+    Operations: O(1). Used for: BFS, scheduling, print queues, buffers.
+  DEQUE (Double-ended queue): insert/delete at both ends.
+  PRIORITY QUEUE: element with highest priority dequeued first (use heap).
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=binary search algorithm C O(log n)
+Binary Search in C:
+  Searches a SORTED array for target in O(log n) time.
+  Algorithm:
+    1. Set low=0, high=n-1.
+    2. While low <= high:
+       mid = (low + high) / 2;
+       if arr[mid] == target: FOUND, return mid.
+       if arr[mid] < target:  low = mid + 1 (search right half).
+       if arr[mid] > target:  high = mid - 1 (search left half).
+    3. Return -1 if not found.
+  Code:
+    int binary_search(int arr[], int n, int target) {
+        int low=0, high=n-1;
+        while(low<=high) {
+            int mid = low + (high-low)/2; // avoids overflow vs (low+high)/2
+            if(arr[mid]==target) return mid;
+            else if(arr[mid]<target) low=mid+1;
+            else high=mid-1;
+        }
+        return -1;
+    }
+  Vs linear search: Binary=O(log n), Linear=O(n). Binary requires sorted array.
+  Recursive variant: same logic, passing low/high as parameters.
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=header guard include preprocessor double inclusion
+Header Guards and Include Guards in C:
+  Prevent a header file from being included multiple times in the same
+  translation unit (which would cause duplicate declaration errors).
+  Method 1 - Traditional ifndef guard:
+    #ifndef MYHEADER_H
+    #define MYHEADER_H
+    // ... header contents ...
+    #endif
+  Method 2 - #pragma once (non-standard but supported by all major compilers):
+    #pragma once
+    // ... header contents ...
+  WHY NEEDED: if A.h includes B.h, and main.c includes both A.h and B.h,
+  then B.h would be included twice without guards.
+  Best practice: Every header file should have include guards.
+  Naming convention: use filename in UPPERCASE with underscores: FILENAME_H.
+  Circular includes: A.h includes B.h and B.h includes A.h -> use forward
+  declarations instead of including headers to break the cycle.
+##END##
+
+#TOPIC=chemistry
+#KEYS=hybridization sp sp2 sp3 orbital bond angle
+Hybridization in Chemistry:
+  Mixing of atomic orbitals to form new hybrid orbitals for bonding.
+  SP HYBRIDIZATION (linear, 180 deg):
+    1 s + 1 p orbital -> 2 sp hybrid orbitals. 2 unhybridized p orbitals.
+    Bond angle: 180 deg. Example: BeCl2, CO2, C2H2 (acetylene, triple bond).
+  SP2 HYBRIDIZATION (trigonal planar, 120 deg):
+    1 s + 2 p -> 3 sp2 orbitals. 1 unhybridized p orbital -> pi bond.
+    Bond angle: 120 deg. Example: BF3, C2H4 (ethylene, double bond), graphite.
+  SP3 HYBRIDIZATION (tetrahedral, 109.5 deg):
+    1 s + 3 p -> 4 sp3 orbitals.
+    Bond angle: 109.5 deg. Example: CH4 (methane), NH3 (107 deg, lone pair), H2O (104.5 deg).
+  SP3D HYBRIDIZATION: trigonal bipyramidal; 90 and 120 deg. Example: PCl5.
+  SP3D2 HYBRIDIZATION: octahedral; 90 deg. Example: SF6.
+  Sigma bond (head-on overlap): stronger; rotation possible.
+  Pi bond (lateral overlap): weaker; restricts rotation.
+##END##
+
+#TOPIC=chemistry
+#KEYS=nuclear chemistry radioactivity alpha beta gamma decay half life
+Nuclear Chemistry and Radioactivity:
+  Radioactivity: spontaneous emission of particles/energy from unstable nuclei.
+  Types of decay:
+    Alpha (alpha) decay: emits He-4 nucleus (2p + 2n). Short range in air (~5cm).
+      A decreases by 4, Z decreases by 2.
+    Beta (beta-) decay: neutron -> proton + electron + antineutrino.
+      A unchanged, Z increases by 1.
+    Beta+ decay: proton -> neutron + positron + neutrino. Z decreases by 1.
+    Gamma decay: emission of high-energy photon; no change in A or Z.
+      Most penetrating; requires lead shielding.
+    Electron capture: nucleus absorbs inner electron. Z decreases by 1.
+  Half-life (t1/2): time for half of a sample to decay.
+    N(t) = N0 * (1/2)^(t/t1/2) = N0 * e^(-lambda*t)
+    lambda = decay constant = 0.693 / t1/2.
+  Carbon-14 dating: t1/2 = 5730 years; dates organic material up to ~50,000 years.
+  Nuclear stability: N/Z ratio; stable band; heavy nuclei need more neutrons.
+##END##
+
+#TOPIC=chemistry
+#KEYS=colligative properties boiling point elevation freezing depression osmosis
+Colligative Properties of Solutions:
+  Properties that depend on NUMBER of solute particles, NOT their identity.
+  1. VAPOUR PRESSURE LOWERING:
+     Raoult's Law: P_solution = X_solvent * P_solvent (pure)
+     Delta_P = X_solute * P_solvent (pure)
+  2. BOILING POINT ELEVATION:
+     Delta_Tb = Kb * m * i
+     Kb = ebullioscopic constant (water: 0.512 K*kg/mol)
+     m = molality, i = van't Hoff factor (ions formed in solution).
+  3. FREEZING POINT DEPRESSION:
+     Delta_Tf = Kf * m * i
+     Kf = cryoscopic constant (water: 1.86 K*kg/mol).
+     Application: antifreeze in cars (ethylene glycol), salting roads in winter.
+  4. OSMOTIC PRESSURE:
+     Pi = i * M * R * T  (M = molarity, R = 0.0821 L*atm/mol*K, T = Kelvin)
+     Osmosis: solvent moves through semipermeable membrane from low to high concentration.
+     Applications: desalination (reverse osmosis), IV fluids (isotonic saline).
+  Van't Hoff factor i: NaCl -> i=2, CaCl2 -> i=3, glucose -> i=1.
+##END##
+
+#TOPIC=chemistry
+#KEYS=electronegativity polarity bond dipole moment
+Electronegativity and Bond Polarity:
+  Electronegativity: tendency of an atom to attract bonding electrons toward itself.
+  Scale: Pauling scale. F (3.98) > O (3.44) > N (3.04) > Cl (3.16) > C (2.55) > H (2.20).
+  POLAR COVALENT BOND: unequal sharing when electronegativity difference (delta EN) > 0.4.
+    Creates partial charges: delta+ on less electronegative, delta- on more electronegative.
+    Example: H-Cl (delta EN = 0.96); H-F (delta EN = 1.78).
+  NONPOLAR COVALENT: delta EN < 0.4. Equal sharing. Example: H-H, C-C.
+  IONIC BOND: delta EN > 1.7 (full electron transfer). Example: Na-Cl (2.23).
+  DIPOLE MOMENT (mu): mu = q * d [Debye]. Vector from + to -.
+    Molecule polarity: depends on both bond polarity AND molecular geometry.
+    CO2: polar bonds but linear geometry -> dipole moments cancel -> nonpolar molecule.
+    H2O: polar bonds + bent geometry -> net dipole moment -> polar molecule.
+  Applications: predicts solubility ("like dissolves like"), boiling point,
+  intermolecular forces, reactivity.
+##END##
+
+#TOPIC=chemistry
+#KEYS=equilibrium Le Chatelier Kc Kp reversible reaction
+Chemical Equilibrium and Le Chatelier's Principle:
+  Reversible reaction reaches equilibrium when forward rate = reverse rate.
+  Equilibrium constant Kc (at constant T):
+    aA + bB <-> cC + dD: Kc = [C]^c[D]^d / ([A]^a[B]^b)
+    Kc > 1: products favoured; Kc < 1: reactants favoured.
+  Kp = Kc * (RT)^(delta_n)  where delta_n = moles of gas products - reactants.
+  LE CHATELIER'S PRINCIPLE:
+    When a system at equilibrium is disturbed, it shifts to oppose the change.
+    Increase concentration of reactant -> equilibrium shifts RIGHT (more products).
+    Increase pressure -> shifts toward side with fewer moles of gas.
+    Increase temperature -> shifts toward endothermic side (absorbs heat).
+    Catalyst: increases rate of both forward and reverse reactions equally;
+    does NOT change equilibrium position or Kc, only time to reach equilibrium.
+  Reaction quotient Q: same form as Kc; if Q < Kc -> shifts right; if Q > Kc -> shifts left.
+##END##
+
+#TOPIC=electronics
+#KEYS=microcontroller microprocessor difference Arduino embedded
+Microcontroller vs Microprocessor:
+  MICROPROCESSOR (MPU):
+    CPU only; no built-in RAM, ROM, I/O.
+    High performance; requires external components.
+    Examples: Intel i7, AMD Ryzen, ARM Cortex-A.
+    Used in: PCs, laptops, tablets, smartphones.
+  MICROCONTROLLER (MCU):
+    CPU + RAM + ROM/Flash + I/O peripherals ALL on one chip.
+    Low power; low cost; self-contained system.
+    Examples: ATmega328P (Arduino), PIC16F877A, STM32, ESP32.
+    Used in: embedded systems (washing machines, microwaves, IoT devices).
+  Key MCU peripherals: GPIO, ADC, DAC, UART, SPI, I2C, PWM, Timers, Watchdog.
+  Arduino: AVR MCU + bootloader + IDE + community libraries.
+  ARM Cortex-M: most popular 32-bit MCU core (STM32, LPC, Kinetis).
+  Difference in one line: MCU = complete computer on a chip; MPU = CPU only.
+##END##
+
+#TOPIC=electronics
+#KEYS=ADC DAC analog digital conversion sampling resolution
+ADC and DAC:
+  ADC (Analog-to-Digital Converter):
+    Converts analog (continuous) signal to digital (discrete) values.
+    Key parameters:
+      Resolution: n-bit ADC -> 2^n quantization levels. 8-bit=256, 12-bit=4096.
+      Sampling rate: samples per second [samples/s or SPS]. Must satisfy
+        Nyquist criterion: fs >= 2 * f_max (signal bandwidth).
+      Quantization error: max +/- 0.5 LSB (half the least significant bit).
+    Types: Successive Approximation (SAR), Flash (fastest), Sigma-Delta (most accurate), Dual-slope.
+    Applications: microphone, sensor digitization, oscilloscope.
+  DAC (Digital-to-Analog Converter):
+    Converts digital values back to analog signals.
+    Key parameters: Resolution (n-bit), settling time, output range.
+    Types: R-2R ladder, Binary-weighted, Sigma-Delta.
+    Applications: audio output (speakers), signal generation, motor control.
+  Example: ESP32 has 12-bit ADC (4096 levels, 0-3.3V) and 8-bit DAC.
+##END##
+
+#TOPIC=electronics
+#KEYS=communication protocol UART SPI I2C serial
+Serial Communication Protocols:
+  UART (Universal Asynchronous Receiver-Transmitter):
+    Asynchronous (no shared clock); uses start and stop bits.
+    Two wires: TX and RX. Full duplex.
+    Common baud rates: 9600, 115200. Used for: PC-MCU debug, GPS, Bluetooth.
+  SPI (Serial Peripheral Interface):
+    Synchronous; master-slave; 4 wires: SCLK, MOSI, MISO, CS (chip select).
+    Full duplex. Very fast (up to tens of MHz).
+    Multiple slaves using separate CS lines.
+    Used for: SD cards, displays, ADCs, Flash memory.
+  I2C (Inter-Integrated Circuit / TWI):
+    Synchronous; 2 wires only: SDA (data) and SCL (clock).
+    Multi-master, multi-slave; each device has 7-bit address.
+    Slower than SPI (100kHz standard, 400kHz fast, 3.4MHz high speed).
+    Used for: EEPROM, RTC, temperature sensors, OLED displays.
+  CAN (Controller Area Network): used in automotive; robust, differential signaling.
+  Comparison:
+    UART: simple, 2-wire, point-to-point.
+    SPI: fast, 4-wire, one master.
+    I2C: only 2 wires, multiple devices, moderate speed.
+##END##
+
+#TOPIC=electronics
+#KEYS=PWM pulse width modulation duty cycle motor control
+PWM (Pulse Width Modulation):
+  A technique of encoding an analog signal as a digital square wave
+  by varying the pulse width (duty cycle).
+  Duty cycle = (ON time / Total period) x 100%
+    0% duty cycle: always OFF (0V output average).
+    50% duty cycle: half ON, half OFF.
+    100% duty cycle: always ON (full voltage average).
+  Average voltage: V_avg = duty_cycle/100 * V_supply.
+  Generation: MCU timer comparator register vs period register.
+  APPLICATIONS:
+    Motor speed control: vary duty cycle -> vary average voltage -> vary speed.
+    LED brightness control (dimming).
+    Power supply (SMPS): DC-DC converters use PWM to regulate output.
+    Servo motor control: 50Hz PWM; 1ms pulse=0 deg, 1.5ms=90 deg, 2ms=180 deg.
+    Audio: Class D amplifiers use PWM at >100kHz.
+  Resolution: 8-bit PWM -> 256 levels; 10-bit -> 1024 levels.
+  Frequency selection: high enough to avoid flicker/audible noise; low enough for MCU.
+##END##
+
+#TOPIC=electronics
+#KEYS=Zener diode voltage regulator breakdown
+Zener Diode and Voltage Regulation:
+  A diode designed to operate in REVERSE BREAKDOWN region reliably.
+  Zener breakdown: occurs at low reverse voltages (< 5V) due to quantum tunneling.
+  Avalanche breakdown: at higher voltages due to impact ionization.
+  In breakdown, voltage across Zener stays CONSTANT (Vz) despite varying current.
+  VOLTAGE REGULATOR CIRCUIT:
+    Vin (unregulated) -> series resistor Rs -> Zener in parallel with load.
+    Rs = (Vin - Vz) / (Iz + IL)
+    Output voltage = Vz (regulated). Works as long as Iz > Iz_min.
+  Zener characteristics:
+    Vz: zener voltage (e.g., 3.3V, 5.1V, 6.2V, 12V).
+    Power rating: Pz_max = Vz * Iz_max. Must not exceed this.
+  Applications:
+    Voltage reference circuits.
+    Over-voltage protection (clipping circuits).
+    Level shifting, waveform clipping.
+  Modern alternative: LM7805, LM317 IC regulators for higher current.
+##END##
+
+#TOPIC=electronics
+#KEYS=power supply SMPS linear regulator transformer rectifier filter
+Power Supply Design:
+  LINEAR POWER SUPPLY:
+    Transformer (step-down AC) -> Rectifier (AC to pulsating DC) ->
+    Filter capacitor (smooth DC) -> Linear regulator (regulate voltage).
+    Linear regulator (e.g., 7805): dissipates excess as heat. Efficiency ~30-50%.
+    Advantages: simple, low noise, low ripple.
+    Disadvantages: poor efficiency, generates heat, heavy transformer.
+  SMPS (Switched Mode Power Supply):
+    Input AC -> Rectifier -> High frequency switching (100kHz-MHz) ->
+    Transformer (small, high-freq) -> Rectifier -> Filter -> Output.
+    Efficiency: 80-95%. Compact, lightweight.
+    Types: Buck (step-down), Boost (step-up), Buck-boost, Flyback, Forward.
+    Disadvantages: generates EMI (electromagnetic interference), more complex.
+    Used in: mobile chargers, laptop adapters, PC power supplies.
+  Ripple: AC component remaining in DC output. Measured in mV peak-to-peak.
+  Ripple factor = Vrms_ripple / Vdc_output. Lower is better.
+##END##
+
+#TOPIC=maths
+#UNIT=3
+#KEYS=line integral work done scalar vector field curve path
+Line Integral:
+  A line integral evaluates a function along a curve (path) in space.
+  SCALAR line integral: integral of f(x,y,z) ds along curve C.
+    ds = arc length element = sqrt((dx)^2+(dy)^2+(dz)^2)
+  VECTOR line integral (work integral):
+    W = integral_C F.dr = integral_C (P dx + Q dy + R dz)
+    where F = Pi + Qj + Rk is a vector field, dr = dx i + dy j + dz k
+  Physical meaning: total work done by force field F moving a particle along C.
+  If C is closed curve: written as contour integral (closed loop).
+  Evaluation: parametrize curve (x=x(t), y=y(t)) and substitute.
+  Example: F=xi+yj, C: x=t, y=t^2, t:0->1
+    W = integral_0^1 (t*1 + t^2*2t) dt = integral_0^1 (t + 2t^3) dt = 1
+##END##
+
+#TOPIC=maths
+#UNIT=3
+#KEYS=green theorem line integral double integral curl circulation
+Green's Theorem:
+  Relates a line integral around a CLOSED curve C to a double integral
+  over the region D enclosed by C.
+  Statement: oint_C (P dx + Q dy) = iint_D (dQ/dx - dP/dy) dA
+  Conditions: C is a simple, closed, positively oriented (counterclockwise)
+    curve; P, Q have continuous partial derivatives in D.
+  Physical meaning: circulation of vector field around C = net curl over D.
+  APPLICATIONS:
+    1. Compute area of region D:
+       A = (1/2) oint_C (x dy - y dx)
+    2. Convert difficult line integrals to easier double integrals.
+    3. Verify whether a field is conservative: if dQ/dx = dP/dy throughout D,
+       then oint_C F.dr = 0 (irrotational field).
+##END##
+
+#TOPIC=maths
+#UNIT=3
+#KEYS=surface integral flux normal vector parametric
+Surface Integral:
+  Integral of a function or vector field over a 2D surface S in 3D space.
+  SCALAR surface integral: iint_S f(x,y,z) dS
+    dS = surface area element = |r_u x r_v| du dv (for parametric surface)
+  VECTOR surface integral (flux):
+    Flux = iint_S F.dS = iint_S F.n dS
+    where n = unit outward normal to surface S.
+  Physical meaning: total flux (flow) of vector field F through surface S.
+  Evaluation methods:
+    1. Parametric: r(u,v) = x(u,v)i + y(u,v)j + z(u,v)k
+       dS = (r_u x r_v) du dv
+    2. Explicit z=g(x,y): n dS = (-dg/dx i - dg/dy j + k) dA
+  Types: open surface (part of a plane, paraboloid) or closed surface (sphere, cube).
+##END##
+
+#TOPIC=maths
+#UNIT=3
+#KEYS=gauss divergence theorem volume integral flux closed surface
+Gauss's Divergence Theorem:
+  Relates a SURFACE integral over a closed surface S to a VOLUME integral
+  over the region V enclosed by S.
+  Statement: oiint_S F.dS = iiint_V div(F) dV = iiint_V (dP/dx+dQ/dy+dR/dz) dV
+  where F = Pi+Qj+Rk, n = outward unit normal.
+  Conditions: F has continuous first partial derivatives in V; S is closed.
+  Physical meaning: total flux out of a closed surface = total divergence inside.
+  APPLICATIONS:
+    1. Convert hard surface integrals to easier volume integrals.
+    2. Verify: sphere of radius R, F=r (position vector):
+       div(r)=3 => flux = 3*(4/3 pi R^3) = 4 pi R^3.
+    3. Used in electrostatics (Gauss's law in integral form).
+  Steps to apply:
+    1. Compute div(F) = dP/dx + dQ/dy + dR/dz.
+    2. Set up volume integral using suitable coordinates.
+    3. Evaluate integral.
+##END##
+
+#TOPIC=maths
+#UNIT=3
+#KEYS=stokes theorem curl line integral surface integral circulation
+Stokes' Theorem:
+  Relates a LINE integral around a closed curve C to a SURFACE integral
+  over any surface S bounded by C.
+  Statement: oint_C F.dr = iint_S (curl F).dS = iint_S (curl F).n dS
+  where curl F = del x F:
+    = (dR/dy-dQ/dz)i - (dR/dx-dP/dz)j + (dQ/dx-dP/dy)k
+  Conditions: C is a simple closed curve, S is any surface with boundary C,
+    F has continuous first partial derivatives.
+  Physical meaning: circulation of F around C = flux of curl(F) through S.
+  Green's theorem is a 2D special case of Stokes' theorem.
+  APPLICATIONS:
+    1. Evaluate line integrals using surface integrals (or vice versa).
+    2. If curl F = 0 everywhere, oint F.dr = 0 for all closed paths.
+  Key comparison:
+    Green's theorem: 2D (plane region)
+    Gauss's theorem: 3D (volume and closed surface)
+    Stokes' theorem: 3D (surface and its boundary curve)
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=string character array null terminated declaration c language
+Strings in C:
+  A string is a sequence of characters stored in a char array, ending
+  with a null character '\0' (ASCII 0).
+  DECLARATION:
+    char name[20];          - can hold 19 chars + '\0'
+    char city[] = "Delhi";  - compiler sets size = 6 (5 + '\0')
+    char *p = "Hello";      - pointer to string literal (read-only)
+  INITIALIZATION:
+    char s[6] = {'H','e','l','l','o','\0'};  -- element by element
+    char s[] = "Hello";                       -- string literal
+  IMPORTANT: char s[5]="Hello" is WRONG -- no room for '\0'.
+  String vs char array: a char array without '\0' is NOT a valid string.
+  Memory: "Hello" stored as H,e,l,l,o,\0 -- occupies 6 bytes.
+  String constant (literal) is stored in read-only memory segment.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=string input output scanf gets puts printf reading writing
+String Input and Output in C:
+  INPUT functions:
+    scanf("%s", str)    - reads until first whitespace. No & needed.
+    gets(str)           - reads entire line including spaces until '\n'.
+                          UNSAFE: no bounds check (buffer overflow risk).
+    fgets(str,n,stdin)  - reads at most n-1 chars; safe replacement for gets().
+    getchar()           - reads one character at a time.
+  OUTPUT functions:
+    printf("%s", str)   - prints string until '\0'.
+    puts(str)           - prints string + adds '\n' at end.
+    putchar(ch)         - prints one character.
+  Format specifier: %s for strings, %c for single character.
+  Width: printf("%-10s", s) -- left-aligned in 10-char field.
+  Always use fgets instead of gets to avoid buffer overflow.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=string functions strlen strcpy strcmp strcat strrev library
+Standard String Library Functions (string.h):
+  strlen(s)          - returns length of s (NOT counting '\0').
+  strcpy(dest, src)  - copies src into dest (including '\0').
+  strncpy(d, s, n)   - copies at most n characters (safer than strcpy).
+  strcat(dest, src)  - appends src to end of dest.
+  strncat(d, s, n)   - appends at most n chars of src.
+  strcmp(s1, s2)     - returns 0 if equal, <0 if s1<s2, >0 if s1>s2.
+  strncmp(s1,s2,n)   - compares first n characters.
+  strrev(s)          - reverses string s in-place (non-standard).
+  strupr(s)          - converts to uppercase (non-standard).
+  strlwr(s)          - converts to lowercase (non-standard).
+  strstr(s, sub)     - returns pointer to first occurrence of sub in s, or NULL.
+  strchr(s, ch)      - returns pointer to first occurrence of ch in s.
+  Example:
+    char a[20]="Hello"; char b[]=" World";
+    strcat(a, b);  -- a is now "Hello World"
+    printf("%d", strcmp("abc","abd"));  -- prints negative (c < d)
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=function declaration definition call return prototype syntax
+Functions in C - Declaration, Definition, Call:
+  A function is a reusable block of code that performs a specific task.
+  DECLARATION (prototype) -- tells compiler about function signature:
+    return_type function_name(parameter_types);
+    Example: int add(int a, int b);
+  DEFINITION -- the actual code body:
+    int add(int a, int b) {
+        return a + b;
+    }
+  CALL -- executing the function:
+    int result = add(3, 5);   -- result = 8
+  RETURN statement:
+    - Returns a value to the caller (must match return type).
+    - void functions use return; with no value (or omit it).
+    - A function can return only ONE value directly.
+  Functions cannot be nested in C (no function inside another function).
+  Function without prototype: must be defined BEFORE it is called.
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=call by value call by reference pointer parameter passing
+Call by Value vs Call by Reference:
+  CALL BY VALUE (default in C):
+    - A COPY of the argument is passed to the function.
+    - Changes inside function do NOT affect original variable.
+    - Example: void swap(int a, int b) -- does NOT swap originals.
+  CALL BY REFERENCE (using pointers):
+    - Address of variable is passed using & operator.
+    - Function receives a pointer; changes via * affect original.
+    - Example:
+        void swap(int *a, int *b) {
+            int temp = *a; *a = *b; *b = temp;
+        }
+        swap(&x, &y);  -- now x and y are swapped
+  Passing arrays: arrays are ALWAYS passed by reference in C.
+    The array name decays to a pointer to its first element.
+  Passing structs: by value by default (entire struct is copied);
+    pass pointer to struct for efficiency and in-place modification.
+  Summary:
+    By value    -- safe, no side effects; overhead for large data.
+    By reference -- efficient, allows modification; needs careful use.
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=storage class auto extern register static variable scope lifetime
+Storage Classes in C:
+  Storage class determines: SCOPE, LIFETIME, DEFAULT VALUE, STORAGE LOCATION.
+  1. AUTO (automatic):
+     - Default for local variables declared inside a block.
+     - Lifetime: from block entry to block exit. Default value: garbage.
+     - Stored in: stack.
+  2. EXTERN (external):
+     - Declared outside all functions (global scope).
+     - Lifetime: entire program. Default value: 0.
+     - Stored in: data segment.
+     - Used to share variables across multiple files.
+  3. REGISTER:
+     - Hint to compiler to store in CPU register for speed.
+     - Cannot take address (&) of register variable.
+     - Compiler may ignore the hint.
+     - Example: register int i; (loop counters)
+  4. STATIC:
+     - Local static: scope = local, but lifetime = entire program.
+       Retains value between function calls. Initialised once to 0.
+     - Global static: scope = only that translation unit (file).
+     - Example: static int count = 0; -- persists between calls
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=recursion factorial fibonacci hanoi direct indirect tail
+Recursion in C:
+  A function that calls ITSELF (directly or indirectly) is recursive.
+  BASE CASE: condition where recursion stops. RECURSIVE CASE: smaller subproblem.
+  FACTORIAL:
+    int fact(int n) { if (n<=1) return 1; return n * fact(n-1); }
+  FIBONACCI:
+    int fib(int n) { if (n<=1) return n; return fib(n-1) + fib(n-2); }
+  GCD (Euclidean): int gcd(int a, int b) { return b==0 ? a : gcd(b, a%b); }
+  TOWER OF HANOI (n discs, A->C using B):
+    Moves = 2^n - 1.
+    void hanoi(int n, char from, char to, char via) {
+        if (n==1) { printf("Move %c->%c\n",from,to); return; }
+        hanoi(n-1, from, via, to);
+        printf("Move %c->%c\n", from, to);
+        hanoi(n-1, via, to, from);
+    }
+  TYPES of recursion:
+    Direct: f() calls f() directly.
+    Indirect: f() calls g(), g() calls f().
+    Tail: recursive call is LAST statement (no pending work after return).
+    Non-tail: recursive call is NOT the last statement (e.g., factorial).
+    Linear: single recursive call per invocation (factorial, GCD).
+    Tree: multiple recursive calls per invocation (fibonacci, hanoi).
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=ctype.h character classification functions isalpha isdigit isupper islower isspace
+ctype.h Character Classification Functions:
+  All functions take an int (character) and return non-zero (true) or 0 (false).
+  isalpha(c): true if c is a letter (a-z or A-Z).
+  isdigit(c): true if c is a digit (0-9).
+  isalnum(c): true if c is alphanumeric (letter or digit).
+  isupper(c): true if c is uppercase letter.
+  islower(c): true if c is lowercase letter.
+  isspace(c): true if c is whitespace (space, tab, newline, etc.).
+  ispunct(c): true if c is punctuation.
+  toupper(c): converts c to uppercase (returns int).
+  tolower(c): converts to lowercase.
+  Case conversion using ASCII: uppercase = lowercase - 32.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=array of strings two-dimensional char array names declaration access
+Arrays of Strings in C:
+  Declaration: char names[20][30]; -- 20 strings, each max 29 characters.
+  Input: scanf("%s", names[i]); or fgets(names[i], 30, stdin);
+  Output: printf("%s", names[i]); or puts(names[i]);
+  Access: names[i] gives the i-th string (pointer to row i).
+  Individual character: names[i][j] gives j-th character of i-th string.
+  Comparison: strcmp(names[i], names[j]) -- cannot use == for strings.
+  Sorting strings: use strcmp in bubble sort; swap entire rows.
+  Total memory: rows * (max_string_length + 1) bytes.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=2D array declaration matrix row column elements initialization C programming
+2D Array in C:
+  Declaration: int a[3][4]; (3 rows, 4 columns).
+  Total elements: rows * columns = 3*4 = 12.
+  Access: a[i][j] where i = row index (0 to rows-1), j = col index (0 to cols-1).
+  Memory: stored in Row-major order (row 0 stored first, then row 1, etc.).
+  Initialization: int a[2][3] = {{1,2,3},{4,5,6}};
+  Partial init: int a[2][3] = {{1,2},{4}}; remaining elements set to 0.
+  Column size cannot be omitted: int a[][3] is valid, int a[2][] is NOT valid.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=row major column major address calculation 2D array formula base address
+Memory Layout and Address Calculation in 2D Arrays:
+  Row-major order (C uses this): rows stored sequentially in memory.
+  Row-major address: Addr = BaseAddr + elementSize * (row * numCols + col).
+  Column-major (Fortran uses this): Addr = BaseAddr + elementSize * (col * numRows + row).
+  Example: int a[3][4], base=1000, element size=2 bytes, a[1][2]:
+    Row-major: 1000 + 2*(1*4+2) = 1000 + 12 = 1012.
+  C uses 0-based indexing: row 0 is first, col 0 is first.
+  Row-major means traversing a[i][0], a[i][1], ... is cache-efficient.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=matrix addition subtraction multiplication transpose algorithm nested loops
+Matrix Operations in C:
+  ADDITION/SUBTRACTION (same dimensions required):
+    for(i=0;i<r;i++) for(j=0;j<c;j++) c[i][j] = a[i][j] + b[i][j];
+  MULTIPLICATION (A is MxN, B is NxP -> C is MxP):
+    Initialize C to zero first!
+    for(i=0;i<m;i++) for(j=0;j<p;j++) for(k=0;k<n;k++) C[i][j]+=A[i][k]*B[k][j];
+    Matrix multiplication is NOT commutative (A*B != B*A in general).
+  TRANSPOSE (swap a[i][j] with a[j][i]):
+    for(i=0;i<n;i++) for(j=i+1;j<n;j++) { temp=a[i][j]; a[i][j]=a[j][i]; a[j][i]=temp; }
+  PRINTING matrix: outer loop for rows, inner loop for cols, printf("\n") after each row.
+  PASSING to function: void func(int a[][COLS], int rows) -- column size mandatory.
+##END##
+
+#TOPIC=maths
+#UNIT=2
+#KEYS=vector function derivative velocity acceleration unit tangent vector differentiation
+Vector Functions and Derivatives:
+  A vector function r(t) = f(t)i + g(t)j + h(t)k has components as scalar functions of t.
+  Derivative: dr/dt = (df/dt)i + (dg/dt)j + (dh/dt)k -- differentiate component-wise.
+  Velocity: v = dr/dt; Acceleration: a = dv/dt = d^2r/dt^2.
+  Speed: |v| = sqrt((dx/dt)^2 + (dy/dt)^2 + (dz/dt)^2).
+  Unit tangent vector: T = (dr/dt)/|dr/dt|.
+  Differentiation rules: d/dt(A+B) = dA/dt + dB/dt.
+  d/dt(A.B) = A'*B + A*B'; d/dt(A x B) = A' x B + A x B'.
+  If |A| = constant, then A*(dA/dt) = 0 (A is perpendicular to its derivative).
+##END##
+
+#TOPIC=maths
+#UNIT=2
+#KEYS=gradient del operator nabla scalar field directional derivative maximum rate
+Gradient and Del Operator:
+  Del operator: nabla = (d/dx)i + (d/dy)j + (d/dz)k.
+  Gradient of scalar phi: grad(phi) = (dphi/dx)i + (dphi/dy)j + (dphi/dz)k.
+  Gradient points in direction of MAXIMUM rate of increase of phi.
+  Directional derivative of phi in direction of unit vector a: D_a(phi) = grad(phi) . a_hat.
+  Maximum directional derivative = |grad(phi)|.
+  Unit normal to surface phi = constant: n_hat = grad(phi)/|grad(phi)|.
+  Level surface: phi(x,y,z) = constant; gradient is perpendicular to this surface.
+  Properties: grad(phi+psi) = grad(phi) + grad(psi);
+    grad(phi*psi) = phi*grad(psi) + psi*grad(phi).
+##END##
+
+#TOPIC=maths
+#UNIT=2
+#KEYS=divergence vector field solenoidal definition del dot product
+Divergence of a Vector Field:
+  Divergence of F = P*i + Q*j + R*k:
+    div(F) = nabla.F = dP/dx + dQ/dy + dR/dz.
+  Result is a scalar function.
+  Physical meaning: how much the vector field F "spreads out" from a point.
+  Positive divergence: field expanding (source).
+  Negative divergence: field converging (sink).
+  Solenoidal vector field: div(F) = 0 (no sources or sinks).
+  Laplacian: div(grad(phi)) = nabla^2(phi) = d^2phi/dx^2 + d^2phi/dy^2 + d^2phi/dz^2.
+  Laplace equation: nabla^2(phi) = 0.
+##END##
+
+#TOPIC=maths
+#UNIT=2
+#KEYS=curl vector field irrotational rotation cross product del
+Curl of a Vector Field:
+  Curl of F: curl(F) = nabla x F
+  = (dR/dy - dQ/dz)i - (dR/dx - dP/dz)j + (dQ/dx - dP/dy)k.
+  Result is a vector function.
+  Physical meaning: measures rotation or circulation of the vector field.
+  Irrotational vector field: curl(F) = 0.
+  If curl(F) = 0, F is conservative and can be written as F = grad(phi).
+  Identities:
+    curl(grad(phi)) = 0 (curl of any gradient is zero).
+    div(curl(F)) = 0 (divergence of any curl is zero).
+  Scalar potential phi: if curl(F)=0, solve dphi/dx=P, dphi/dy=Q, dphi/dz=R.
+##END##
+
+#TOPIC=maths
+#UNIT=4
+#KEYS=ODE order degree linear homogeneous complementary particular general solution
+Linear Ordinary Differential Equations - Introduction:
+  General nth-order linear ODE: a_n*y^(n) + ... + a_1*y' + a_0*y = g(x).
+  Homogeneous: g(x) = 0. Non-homogeneous: g(x) not= 0.
+  Operator notation: D = d/dx, D^2 = d^2/dx^2; write as F(D)y = g(x).
+  General solution: y = yc + yp.
+    yc = Complementary Function (solution of homogeneous equation F(D)y=0).
+    yp = Particular Integral (any particular solution of F(D)y=g(x)).
+  Linear independence: n linearly independent solutions form a basis.
+  Wronskian W(y1,y2,...): if W != 0, solutions are linearly independent.
+##END##
+
+#TOPIC=maths
+#UNIT=4
+#KEYS=auxiliary equation characteristic equation complementary function roots cases
+Auxiliary Equation and Complementary Function:
+  For F(D)y = 0, replace D with m to get auxiliary equation.
+  Example: (D^2 + 5D + 6)y = 0 -> m^2 + 5m + 6 = 0 -> m = -2, -3.
+  Case 1 (Real distinct roots m1, m2):
+    yc = C1*e^(m1*x) + C2*e^(m2*x).
+  Case 2 (Repeated roots m1 = m2 = m):
+    yc = (C1 + C2*x)*e^(m*x).
+  Case 3 (Complex roots m = alpha +/- i*beta):
+    yc = e^(alpha*x)[C1*cos(beta*x) + C2*sin(beta*x)].
+  Case 4 (Repeated complex roots):
+    yc = e^(alpha*x)[(C1+C2*x)cos(beta*x) + (C3+C4*x)sin(beta*x)].
+  Number of arbitrary constants = order of ODE.
+##END##
+
+#TOPIC=maths
+#UNIT=4
+#KEYS=particular integral inverse operator exponential polynomial trigonometric rules
+Particular Integral - Rules for Finding yp:
+  For F(D)y = g(x): yp = [1/F(D)] * g(x).
+  Exponential rule: 1/F(D) * e^(ax) = e^(ax)/F(a), provided F(a) != 0.
+  If F(a) = 0: multiply by x; 1/F(D) * e^(ax) = x*e^(ax)/F'(a).
+  Trig rule: 1/F(D^2) * sin(ax) = sin(ax)/F(-a^2), provided F(-a^2) != 0.
+  Similarly: 1/F(D^2) * cos(ax) = cos(ax)/F(-a^2).
+  Polynomial rule: 1/F(D) * x^n -- expand 1/F(D) as power series in D.
+  e^ax * V(x) rule: 1/F(D) * e^(ax)*V(x) = e^(ax) * 1/F(D+a) * V(x).
+##END##
+
+#TOPIC=maths
+#UNIT=4
+#KEYS=variation of parameters Wronskian method particular integral
+Variation of Parameters Method:
+  Used when inverse operator method is difficult.
+  For y'' + Py' + Qy = R with yc = C1*y1 + C2*y2.
+  Wronskian: W = y1*y2' - y2*y1'.
+  Particular integral: yp = y1*integral(-y2*R/W dx) + y2*integral(y1*R/W dx).
+  General solution: y = yc + yp.
+  Works for any g(x) including ln(x), sec(x), 1/x, etc.
+  Steps: (1) find yc, (2) compute W, (3) compute the two integrals, (4) write yp.
+##END##
+
+#TOPIC=maths
+#UNIT=4
+#KEYS=Cauchy Euler equation substitution x equals e to z second order
+Cauchy-Euler Equation:
+  Form: x^2*y'' + p*x*y' + q*y = f(x) (variable coefficients).
+  Substitution: x = e^z, so z = ln(x).
+  Transforms: xD = D1, x^2*D^2 = D1(D1-1), where D1 = d/dz.
+  After substitution: becomes linear ODE with constant coefficients in z.
+  Solve using standard methods (auxiliary equation, PI methods).
+  Back-substitute z = ln(x) to get final answer in x.
+  Example: x^2*y'' - 3xy' + 4y = x^2 -> (D1(D1-1)-3D1+4)y = e^(2z).
+##END##
+
+#TOPIC=physics
+#UNIT=1
+#KEYS=de Broglie matter waves wavelength momentum duality particle wave
+de Broglie Hypothesis and Matter Waves:
+  Louis de Broglie (1924): matter has dual nature like radiation.
+  de Broglie wavelength: lambda = h/mv = h/p (h = Planck's constant, p = momentum).
+  Lighter particle or slower speed -> greater wavelength.
+  Matter waves (pilot waves) are NOT electromagnetic; can be produced by any particle.
+  Matter waves are probability waves: |psi|^2 gives probability of finding particle.
+  For p=0, lambda is infinite (matter waves only exist for moving particles).
+  Verified experimentally by Davisson-Germer (electron diffraction by crystal).
+  Electrons at ~150V have wavelength ~1 Angstrom (comparable to atomic spacing).
+##END##
+
+#TOPIC=physics
+#UNIT=1
+#KEYS=Heisenberg uncertainty principle position momentum energy time
+Heisenberg's Uncertainty Principle:
+  Impossible to simultaneously measure with precision certain conjugate pairs.
+  Position-momentum: delta_x * delta_p >= h/(4*pi).
+  Energy-time: delta_E * delta_t >= h/(4*pi).
+  Physical basis: particle described by wave packet; narrow packet = precise position
+    but uncertain momentum; spread-out packet = precise momentum but uncertain position.
+  This is a fundamental law of nature, NOT a measurement limitation.
+  Consequence: cannot know present exactly, so cannot predict future exactly.
+  Application: explains broadening of spectral lines (excited state has finite lifetime
+    delta_t, so energy has uncertainty delta_E = h/(4*pi*delta_t)).
+  Metastable states have long lifetime -> narrow spectral linewidth -> used in lasers.
+##END##
+
+#TOPIC=physics
+#UNIT=1
+#KEYS=wave function properties probability density normalization Born interpretation psi
+Wave Function and Its Properties:
+  Wave function psi(x,t) is the mathematical description of a quantum particle.
+  Cannot be measured directly; gives probability information.
+  Born interpretation: probability density P = |psi|^2 (always real, non-negative).
+  P(x,t) dx = probability of finding particle between x and x+dx.
+  Required properties of psi:
+    (1) single-valued everywhere,
+    (2) continuous with continuous first derivative,
+    (3) finite everywhere,
+    (4) normalizable: total probability = 1.
+  Normalization condition (1D): integral from -inf to +inf of |psi|^2 dx = 1.
+  psi is called probability amplitude; it can be complex but |psi|^2 is real.
+##END##
+
+#TOPIC=physics
+#UNIT=1
+#KEYS=Schrodinger time independent equation TISE energy potential wavefunction
+Time-Independent Schrodinger Wave Equation (TISE):
+  Used when potential V depends only on position (not time).
+  Equation: d^2psi/dx^2 + (8*pi^2*m/h^2)*(E-V)*psi = 0.
+  Or: -(h_bar^2/2m)*d^2psi/dx^2 + V*psi = E*psi.
+  Hamiltonian operator H: H*psi = E*psi (energy eigenvalue equation).
+  E = total energy (kinetic + potential), V = potential energy function.
+  For free particle (V=0): d^2psi/dx^2 + k^2*psi = 0, k^2 = 8pi^2*m*E/h^2.
+  TISE is a postulate of quantum mechanics (not derived from first principles).
+  Solutions are energy eigenstates; each corresponds to definite energy E.
+##END##
+
+#TOPIC=physics
+#UNIT=1
+#KEYS=particle in a box infinite potential well energy levels quantum number normalized
+Particle in Infinite Potential Well (Particle in a Box):
+  Particle confined to 0 < x < a; V=0 inside, V=infinity outside.
+  Inside: psi_n(x) = sqrt(2/a) * sin(n*pi*x/a), n = 1,2,3,...
+  Energy eigenvalues: E_n = n^2*h^2/(8*m*a^2).
+  E_1 = h^2/(8ma^2) is the zero-point energy (cannot have E=0 by uncertainty principle).
+  E_2 = 4*E_1, E_3 = 9*E_1 (energy levels scale as n^2).
+  Ground state (n=1): psi^2 maximum at x=a/2; particle most likely at center.
+  First excited state (n=2): psi^2=0 at x=0, a/2, a (two antinodes).
+  Quantum number n: larger n = higher energy = more nodes in wavefunction.
+##END##
+
+#TOPIC=physics
+#UNIT=2
+#KEYS=classical free electron theory Drude Lorentz assumptions failures specific heat
+Classical Free Electron Theory (Drude-Lorentz):
+  Assumptions: electrons behave like gas molecules with thermal energy (3/2)kT;
+    constant ionic potential; interactions ignored.
+  Successes: explains Ohm's law, derives expression for conductivity sigma = ne^2*tau/m.
+  Failures:
+    1. Specific heat: predicts Cv = (3/2)R; experiment gives Cv ~10^-4 RT.
+    2. Temperature dependence: predicts sigma proportional to 1/sqrt(T);
+       experiment gives sigma proportional to 1/T.
+    3. Cannot explain positive Hall coefficient in some metals (Zn, Be).
+    4. Wrong prediction: high electron concentration always means high conductivity.
+  Root cause: electrons are NOT classical; they are quantum particles following
+    Fermi-Dirac statistics, not Maxwell-Boltzmann statistics.
+##END##
+
+#TOPIC=physics
+#UNIT=2
+#KEYS=quantum free electron theory Fermi Dirac statistics Pauli exclusion Fermi energy
+Quantum Free Electron Theory (Sommerfeld):
+  Electrons follow Pauli Exclusion Principle and Fermi-Dirac statistics.
+  Fermi energy EF: highest occupied energy level at absolute zero (0 K).
+  At 0 K: all levels up to EF filled; all above EF empty (sharp boundary).
+  Fermi factor: f(E) = 1/[1 + exp((E-EF)/kT)].
+    At T=0K: f(E)=1 for E < EF; f(E)=0 for E > EF.
+    At T>0K: f(EF)=0.5 always; smooth transition around EF.
+  Fermi level: energy at which f(E) = 0.5 (50% probability of occupancy).
+  Successes: explains specific heat, resistivity vs T, Hall effect, thermionic emission.
+  Density of states g(E) proportional to sqrt(E).
+  Fermi energy: EF = (h^2/8m) * (3n/pi)^(2/3).
+##END##
+
+#TOPIC=physics
+#UNIT=2
+#KEYS=energy band theory valence conduction band gap conductor insulator semiconductor
+Band Theory of Solids:
+  In a solid: overlapping atomic wave functions cause energy levels to split into bands.
+  Valence band: highest filled (or partially filled) band under normal conditions.
+  Conduction band: band above valence band where conduction electrons reside.
+  Forbidden energy gap Eg: energy range with no allowed states between bands.
+  CONDUCTOR: valence and conduction bands overlap, OR conduction band partially filled.
+    Electrons easily move to higher energy -> conduct electricity.
+  INSULATOR: large Eg (>5 eV); electrons cannot jump to conduction band at room T.
+    Example: diamond (Eg = 5.4 eV).
+  SEMICONDUCTOR: small Eg (~1 eV); some electrons can cross at room temperature.
+    Silicon: Eg = 1.1 eV; Germanium: Eg = 0.67 eV.
+  Temperature increases conductivity of semiconductors (more electrons cross gap).
+##END##
+
+#TOPIC=physics
+#UNIT=2
+#KEYS=intrinsic semiconductor electron hole pair Fermi level midgap carrier concentration
+Intrinsic Semiconductor:
+  Pure semiconductor with no intentional impurities.
+  Electron-hole pair generation: thermal energy breaks bond -> one electron (conduction band)
+    + one hole (valence band).
+  At any temperature: n = p = ni (intrinsic concentration).
+  ni increases exponentially with temperature: ni proportional to exp(-Eg/2kT).
+  Fermi level: if electron and hole effective masses are equal, EF = (Ec+Ev)/2 (midgap).
+  If masses differ: EF = midgap + (3kT/4)*ln(mh*/me*).
+  At room temp: ni for Si ~1.5x10^10 /cm^3; for Ge ~2.4x10^13 /cm^3.
+  Resistivity decreases with increasing temperature (more carriers).
+##END##
+
+#TOPIC=physics
+#UNIT=2
+#KEYS=extrinsic semiconductor n-type p-type doping donor acceptor impurity
+Extrinsic Semiconductors - N-type and P-type:
+  N-type: pentavalent dopant (P, As, Sb); extra electron donated to conduction band.
+    Donor level ED just below conduction band Ec.
+    Majority carriers: electrons; Minority carriers: holes.
+    Fermi level moves toward Ec (higher doping -> EF closer to Ec).
+  P-type: trivalent dopant (B, Al, Ga); accepts electron from valence band -> creates hole.
+    Acceptor level EA just above valence band Ev.
+    Majority carriers: holes; Minority carriers: electrons.
+    Fermi level moves toward Ev (higher doping -> EF closer to Ev).
+  Carrier concentration in saturation (depletion) region:
+    N-type: n = ND (all donors ionized).
+    P-type: p = NA (all acceptors ionized).
+  At very high T: both become intrinsic (ni dominates).
+##END##
+
+#TOPIC=physics
+#UNIT=2
+#KEYS=Hall effect magnetic field transverse voltage carrier sign concentration mobility
+Hall Effect:
+  When current I flows in x-direction and magnetic field B is applied in z-direction,
+  a transverse voltage VH develops in y-direction.
+  Mechanism: Lorentz force deflects carriers; charge buildup creates Hall field.
+  Hall voltage: VH = BI/(net) where n=carrier concentration, t=thickness.
+  Hall coefficient: RH = VH*t/(BI) = 1/(ne) for n-type; RH = 1/(pe) for p-type.
+  Sign of VH (and RH):
+    Negative -> majority carriers are electrons (n-type).
+    Positive -> majority carriers are holes (p-type).
+  Applications:
+    1. Determine carrier type (n-type or p-type).
+    2. Measure carrier concentration n or p.
+    3. Calculate mobility: mu = sigma * |RH|.
+    4. Measure magnetic field strength (Hall probe).
+##END##
+
+#TOPIC=physics
+#UNIT=3
+#KEYS=superconductivity zero resistance critical temperature transition Kamerlingh Onnes
+Superconductivity - Introduction and Critical Temperature:
+  Superconductivity: phenomenon where electrical resistance of a material drops to
+  EXACTLY ZERO below a critical temperature Tc.
+  Discovered by Kamerlingh Onnes (1911) in mercury at Tc = 4.15 K.
+  Normal state resistance disappears completely at Tc (superconducting transition).
+  No energy loss in superconductor: J = sigma*E with E=0 yet J != 0 (persistent current).
+  Critical temperatures: Hg = 4.15K, Pb = 7.2K, Nb = 9.2K, YBCO = 92K.
+  HIGH-Tc superconductors: ceramic copper oxides with Tc > 30K (discovered 1986).
+  YBCO (YBa2Cu3O7) was first material with Tc > liquid nitrogen temp (77K).
+##END##
+
+#TOPIC=physics
+#UNIT=3
+#KEYS=Meissner effect magnetic field expulsion perfect diamagnet superconductor B zero
+Meissner Effect:
+  When a material becomes superconducting, it EXPELS all magnetic flux from its interior.
+  B = 0 inside a superconductor (not just a consequence of zero resistance).
+  This is called the Meissner effect (Meissner and Ochsenfeld, 1933).
+  Meissner effect proves superconductors are PERFECT DIAMAGNETS (chi = -1).
+  Distinction from perfect conductor: a perfect conductor would trap existing flux;
+    a superconductor expels it regardless of field history.
+  Expulsion is achieved by surface currents (shielding currents) that cancel B inside.
+  Application: magnetic levitation (Maglev trains, magnetic bearings).
+  If applied field exceeds critical field Hc, superconductivity is destroyed.
+##END##
+
+#TOPIC=physics
+#UNIT=3
+#KEYS=critical magnetic field Hc type I type II lower upper vortex state
+Critical Magnetic Fields and Types of Superconductors:
+  Type I superconductors: single critical field Hc; abrupt transition from
+    superconducting to normal state at H = Hc. Meissner effect complete below Hc.
+    Examples: pure metals (Hg, Pb, Sn, Al).
+  Type II superconductors: two critical fields Hc1 and Hc2.
+    H < Hc1: complete Meissner effect (superconducting).
+    Hc1 < H < Hc2: mixed/vortex state; partial flux penetration as quantized flux tubes.
+    H > Hc2: normal state.
+    Examples: alloys and high-Tc ceramics (Nb-Ti, YBCO). Hc2 can be very high (>100T).
+  Vortex state: magnetic flux enters as quantized vortices each carrying one flux quantum
+    phi_0 = h/(2e) = 2.07x10^-15 Wb.
+  Type II superconductors more useful for high-field applications (MRI, particle accelerators).
+##END##
+
+#TOPIC=physics
+#UNIT=3
+#KEYS=BCS theory Cooper pairs phonon mediated attractive interaction pairing
+BCS Theory of Superconductivity:
+  BCS = Bardeen, Cooper, Schrieffer (1957); Nobel Prize 1972.
+  Mechanism: two electrons near Fermi level form a COOPER PAIR via phonon-mediated
+    attractive interaction.
+  Cooper pair formation: electron 1 polarizes lattice -> lattice deformation attracts
+    electron 2; net effective attraction between the two electrons despite Coulomb repulsion.
+  Cooper pairs have zero net spin and momentum (singlet state).
+  Cooper pairs behave as bosons: all pairs condense into a single quantum state (coherent state).
+  Energy gap 2*delta: Cooper pairs cannot be easily scattered; gap suppresses normal scattering.
+  Delta(0) = 1.76 * kTc (energy gap at 0 K related to critical temperature).
+  Coherence length: spatial extent of Cooper pair; typically 100-1000 nm for low-Tc.
+  BCS theory explains: zero resistance, Meissner effect, isotope effect (Tc ~ M^(-1/2)).
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=laser stimulated emission population inversion pumping coherent monochromatic
+LASER - Principles and Basic Concepts:
+  LASER = Light Amplification by Stimulated Emission of Radiation.
+  Properties of laser light: monochromatic (single wavelength), coherent (in phase),
+    directional (very low divergence), high intensity.
+  Three key processes (Einstein 1917):
+    1. ABSORPTION: photon absorbed; electron jumps to higher level.
+    2. SPONTANEOUS EMISSION: electron spontaneously falls back; emits photon in random direction.
+    3. STIMULATED EMISSION: incoming photon triggers electron to fall; emits IDENTICAL photon
+       (same frequency, phase, direction, polarization). This is the basis of laser action.
+  For amplification: stimulated emission must exceed absorption.
+  POPULATION INVERSION: N2 > N1 (more atoms in excited state than ground state).
+    Normally N1 > N2 (Boltzmann distribution); must be achieved by pumping.
+  PUMPING: external energy input to create population inversion.
+    Types: optical pumping (flash lamp), electrical discharge, chemical, semiconductor junction.
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=metastable state three level four level laser energy diagram long lifetime
+Three-Level and Four-Level Laser Systems:
+  Need metastable state: excited state with long lifetime (~10^-3 s vs normal ~10^-8 s).
+    Long lifetime allows population to build up (population inversion achieved).
+  THREE-LEVEL LASER (e.g., Ruby laser):
+    Ground state E1, pump band E3, metastable state E2.
+    Pumping: E1 -> E3. Fast non-radiative decay: E3 -> E2. Laser transition: E2 -> E1.
+    Problem: ground state is the lower laser level; need to depopulate it.
+      More than half of all atoms must be excited -> requires high pump power.
+  FOUR-LEVEL LASER (e.g., He-Ne, Nd:YAG):
+    Levels: E0 (ground), E1 (pump band), E2 (upper laser level), E3 (lower laser level).
+    Lower laser level E3 is above ground and quickly decays to E0.
+    Advantage: E3 always nearly empty -> population inversion achieved more easily.
+    More efficient than three-level lasers.
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=Ruby laser construction working wavelength output pulsed three level
+Ruby Laser:
+  Type: Solid-state, three-level laser.
+  Active medium: Ruby (Al2O3 crystal doped with 0.05% Cr^3+ ions).
+  Pumping: optical (xenon flash lamp surrounding ruby rod).
+  Wavelength of output: 694.3 nm (deep red light).
+  Operation is PULSED (not continuous) because three-level system requires intense pump.
+  Construction: cylindrical ruby rod, flash lamp in elliptical reflector cavity,
+    two mirrors (one 100% reflective, one partially transmitting ~30%).
+  Working:
+    1. Flash lamp excites Cr^3+ from ground to pump bands (~400nm and ~550nm).
+    2. Fast non-radiative decay to metastable state (E2).
+    3. Population inversion between E2 and ground state.
+    4. Stimulated emission at 694.3 nm; photons bounce between mirrors.
+    5. Laser pulse emitted through partially reflective mirror.
+  Applications: rangefinding, holography, dermatology.
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=He-Ne laser gas laser continuous wave construction wavelength 632 nm
+Helium-Neon (He-Ne) Laser:
+  Type: Gas laser, four-level laser. OUTPUT: Continuous wave (CW).
+  Active medium: mixture of He and Ne gas (ratio ~10:1) in a sealed tube.
+  Pumping: electrical discharge (DC or RF).
+  Most common wavelength: 632.8 nm (red). Also 543.5 nm (green), 1152 nm (IR).
+  Construction: glass tube with He-Ne mixture, electrodes for discharge,
+    Brewster windows at ends, external resonator mirrors.
+  Working:
+    1. Electrons from discharge collide with He atoms; excite He to metastable states.
+    2. Resonant energy transfer: He* + Ne -> He + Ne* (He and Ne have nearly same energy levels).
+    3. Population inversion in Ne at upper laser level.
+    4. Stimulated emission at 632.8 nm.
+    5. Ne returns to ground via lower laser level (rapidly depopulated -> four-level system).
+  Applications: barcode scanners, holography, optical alignment, interferometry.
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=optical fiber total internal reflection critical angle acceptance cone numerical aperture
+Optical Fiber - Principle and Construction:
+  Optical fiber transmits light by TOTAL INTERNAL REFLECTION (TIR).
+  TIR: occurs when light travels from denser medium (n1) to rarer medium (n2),
+    and angle of incidence exceeds critical angle theta_c = arcsin(n2/n1).
+  Structure: Core (high refractive index n1), Cladding (lower index n2), Jacket.
+  Light in core hits core-cladding boundary; if angle > theta_c, TIR occurs; light stays in core.
+  Acceptance angle theta_0: maximum angle at which light entering fiber end is captured.
+  Numerical Aperture (NA): NA = sqrt(n1^2 - n2^2) = n0*sin(theta_0).
+  For air (n0=1): NA = sin(theta_0) = sqrt(n1^2 - n2^2).
+  Higher NA -> accepts light from wider cone -> more light captured.
+  Typical values: n1 = 1.5, n2 = 1.48 for step-index fiber.
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=types optical fiber single mode multimode step index graded index attenuation
+Types of Optical Fibers and Attenuation:
+  SINGLE-MODE FIBER:
+    Core diameter ~8-10 um; only one mode propagates.
+    No modal dispersion; suitable for long-distance, high-bandwidth applications.
+    Used in telecommunications, submarine cables.
+  MULTIMODE STEP-INDEX FIBER:
+    Core diameter ~50-200 um; many modes propagate; abrupt index change at boundary.
+    Large NA; easy to couple light; significant modal dispersion (different paths = different arrival times).
+    Used for short-distance, lower bandwidth.
+  MULTIMODE GRADED-INDEX FIBER:
+    Core refractive index gradually decreases from center to edge.
+    Different modes travel at different speeds but similar times -> less modal dispersion.
+    Better bandwidth than step-index multimode.
+  ATTENUATION: loss of signal intensity with distance; measured in dB/km.
+    Sources: absorption (OH- ions, infrared), scattering (Rayleigh), bending losses.
+    Minimum attenuation in silica fiber: ~0.2 dB/km at 1550 nm wavelength.
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=algorithm definition properties steps finite input output unambiguous
+Algorithm - Definition and Properties:
+  An algorithm is an unambiguous, step-by-step procedure (instructions) to solve
+  a given problem in a FINITE number of steps by accepting a set of inputs and
+  producing the desired output. Program = Algorithm + Data.
+  Properties of a good algorithm:
+    1. Finiteness: must terminate after a finite number of steps.
+    2. Definiteness: each step must be precisely defined (unambiguous).
+    3. Input: zero or more inputs supplied before execution.
+    4. Output: one or more outputs produced.
+    5. Effectiveness: each step must be basic enough to be carried out.
+  Algorithms are written in simple English-like statements with simple math expressions.
+  After producing the result, the algorithm should TERMINATE.
+  Example: Algorithm to find sum of two numbers:
+    Step 1: Start
+    Step 2: Input A, B
+    Step 3: C = A + B
+    Step 4: Print C
+    Step 5: Stop
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=flowchart symbols shapes boxes arrows pictorial representation program
+Flowchart - Definition and Symbols:
+  A flowchart is a PICTORIAL REPRESENTATION of an algorithm.
+  All steps are drawn using different shapes connected by arrows.
+  Purpose: helps programmers understand the logic/flow of the program.
+  Common flowchart symbols:
+    Oval / Rounded rectangle - START / STOP (Terminal)
+    Rectangle / Box          - Process (computation, assignment)
+    Diamond / Rhombus        - Decision (yes/no condition)
+    Parallelogram            - Input / Output
+    Arrow                    - Flow of control (direction)
+    Circle                   - Connector (between pages)
+  Rules:
+    - Flow generally goes top to bottom, left to right.
+    - Diamond has two exits: Yes (True) branch and No (False) branch.
+    - Every flowchart must have exactly one Start and one Stop.
+  Flowcharts make debugging easier by visualizing program logic.
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=algorithm example swap two variables three steps temp
+Algorithm to Swap Two Variables:
+  Problem: Interchange the values of two variables A and B.
+  Algorithm:
+    Step 1: Start
+    Step 2: Input A, B
+    Step 3: C = A        (save A in temporary variable C)
+    Step 4: A = B        (copy B into A)
+    Step 5: B = C        (copy old A (in C) into B)
+    Step 6: Print A, B
+    Step 7: Stop
+  Key insight: A TEMPORARY variable (C) is needed.
+    Direct swap A=B then B=A loses original value of A.
+  In C code:
+    int temp = a;
+    a = b;
+    b = temp;
+  Without temp (using arithmetic): a=a+b; b=a-b; a=a-b; (works for integers, may overflow)
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=algorithm largest three numbers compare A B C maximum find
+Algorithm to Find Largest of Three Numbers:
+  Problem: Find the largest among three numbers A, B, C.
+  Algorithm:
+    Step 1: Start
+    Step 2: Read A, B, C
+    Step 3: Compare A with B
+    Step 4: If A > B, compare A with C
+              If A > C, then A is largest
+              Else C is largest
+    Step 5: Else (B >= A), compare B with C
+              If B > C, then B is largest
+              Else C is largest
+    Step 6: Print the largest
+    Step 7: Stop
+  In C code:
+    if (a > b && a > c) printf("A is largest");
+    else if (b > c) printf("B is largest");
+    else printf("C is largest");
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=arithmetic reasoning word problem age algebra equation solving
+Arithmetic Reasoning:
+  Arithmetic reasoning helps select the required information from a word problem
+  and solve it using mathematical concepts (addition, subtraction, multiplication, division).
+  Primary method: convert the word problem into equations and solve.
+  Common topics: Algebra, Ages, Ratio & Proportion, Sequences & Patterns,
+    Percentages, HCF & LCM, Fractions.
+  Example (Age problem):
+    Nikhil is 2x as old as Abhay. In 3 years, sum of ages = 66.
+    Let Abhay = x, Nikhil = 2x.
+    After 3 years: (x+3) + (2x+3) = 66 -> 3x + 6 = 66 -> x = 20.
+    Abhay = 20 years, Nikhil = 40 years.
+  Steps to solve age problems:
+    1. Assign variable (x) to unknown age.
+    2. Express other ages in terms of x.
+    3. Write equation from given condition.
+    4. Solve for x.
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=analytical reasoning logical patterns direction conditions ranking blood relations
+Analytical Reasoning:
+  Analytical reasoning = ability to look at information (qualitative or quantitative)
+  and discern patterns within it.
+  Measures: critical thinking and problem-solving skills.
+  Data may be presented as: written passages, graphs, tables, or shapes.
+  Topics under analytical reasoning:
+    - Direction sense problems
+    - Conditions and constraints
+    - Grouping problems
+    - Blood relations
+    - Simple and coded inequalities
+    - Ranking and time sequence
+    - Series completion
+  Example (Ranking): Pankaj > Pramod > Vinod > Usha > Priyanka (tallest to shortest).
+    Given: Pankaj taller than Vinod; Vinod shorter than Pramod; Usha taller than Priyanka
+    but shorter than Vinod; Pramod shorter than Pankaj. -> Pankaj is tallest.
+  Pentagon has 5 lines of symmetry (a regular polygon with n sides has n lines of symmetry).
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=decision making branching conditional unconditional if else switch goto
+Decision Making in C - Overview:
+  Decision making = ability to execute a specific block of code based on a condition.
+  Also called: branching or selection.
+  TWO types of branching statements in C:
+  1. CONDITIONAL BRANCHING:
+     Execute specific blocks ONLY IF a condition is true.
+     Statements: if, if-else, nested if-else, if-else ladder, switch-case.
+  2. UNCONDITIONAL BRANCHING:
+     Changes normal flow of execution regardless of any condition.
+     Statements: goto, break, continue, return.
+  Program flow: program can choose to execute one set of statements over others
+    based on conditions evaluated at runtime.
+  Branching enables programs to respond differently to different inputs.
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=if statement syntax condition true false block execution C
+if and if-else Statements in C:
+  SIMPLE if:
+    if (condition) {
+        // code executed only if condition is TRUE
+    }
+    If condition is false, block is SKIPPED entirely.
+  IF-ELSE:
+    if (condition) {
+        // code if TRUE
+    } else {
+        // code if FALSE (exactly one block executes)
+    }
+  NESTED IF-ELSE: an if or else block contains another if-else.
+    if (a > b) {
+        if (a > c) printf("A is largest");
+        else printf("C is largest");
+    } else {
+        if (b > c) printf("B is largest");
+        else printf("C is largest");
+    }
+  Condition: any expression that evaluates to non-zero (true) or 0 (false).
+  Relational operators: == != < > <= >=
+  Logical operators: && (AND), || (OR), ! (NOT)
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=if else ladder multiple conditions chained chain sequential testing
+if-else Ladder (Chained if-else):
+  Used when you need to choose from MULTIPLE conditions sequentially.
+  Syntax:
+    if (condition1) {
+        // block 1
+    } else if (condition2) {
+        // block 2
+    } else if (condition3) {
+        // block 3
+    } else {
+        // default block (none of above)
+    }
+  Execution: conditions are tested top-to-bottom; FIRST true condition executes its block;
+    rest are skipped. The else block runs if NO condition is true.
+  Example: grade based on marks:
+    if (marks >= 90) printf("A+");
+    else if (marks >= 75) printf("A");
+    else if (marks >= 60) printf("B");
+    else if (marks >= 50) printf("C");
+    else printf("Fail");
+  Better than nested if for mutually exclusive conditions.
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=switch case statement break default integer char expression
+switch-case Statement in C:
+  Used when a variable is compared against multiple constant values.
+  Syntax:
+    switch (expression) {
+        case value1:
+            // code
+            break;
+        case value2:
+            // code
+            break;
+        default:
+            // code if no case matches
+    }
+  Rules:
+    - Expression must evaluate to int or char (NOT float or string).
+    - case values must be constants (not variables or ranges).
+    - break exits the switch after matching case; WITHOUT break, execution
+      falls through to next case (sometimes intentional).
+    - default is optional; runs when no case matches.
+  Compared to if-else ladder:
+    - switch is faster (uses jump table internally for many cases).
+    - switch only tests equality; if-else can test ranges and complex conditions.
+  Example: switch(day) { case 1: printf("Monday"); break; ... }
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=goto unconditional branch label jump statement avoid
+goto Statement in C:
+  goto is an unconditional branching statement that jumps to a labeled statement.
+  Syntax:
+    goto label;
+    ... (code skipped)
+    label:
+        // execution resumes here
+  label is an identifier followed by a colon (:).
+  goto can jump FORWARD (skip code) or BACKWARD (create loop).
+  Problems with goto:
+    - Creates "spaghetti code" that is hard to read and maintain.
+    - Makes program flow unpredictable.
+    - Difficult to debug.
+  goto is STRONGLY DISCOURAGED in modern C programming.
+  Almost all uses of goto can be replaced with if-else, loops, break, continue.
+  Acceptable use: breaking out of deeply nested loops (one of the few cases).
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=loop types while do-while for entry exit controlled counter sentinel
+Loops in C - Types and Classification:
+  A loop has two parts: BODY (repeated statements) and CONTROL (termination test).
+  CLASSIFICATION BY POSITION OF CONTROL:
+    Entry-controlled loop: condition tested BEFORE body executes.
+      If condition false initially, body never executes.
+      Examples: for, while.
+    Exit-controlled loop: condition tested AFTER body executes.
+      Body executes AT LEAST ONCE regardless of condition.
+      Example: do-while.
+  CLASSIFICATION BY CONTROL VARIABLE:
+    Counter-controlled loop: runs a fixed number of times (counter increments).
+      Example: for loop.
+    Sentinel-controlled loop: runs until a special value (sentinel) is entered.
+      Example: while loop reading until user enters -1.
+  C supports THREE loop statements: for, while, do-while.
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=while loop syntax condition test before body entry controlled
+while Loop in C:
+  Syntax:
+    while (condition) {
+        // body
+        // update (increment/decrement)
+    }
+  Execution:
+    1. Check condition; if FALSE, exit loop immediately.
+    2. If TRUE, execute body.
+    3. Go back to step 1.
+  Key features:
+    - Entry-controlled: condition tested BEFORE each iteration.
+    - If condition is false at start, body NEVER executes (0 iterations possible).
+    - Must update the loop variable inside body to avoid infinite loop.
+  Example (print 1 to 5):
+    int i = 1;
+    while (i <= 5) { printf("%d ", i); i++; }
+  Use when: number of iterations is NOT known in advance (depends on user input or data).
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=do while loop syntax execute at least once exit controlled post test
+do-while Loop in C:
+  Syntax:
+    do {
+        // body
+        // update
+    } while (condition);
+  Execution:
+    1. Execute body (always at least once).
+    2. Check condition; if TRUE, go back to step 1.
+    3. If FALSE, exit loop.
+  Key features:
+    - Exit-controlled: condition tested AFTER each iteration.
+    - Body ALWAYS executes at least ONCE (even if condition is false initially).
+    - Semicolon after while (condition); is REQUIRED.
+  Example (read until valid input):
+    do {
+        printf("Enter a positive number: ");
+        scanf("%d", &n);
+    } while (n <= 0);
+  Use when: body must execute at least once (menu-driven programs, input validation).
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=for loop syntax initialization condition update counter fixed iterations
+for Loop in C:
+  Syntax:
+    for (initialization; condition; update) {
+        // body
+    }
+  Execution:
+    1. initialization (runs ONCE at start).
+    2. Check condition; if FALSE, exit.
+    3. Execute body.
+    4. Execute update.
+    5. Go to step 2.
+  Key features:
+    - Entry-controlled: condition tested before each iteration.
+    - All three parts (init, condition, update) on one line -> compact.
+    - Best for counter-controlled loops with known number of iterations.
+    - Any part can be omitted: for(;;) is an infinite loop.
+  Example (sum of 1 to n):
+    int sum = 0;
+    for (int i = 1; i <= n; i++) sum += i;
+  Comparison with while: for loop is preferred when number of iterations is KNOWN.
+    while loop preferred when number of iterations is NOT known in advance.
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=break continue return loop control statement exit skip
+break and continue Statements:
+  BREAK:
+    - Immediately exits the NEAREST enclosing loop or switch.
+    - Execution continues with the statement AFTER the loop/switch.
+    - Example: search in array — break when element found.
+    for (i=0; i<n; i++) { if (arr[i]==key) { found=1; break; } }
+  CONTINUE:
+    - Skips the REST of the current iteration and goes to NEXT iteration.
+    - In for loop: goes to update expression then condition check.
+    - In while/do-while: goes directly to condition check.
+    - Example: print only odd numbers:
+    for (i=1; i<=10; i++) { if (i%2==0) continue; printf("%d ", i); }
+  RETURN:
+    - Exits the CURRENT FUNCTION and returns a value to caller.
+    - In main(), return 0; signals successful program completion.
+  These are unconditional branching statements (like goto, but safer and structured).
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=array definition what is array collection elements same type index
+What is an Array in C:
+  An array is a COLLECTION of elements of the SAME data type stored in
+  CONTIGUOUS (adjacent) memory locations.
+  All elements share a common name and are accessed using an index.
+  Why use arrays: instead of declaring 100 separate variables (a1, a2, ...a100),
+    use one array: int a[100]; — much simpler and manageable.
+  DECLARATION: data_type array_name[size];
+    int marks[5];       -- 5 integers
+    float temp[10];     -- 10 floats
+    char name[20];      -- 20 characters (string)
+  ACCESSING: array_name[index]  (index starts at 0, ends at size-1)
+    marks[0] = first element, marks[4] = fifth element of marks[5].
+  INDEX OUT OF BOUNDS: accessing marks[5] in an array of size 5 is UNDEFINED BEHAVIOUR.
+  Arrays in C are zero-indexed: first element is at index 0, last at index (size-1).
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=array initialization declaration values assign elements one dimensional 1D
+1D Array - Declaration and Initialization:
+  DECLARATION without initialization:
+    int a[5];           -- 5 elements, contents are garbage (uninitialised)
+  INITIALIZATION at declaration:
+    int a[5] = {10, 20, 30, 40, 50};   -- all 5 values given
+    int a[]  = {10, 20, 30, 40, 50};   -- compiler counts size automatically (=5)
+    int a[5] = {10, 20};               -- first 2 set; rest initialised to 0
+    int a[5] = {0};                    -- all elements set to 0
+  ASSIGNING after declaration:
+    a[0] = 10;  a[1] = 20;  ...        -- one by one
+  INPUT using scanf:
+    for (i=0; i<5; i++) scanf("%d", &a[i]);
+  OUTPUT using printf:
+    for (i=0; i<5; i++) printf("%d ", a[i]);
+  Memory: int a[5] occupies 5 * sizeof(int) = 5 * 4 = 20 bytes (on most systems).
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=array operations traversal insert delete search sort linear binary
+Array Operations in C:
+  TRAVERSAL: visit each element once.
+    for (i=0; i<n; i++) printf("%d ", a[i]);
+  SEARCH:
+    Linear search: check each element one by one. O(n) time.
+    Binary search: works on SORTED array; halves search space each step. O(log n).
+  INSERTION: insert element at position p (shift elements right first).
+    for (i=n-1; i>=p; i--) a[i+1] = a[i];
+    a[p] = value; n++;
+  DELETION: delete element at position p (shift elements left).
+    for (i=p; i<n-1; i++) a[i] = a[i+1];
+    n--;
+  SORTING:
+    Bubble sort: compare adjacent pairs, swap if out of order. O(n^2).
+    Selection sort: find minimum, place at front. O(n^2).
+  SUM and AVERAGE:
+    int sum=0; for(i=0;i<n;i++) sum+=a[i]; float avg=(float)sum/n;
+  LARGEST/SMALLEST:
+    int max=a[0]; for(i=1;i<n;i++) if(a[i]>max) max=a[i];
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=linear search array algorithm found index sequential
+Linear Search in C:
+  Linear (sequential) search: check each element one by one from start to end.
+  Works on UNSORTED or SORTED arrays.
+  Algorithm:
+    for (i=0; i<n; i++) {
+        if (a[i] == key) { printf("Found at index %d", i); found=1; break; }
+    }
+    if (!found) printf("Not found");
+  Time complexity: O(n) in worst case (element at end or not present).
+  Best case: O(1) (element at index 0).
+  Advantage: simple to implement; works on any array.
+  Disadvantage: slow for large arrays.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=bubble sort array algorithm swap comparison pass adjacent ascending order
+Bubble Sort in C:
+  Bubble sort compares adjacent elements and swaps them if they are in wrong order.
+  After each pass, the LARGEST unsorted element "bubbles up" to its correct position.
+  Algorithm:
+    for (i=0; i<n-1; i++)              -- n-1 passes
+        for (j=0; j<n-1-i; j++)        -- each pass reduces inner range
+            if (a[j] > a[j+1]) {
+                temp=a[j]; a[j]=a[j+1]; a[j+1]=temp;  -- swap
+            }
+  Time complexity: O(n^2) worst and average case.
+  Space complexity: O(1) (in-place sorting).
+  After pass 1: largest element at last position.
+  After pass 2: second largest at second-last. And so on.
+  Optimization: if no swaps in a pass, array is already sorted — break early.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=string what is string char array null character definition operations
+Strings in C - Quick Reference:
+  A string is a NULL-TERMINATED character array (ends with '\0').
+  Declaration: char name[20]; or char name[] = "Hello";
+  "Hello" stored as: H e l l o \0 (6 bytes total).
+  Key string functions (string.h):
+    strlen(s)      - length (not counting '\0')
+    strcpy(d, s)   - copy string s to d
+    strcat(d, s)   - append s to d
+    strcmp(s1, s2) - compare: 0 if equal, <0 if s1<s2, >0 if s1>s2
+    strstr(s, sub) - find substring; returns pointer or NULL
+  Input: fgets(name, 20, stdin);  -- safe (use instead of gets)
+  Output: printf("%s", name); or puts(name);
+  Cannot use == to compare strings; use strcmp().
+  Cannot use = to copy strings; use strcpy().
+##END##
+
+#TOPIC=physics
+#UNIT=3
+#KEYS=isotope effect superconductivity critical temperature mass phonon BCS evidence
+Isotope Effect in Superconductivity:
+  Tc is proportional to M^(-1/2) where M = isotopic mass of the element.
+  Heavier isotope -> lower Tc; lighter isotope -> higher Tc.
+  Example: Mercury isotopes show different Tc values; heavier Hg -> lower Tc.
+  Significance: proves that lattice vibrations (phonons) are involved in superconductivity.
+  This was a key clue that led to BCS theory: phonons mediate Cooper pair formation.
+  Transition metals that don't show isotope effect (Fe, Pd) are not superconductors.
+##END##
+
+#TOPIC=physics
+#UNIT=3
+#KEYS=London equations penetration depth magnetic field superconductor surface shielding
+London Equations and Penetration Depth:
+  F. and H. London (1935) derived two equations explaining Meissner effect.
+  First London equation: dJ_s/dt = (n_s*e^2/m) * E  (supercurrent accelerates in E field)
+  Second London equation: curl(J_s) = -(n_s*e^2/m) * B  (explains Meissner effect)
+  Penetration depth lambda_L: magnetic field does NOT drop to zero instantly at surface.
+    B(x) = B_0 * exp(-x/lambda_L); field decays exponentially inside superconductor.
+  lambda_L = sqrt(m / mu_0*n_s*e^2); typically 50-500 nm for low-Tc superconductors.
+  For x >> lambda_L: B -> 0 (bulk of superconductor is field-free as Meissner effect shows).
+  London penetration depth increases as T -> Tc (superconductivity weakens at surface).
+##END##
+
+#TOPIC=physics
+#UNIT=3
+#KEYS=flux quantization vortex magnetic flux quantum superconductor unit value
+Flux Quantization in Superconductors:
+  Magnetic flux through a superconducting ring is QUANTIZED.
+  Flux quantum (fluxon): phi_0 = h/(2e) = 2.07 x 10^-15 Wb (Weber).
+  The factor 2e confirms carriers are Cooper PAIRS (charge = 2e).
+  Flux through any superconducting loop = n * phi_0 (integer multiples only).
+  In Type II vortex state: each vortex (flux tube) carries exactly ONE flux quantum phi_0.
+  Flux quantization is direct experimental evidence for Cooper pairing in BCS theory.
+##END##
+
+#TOPIC=physics
+#UNIT=3
+#KEYS=high temperature superconductor YBCO BSCCO ceramic critical temperature above 77K
+High-Temperature Superconductors (HTS):
+  Discovered 1986 by Bednorz and Muller (Nobel Prize 1987) in La-Ba-Cu-O ceramic.
+  YBCO (YBa2Cu3O7): Tc = 92 K (above liquid nitrogen boiling point 77 K).
+  BSCCO (Bi-Sr-Ca-Cu-O): Tc up to 110 K.
+  HgBa2Ca2Cu3O8: Tc = 133 K (highest confirmed at normal pressure).
+  Under pressure: HgBaCaCuO reaches ~164 K.
+  Crystal structure: layered perovskite with CuO2 planes; superconductivity occurs in these planes.
+  Mechanism: NOT fully explained by BCS; d-wave pairing likely; still active research area.
+  Advantage over LTS: cooled by liquid nitrogen (cheap, ~$1/L) vs liquid helium ($5/L).
+  Applications: MRI machines, maglev trains, power cables, SQUID magnetometers.
+##END##
+
+#TOPIC=physics
+#UNIT=3
+#KEYS=applications superconductivity MRI maglev SQUID power loss zero resistance
+Applications of Superconductivity:
+  1. MRI (Magnetic Resonance Imaging):
+     Superconducting coils generate strong, stable magnetic fields (1.5-3 T) for body scanning.
+     NbTi alloy coils cooled by liquid helium.
+  2. Maglev trains:
+     Superconducting magnets on train levitate above track (Meissner effect / flux pinning).
+     Japan's SCMaglev reached 603 km/h (world record).
+  3. Particle accelerators:
+     Superconducting dipole magnets in LHC (CERN) bend particle beams; 8.3 T fields.
+  4. SQUID (Superconducting Quantum Interference Device):
+     Most sensitive magnetic field detector known; detects fields as small as 10^-14 T.
+     Used in brain imaging (MEG), heart monitoring, geophysics.
+  5. Power cables:
+     Zero-resistance cables eliminate transmission losses; prototype cables in cities.
+  6. Fault Current Limiters: protect power grids from surges.
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=Einstein coefficients A B stimulated spontaneous absorption emission ratio
+Einstein Coefficients and Relations:
+  Einstein (1917) introduced three coefficients for atom-radiation interaction:
+  A21 (spontaneous emission coefficient): probability per unit time of spontaneous emission.
+  B12 (absorption coefficient): probability per unit time of stimulated absorption.
+  B21 (stimulated emission coefficient): probability per unit time of stimulated emission.
+  Einstein relations: B12 = B21 (absorption and stimulated emission equally probable).
+    A21 / B21 = 8*pi*h*nu^3 / c^3.
+  For laser: need stimulated emission >> spontaneous emission.
+  At thermal equilibrium: stimulated emission << absorption (normal state; lasers cannot operate).
+  Ratio of stimulated to spontaneous emission: proportional to spectral energy density u(nu).
+  Key insight: stimulated photon is IDENTICAL to incident photon (same phase, frequency, direction).
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=semiconductor laser diode junction forward bias electron hole recombination LED
+Semiconductor Laser (Laser Diode):
+  Active medium: p-n junction of direct band-gap semiconductor (GaAs, InGaAsP).
+  Pumping: forward bias voltage injects electrons (into p-side) and holes (into n-side).
+  Population inversion: at junction, conduction band electrons recombine with valence band holes.
+  Photon emission at wavelength: lambda = hc/Eg (depends on band gap energy).
+  Resonator: cleaved facets of the semiconductor crystal act as partially reflective mirrors.
+  LASER vs LED:
+    LED: spontaneous emission; incoherent; wide spectral width; lower intensity.
+    Laser diode: stimulated emission; coherent; narrow linewidth; high intensity; directional.
+  Advantages: tiny size, low cost, direct electrical pumping, wavelength tunable by material.
+  Applications: DVD/CD players, fiber optic communication (1300nm, 1550nm), laser printers,
+    barcode scanners, laser pointers.
+  GaAs laser: lambda ~870 nm. InGaAsP: lambda ~1300-1550 nm (telecom window).
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=laser applications industrial medical communication holography drilling welding
+Applications of Lasers:
+  INDUSTRIAL:
+    Cutting and drilling: CO2 laser (10.6 um) cuts metals, ceramics, plastics with precision.
+    Welding: laser beam welds small components without mechanical contact.
+    Surface hardening and marking.
+  MEDICAL:
+    Eye surgery (LASIK): Excimer laser (193nm) reshapes cornea.
+    Tumor removal: CO2 laser as bloodless scalpel (cauterizes as it cuts).
+    Dermatology: remove tattoos, skin lesions, hair.
+    Kidney stone breaking (lithotripsy): Nd:YAG laser pulses shatter stones.
+    Photodynamic therapy: laser activates photosensitizing drug to destroy cancer cells.
+  COMMUNICATIONS:
+    Fiber optic networks use semiconductor lasers at 1300/1550 nm.
+    Free-space optical communication, LIDAR (laser radar).
+  SCIENTIFIC:
+    Spectroscopy, interferometry, holography, laser cooling (atom traps).
+  MILITARY: range finding, target designation, directed energy weapons.
+##END##
+
+#TOPIC=physics
+#UNIT=4
+#KEYS=fiber optic communication system block diagram transmitter receiver advantage
+Fiber Optic Communication System:
+  Block diagram: Encoder -> Transmitter (LED/Laser) -> Fiber cable -> Repeaters -> Receiver (Photodetector) -> Decoder.
+  TRANSMITTER: converts electrical signal to optical signal.
+    LED: used for short-distance, multimode fiber, lower bandwidth.
+    Laser diode: used for long-distance, single-mode fiber, high bandwidth.
+  FIBER CABLE: transmits light by TIR; single-mode or multimode.
+  REPEATERS (optical amplifiers): EDFA (Erbium-Doped Fiber Amplifier) at 1550 nm.
+  RECEIVER: Photodetector (PIN diode or Avalanche photodiode) converts light to electrical signal.
+  ADVANTAGES over copper:
+    1. Very high bandwidth (Terabits/sec possible).
+    2. Low attenuation: ~0.2 dB/km at 1550 nm vs ~10 dB/km for copper.
+    3. Immune to electromagnetic interference (EMI).
+    4. No cross-talk between adjacent fibers.
+    5. Lightweight, small diameter, chemically inert.
+    6. Secure: difficult to tap without detection.
+  WINDOWS: 850 nm (multimode, short), 1300 nm (zero dispersion), 1550 nm (minimum loss).
+##END##
+
+#TOPIC=maths
+#UNIT=2
+#KEYS=normal to surface gradient unit normal angle two surfaces intersection
+Normal to a Surface and Angle Between Surfaces:
+  UNIT NORMAL to surface phi(x,y,z) = c:
+    n_hat = grad(phi) / |grad(phi)|
+  NORMAL LINE at point P: passes through P in direction of grad(phi).
+  TANGENT PLANE at point P to surface phi=c:
+    dphi/dx*(x-x0) + dphi/dy*(y-y0) + dphi/dz*(z-z0) = 0
+  ANGLE between two surfaces phi1=c1 and phi2=c2 at point of intersection:
+    cos(theta) = (grad(phi1) . grad(phi2)) / (|grad(phi1)| * |grad(phi2)|)
+  Surfaces are ORTHOGONAL if grad(phi1) . grad(phi2) = 0 at intersection.
+  Example: Find normal to x^2+y^2+z^2=14 at (1,2,3):
+    grad(phi) = 2xi + 2yj + 2zk = 2i+4j+6k at (1,2,3).
+    |grad| = sqrt(4+16+36) = sqrt(56).
+    n_hat = (2i+4j+6k)/sqrt(56).
+##END##
+
+#TOPIC=maths
+#UNIT=2
+#KEYS=vector identities del nabla divergence curl gradient product rule formulas
+Important Vector Identities:
+  Let phi, psi be scalar fields; A, B be vector fields:
+  1. div(phi*A) = phi*div(A) + A.grad(phi)
+  2. curl(phi*A) = phi*curl(A) + grad(phi) x A
+  3. div(A x B) = B.curl(A) - A.curl(B)
+  4. curl(curl(A)) = grad(div(A)) - nabla^2(A)
+  5. grad(A.B) = (A.nabla)B + (B.nabla)A + A x curl(B) + B x curl(A)
+  6. curl(grad(phi)) = 0  [curl of gradient is always zero]
+  7. div(curl(A)) = 0     [divergence of curl is always zero]
+  8. nabla^2(phi) = div(grad(phi)) = d^2phi/dx^2 + d^2phi/dy^2 + d^2phi/dz^2
+  A vector field F is CONSERVATIVE if: curl(F) = 0 and F = grad(phi).
+  A vector field F is SOLENOIDAL if: div(F) = 0.
+##END##
+
+#TOPIC=maths
+#UNIT=3
+#KEYS=conservative field path independent work done scalar potential condition
+Conservative Vector Field and Path Independence:
+  A vector field F is CONSERVATIVE if the line integral is PATH INDEPENDENT.
+  integral_C F.dr depends only on endpoints, not on the path C.
+  Conditions for F = Pi + Qj + Rk to be conservative:
+    curl(F) = 0, i.e., dR/dy=dQ/dz, dP/dz=dR/dx, dQ/dx=dP/dy.
+  If F is conservative: F = grad(phi) for some scalar potential phi.
+  Work done: W = integral_C F.dr = phi(B) - phi(A) (independent of path).
+  For a CLOSED path: oint_C F.dr = 0 if F is conservative.
+  Finding potential phi: integrate each component.
+    dphi/dx = P, dphi/dy = Q, dphi/dz = R.
+  Example: F = 2xy i + x^2 j is conservative.
+    phi = x^2*y + C. Work from (0,0) to (2,3): phi(2,3)-phi(0,0) = 4*3 = 12.
+##END##
+
+#TOPIC=maths
+#UNIT=3
+#KEYS=work done line integral calculation example force field parametric substitution
+Evaluating Line Integrals - Method and Examples:
+  To evaluate integral_C F.dr along curve C:
+  Step 1: Parametrize C: x=x(t), y=y(t), z=z(t), t from a to b.
+  Step 2: Compute dx=x'(t)dt, dy=y'(t)dt, dz=z'(t)dt.
+  Step 3: Substitute into integral and evaluate as ordinary integral in t.
+  Example: F = x i + y j, C: y=x^2 from (0,0) to (1,1).
+    Parametrize: x=t, y=t^2, t: 0->1. dx=dt, dy=2t dt.
+    W = integral_0^1 (t*1 + t^2*2t) dt = integral_0^1 (t + 2t^3) dt = [t^2/2 + t^4/2]_0^1 = 1.
+  For a straight line from A(x1,y1) to B(x2,y2):
+    x = x1 + (x2-x1)*t, y = y1 + (y2-y1)*t, t: 0->1.
+  If F is conservative: W = phi(B) - phi(A) (much easier).
+##END##
+
+#TOPIC=maths
+#UNIT=4
+#KEYS=exact differential equation test condition M dx N dy integrating factor
+Exact Differential Equations:
+  Form: M(x,y)dx + N(x,y)dy = 0.
+  Condition for exactness: dM/dy = dN/dx.
+  If exact: solution is F(x,y) = C where dF/dx = M and dF/dy = N.
+  Method: integrate M w.r.t. x, then differentiate w.r.t. y and compare with N.
+  If NOT exact: use an INTEGRATING FACTOR mu(x) or mu(y) to make it exact.
+    If (dM/dy - dN/dx)/N depends only on x: mu = exp(integral of that function dx).
+    If (dN/dx - dM/dy)/M depends only on y: mu = exp(integral of that function dy).
+  After multiplying by mu, the equation becomes exact; solve as above.
+  Example: (2xy + y^2)dx + (x^2 + 2xy)dy = 0.
+    dM/dy = 2x+2y = dN/dx. Exact! F = x^2*y + xy^2. Solution: x^2*y + xy^2 = C.
+##END##
+
+#TOPIC=maths
+#UNIT=4
+#KEYS=second order ODE spring mass system damping free forced vibration mechanical
+Spring-Mass System (SHM and Damping):
+  Undamped free vibration: m*x'' + kx = 0; natural frequency w_n = sqrt(k/m).
+    Solution: x = A*cos(w_n*t) + B*sin(w_n*t). No energy loss.
+  Damped free vibration: m*x'' + c*x' + kx = 0.
+    Auxiliary equation: m*r^2 + c*r + k = 0.
+    Discriminant D = c^2 - 4mk.
+    D > 0: Overdamped (two real roots); x decays without oscillation.
+    D = 0: Critically damped (repeated root); fastest decay without oscillation.
+    D < 0: Underdamped (complex roots); oscillates with decaying amplitude.
+    Damping ratio: zeta = c/(2*sqrt(mk)).
+  Forced vibration: m*x'' + c*x' + kx = F_0*cos(w*t).
+    Particular integral gives steady-state response.
+    RESONANCE: when forcing frequency w = natural frequency w_n; amplitude -> infinity (undamped).
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=C programming history features characteristics Dennis Ritchie Bell Labs middle level
+History and Features of C Programming:
+  C was developed by Dennis Ritchie at Bell Laboratories in 1972.
+  Evolved from B language (Ken Thompson) and BCPL language.
+  Used to write the UNIX operating system.
+  FEATURES of C:
+    1. Middle-level language: combines features of high-level and low-level (assembly) languages.
+    2. Structured programming: uses functions, loops, conditionals.
+    3. Portable: C programs can run on different machines with minor changes.
+    4. Fast and efficient: close to hardware; no runtime overhead.
+    5. Rich library: extensive standard library (stdio.h, math.h, string.h, etc.).
+    6. Pointers: direct memory access and manipulation.
+    7. Modularity: program divided into functions.
+  Standards: K&R C (1978), ANSI C / C89 (1989), C99 (1999), C11 (2011), C17 (2018).
+  C is the foundation for C++, Java, Python, and most modern languages.
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=structure C program main function header file include preprocessor format
+Structure of a C Program:
+  Every C program has this basic structure:
+    // 1. Preprocessor directives
+    #include <stdio.h>
+    #define PI 3.14159
+    // 2. Global declarations (optional)
+    int global_var;
+    // 3. Function prototypes (optional)
+    int add(int a, int b);
+    // 4. Main function (mandatory entry point)
+    int main() {
+        // local declarations
+        // executable statements
+        return 0;
+    }
+    // 5. User-defined functions
+    int add(int a, int b) { return a+b; }
+  Execution begins at main() and ends at return 0; or closing brace.
+  Header files: contain function declarations and macros.
+    stdio.h = printf, scanf, fgets, puts.
+    math.h = sin, cos, sqrt, pow. Link with -lm flag.
+    string.h = strlen, strcpy, strcmp.
+    stdlib.h = malloc, free, atoi, rand.
+  Comments: // single line,  /* multi-line */
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=data types int float char double size bytes range C variables
+Data Types and Variables in C:
+  BASIC DATA TYPES:
+    int    : integer; typically 4 bytes; range -2^31 to 2^31-1.
+    float  : single precision float; 4 bytes; ~6 decimal digits precision.
+    double : double precision float; 8 bytes; ~15 decimal digits precision.
+    char   : single character; 1 byte; stores ASCII value.
+    void   : no type (used for functions returning nothing, void pointers).
+  MODIFIERS: short, long, signed, unsigned.
+    short int: 2 bytes. long int: 8 bytes (on 64-bit). unsigned int: 0 to 2^32-1.
+  VARIABLE DECLARATION: data_type variable_name = value;
+    int age = 20;  float pi = 3.14;  char grade = 'A';
+  CONSTANTS: const int MAX = 100; or #define MAX 100.
+  Format specifiers: %d (int), %f (float), %lf (double), %c (char), %s (string).
+  sizeof() operator: returns size in bytes. sizeof(int) = 4.
+##END##
+
+#TOPIC=cprog
+#UNIT=1
+#KEYS=operators arithmetic relational logical bitwise assignment operator precedence
+Operators in C:
+  ARITHMETIC: + - * / % (modulo). Integer division: 7/2 = 3 (truncates).
+  RELATIONAL: == != < > <= >= (return 1/0).
+  LOGICAL: && (AND), || (OR), ! (NOT). Short-circuit evaluation.
+  ASSIGNMENT: = += -= *= /= %= (compound assignment).
+  INCREMENT/DECREMENT: ++ -- . Pre: ++i (increment then use). Post: i++ (use then increment).
+  BITWISE: & (AND), | (OR), ^ (XOR), ~ (NOT), << (left shift), >> (right shift).
+  CONDITIONAL (ternary): condition ? value_if_true : value_if_false.
+    Example: max = (a>b) ? a : b;
+  SIZEOF: sizeof(type) or sizeof(variable). Returns size in bytes.
+  COMMA: evaluates left to right; returns rightmost value.
+  OPERATOR PRECEDENCE (high to low): () [] -> .  then  ++ --  then  * / %  then  + -
+    then  << >>  then  < <= > >=  then  == !=  then  & ^ |  then  && ||  then  ?:  then  = += etc.
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=nested loop inner outer matrix pattern star pyramid
+Nested Loops in C:
+  A loop inside another loop is called a nested loop.
+  Outer loop controls rows; inner loop controls columns (for patterns/matrices).
+  Total iterations = outer_iterations * inner_iterations.
+  Example: print multiplication table:
+    for (i=1; i<=10; i++) {
+        for (j=1; j<=10; j++)
+            printf("%4d", i*j);
+        printf("\n");
+    }
+  Star pattern (right triangle):
+    for (i=1; i<=n; i++) {
+        for (j=1; j<=i; j++) printf("* ");
+        printf("\n");
+    }
+  IMPORTANT: inner loop variable must be re-initialized each time outer loop iterates.
+  for loop can be replaced by while loop in nested form.
+  Nested loops are essential for 2D array processing and pattern printing.
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=type conversion casting implicit explicit promotion narrowing widening
+Type Conversion in C:
+  IMPLICIT (automatic) conversion: compiler converts smaller type to larger type.
+    Called promotion. int + float -> float; char + int -> int.
+    No data loss when widening (int to float).
+    May lose data when narrowing (float to int truncates decimal part).
+  EXPLICIT (type casting): programmer forces conversion.
+    Syntax: (type) expression.
+    Example: (float)7 / 2 = 3.5  (without cast: 7/2 = 3 integer division).
+    Example: int x = (int)3.99;  x = 3 (truncates, not rounds).
+  Hierarchy (lowest to highest): char -> short -> int -> long -> float -> double -> long double.
+  Automatic conversion always goes UP the hierarchy.
+  Cast is needed when going DOWN (float to int) to show intent clearly.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=selection sort algorithm minimum element position swap unsorted
+Selection Sort in C:
+  Find the minimum element in unsorted portion and place it at the beginning.
+  Algorithm: n-1 passes; each pass selects minimum and swaps to correct position.
+    for (i=0; i<n-1; i++) {
+        min_idx = i;
+        for (j=i+1; j<n; j++)
+            if (a[j] < a[min_idx]) min_idx = j;
+        if (min_idx != i) {
+            temp=a[min_idx]; a[min_idx]=a[i]; a[i]=temp;
+        }
+    }
+  Time complexity: O(n^2) always (always does n*(n-1)/2 comparisons).
+  Space complexity: O(1) (in-place).
+  Advantage over bubble sort: fewer swaps (at most n-1 swaps vs O(n^2) for bubble).
+  After pass i: elements a[0..i] are in their final sorted position.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=binary search sorted array algorithm mid left right logarithmic
+Binary Search in C:
+  Requires SORTED array. Repeatedly halves the search space.
+  Algorithm:
+    int low=0, high=n-1, mid;
+    while (low <= high) {
+        mid = (low + high) / 2;
+        if (a[mid] == key) { printf("Found at %d", mid); return; }
+        else if (a[mid] < key) low = mid + 1;
+        else high = mid - 1;
+    }
+    printf("Not found");
+  Time complexity: O(log n). For n=1000: at most 10 comparisons.
+  vs Linear search: binary O(log n) vs linear O(n). Much faster for large arrays.
+  Precondition: array MUST be sorted. Use after sorting or on already-sorted data.
+  Each step: compare middle element; if key is larger -> search right half; else left half.
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=multidimensional array 3D array declaration access memory
+Multidimensional Arrays (Beyond 2D):
+  3D array: int a[2][3][4]; -- 2 blocks of 3x4 matrices = 24 total elements.
+  Access: a[i][j][k].
+  Memory: stored in row-major order: a[0][0][0], a[0][0][1], ... a[0][0][3], a[0][1][0]...
+  General nD array: int a[d1][d2]...[dn]; total = d1*d2*...*dn elements.
+  Passing to function: all dimensions except first must be specified.
+    void func(int a[][3][4], int d1);
+  In practice: 2D arrays are most common; 3D arrays used for 3D grids, image stacks, tensors.
+  Total size in bytes: product of all dimensions * sizeof(element_type).
+##END##
+
+#TOPIC=cprog
+#UNIT=3
+#KEYS=string comparison sorting alphabetical order strcmp bubble sort names
+Sorting Strings in C:
+  Cannot use > < operators on strings; must use strcmp().
+  strcmp(s1, s2) returns: 0 if equal, negative if s1 < s2, positive if s1 > s2.
+  Bubble sort for string array (n strings, each max len chars):
+    char names[20][30], temp[30];
+    for (i=0; i<n-1; i++)
+        for (j=0; j<n-1-i; j++)
+            if (strcmp(names[j], names[j+1]) > 0) {
+                strcpy(temp, names[j]);
+                strcpy(names[j], names[j+1]);
+                strcpy(names[j+1], temp);
+            }
+  Use strcpy() to copy/swap strings, not assignment (=).
+  After sorting: names are in alphabetical (lexicographic) order.
+##END##
+
+#TOPIC=cprog
+#UNIT=2
+#KEYS=while vs for vs do while comparison choose when difference entry exit
+Comparison of Loop Types:
+  FEATURE         | for          | while          | do-while
+  Control test    | Entry        | Entry          | Exit
+  Min iterations  | 0            | 0              | 1 (always)
+  Init location   | In header    | Before loop    | Before loop
+  Update location | In header    | Inside body    | Inside body
+  Best used when  | Count known  | Count unknown  | Must run once
+
+  FOR loop: compact; all control in one line; for counting.
+  WHILE loop: flexible; use when stopping condition depends on computed value.
+  DO-WHILE: guarantees at least one execution; good for menus, input validation.
+  All three loops can simulate each other; choice is about clarity and intent.
+  Infinite loop: for(;;) {} or while(1) {} or do {} while(1);
+    Break out with break statement.
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=structure definition syntax struct members declaration user defined type
+Structure in C - Definition and Syntax:
+  A structure is a user-defined data type that groups related variables of DIFFERENT
+  data types under a single name.
+  DEFINITION syntax:
+    struct tag_name {
+        data_type member1;
+        data_type member2;
+        ...
+    };
+  Example:
+    struct Student {
+        int roll_no;
+        char name[50];
+        float marks;
+    };
+  Definition only creates a TEMPLATE; no memory is allocated yet.
+  DECLARING a structure variable:
+    struct Student s1;          -- after definition
+    struct Student s1, s2, s3; -- multiple variables
+    struct Student s1 = {1, "Alice", 92.5};  -- with initialization
+  sizeof(struct Student): sum of sizes of all members (may include padding bytes).
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=structure member access dot operator initialization assign value read
+Accessing Structure Members:
+  Use the DOT (.) operator to access members of a structure variable.
+  Syntax: variable_name.member_name
+  Example:
+    struct Student s1;
+    s1.roll_no = 101;
+    strcpy(s1.name, "Alice");
+    s1.marks = 92.5;
+    printf("Roll: %d, Name: %s, Marks: %.1f", s1.roll_no, s1.name, s1.marks);
+  INITIALIZATION at declaration:
+    struct Student s1 = {101, "Alice", 92.5};
+    Members initialized in ORDER they appear in struct definition.
+  INPUT from user:
+    scanf("%d", &s1.roll_no);
+    scanf("%s", s1.name);   -- no & for char array
+    scanf("%f", &s1.marks);
+  COPYING: s2 = s1; copies ALL members (valid for same struct type).
+  COMPARING: s1 == s2 is NOT valid; compare member by member.
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=array of structures multiple records table student employee declaration loop
+Array of Structures:
+  Store multiple records of the same structure type using an array.
+  Declaration: struct Student students[50];  -- array of 50 Student records.
+  Access: students[i].roll_no, students[i].name, students[i].marks.
+  Input loop:
+    for (i=0; i<n; i++) {
+        scanf("%d", &students[i].roll_no);
+        scanf("%s", students[i].name);
+        scanf("%f", &students[i].marks);
+    }
+  Output loop:
+    for (i=0; i<n; i++)
+        printf("%d %s %.2f\n", students[i].roll_no, students[i].name, students[i].marks);
+  Finding maximum marks:
+    float max = students[0].marks;
+    for (i=1; i<n; i++) if (students[i].marks > max) max = students[i].marks;
+  Array of structures is essentially a database table in memory.
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=nested structure structure within structure member access inner outer
+Nested Structures:
+  A structure can contain another structure as a member.
+  Example:
+    struct Date { int day, month, year; };
+    struct Student {
+        int roll_no;
+        char name[50];
+        struct Date dob;  -- nested structure
+    };
+  Access nested member using two dot operators:
+    s1.dob.day = 15;
+    s1.dob.month = 8;
+    s1.dob.year = 2003;
+  Initialization: struct Student s1 = {1, "Alice", {15, 8, 2003}};
+  Alternative: define and use the inner struct separately before the outer struct.
+  Useful for: date of birth, address (street, city, pin), coordinates (x, y).
+  Nesting depth: C allows multiple levels of nesting.
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=structure function pass by value reference pointer argument return
+Structures and Functions:
+  PASSING BY VALUE: entire struct is copied; changes inside don't affect original.
+    void display(struct Student s) { printf("%s", s.name); }
+    Call: display(s1);
+  PASSING BY REFERENCE (using pointer): efficient; changes affect original.
+    void update(struct Student *s) { s->marks += 5; }
+    Call: update(&s1);
+  RETURNING a structure from function:
+    struct Student create() {
+        struct Student s;
+        scanf("%d %s %f", &s.roll_no, s.name, &s.marks);
+        return s;
+    }
+    struct Student s1 = create();
+  Arrow operator (->): used with pointer to structure.
+    (*ptr).member is equivalent to ptr->member.
+  Passing by reference is preferred for large structures (avoids copying overhead).
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=typedef alias structure rename type definition create new name
+typedef in C:
+  typedef creates an ALIAS (new name) for an existing data type.
+  Syntax: typedef existing_type new_name;
+  Examples:
+    typedef int Integer;         -- Integer is now same as int
+    typedef float Real;
+    typedef unsigned long ulong;
+  typedef with structures: avoids writing "struct" keyword every time.
+    typedef struct {
+        int roll_no;
+        char name[50];
+        float marks;
+    } Student;               -- Student is now a type (no "struct" needed)
+    Student s1, s2;          -- instead of: struct Student s1, s2;
+  typedef with pointers:
+    typedef int* IntPtr;
+    IntPtr p;  -- p is pointer to int
+  typedef does NOT create a new type; just a new name for an existing type.
+  Improves readability; widely used in standard library (size_t, FILE, etc.).
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=union definition memory shared members largest size difference struct
+Union in C:
+  A union is like a struct but ALL members SHARE the same memory location.
+  Only ONE member can hold a valid value at a time.
+  Size of union = size of its LARGEST member.
+  Syntax:
+    union Data {
+        int i;
+        float f;
+        char str[20];
+    };
+    union Data d;
+    d.i = 10;           -- valid: stores 10
+    d.f = 3.14;         -- overwrites d.i; now d.i is invalid
+    printf("%f", d.f);  -- prints 3.14
+  sizeof(union Data) = 20 (size of char str[20], the largest member).
+  STRUCT vs UNION:
+    Struct: all members have separate memory; total size = sum of members.
+    Union: all members share memory; size = largest member; one valid at a time.
+  Use case: when only ONE member will be active at a time (saves memory).
+    Example: variant data type, network protocol headers.
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=enum enumeration named integer constants list definition use
+Enumeration (enum) in C:
+  enum defines a list of NAMED INTEGER CONSTANTS.
+  Syntax:
+    enum Day { MON, TUE, WED, THU, FRI, SAT, SUN };
+  By default: MON=0, TUE=1, WED=2, ..., SUN=6.
+  Custom values:
+    enum Color { RED=1, GREEN=5, BLUE=10 };
+  Declaring variable: enum Day today = WED;
+  Using: if (today == WED) printf("Wednesday");
+  typedef enum:
+    typedef enum { FALSE=0, TRUE=1 } bool;
+    bool flag = TRUE;
+  Benefits:
+    - Improves readability: if (day == MON) vs if (day == 0).
+    - Type safety: compiler may warn if wrong integer used.
+    - Easier to maintain: change one definition, all uses update.
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=pointer definition declaration address memory variable indirect access
+Pointers in C - Definition and Declaration:
+  A pointer is a variable that stores the MEMORY ADDRESS of another variable.
+  WHY pointers: direct memory access, dynamic allocation, passing by reference, arrays.
+  DECLARATION: data_type *pointer_name;
+    int *p;      -- p is a pointer to int
+    float *fp;   -- fp is a pointer to float
+    char *cp;    -- cp is a pointer to char
+  INITIALIZATION:
+    int x = 10;
+    int *p = &x;    -- p stores address of x; & is address-of operator
+  DEREFERENCING (*): access the value at the address stored in pointer.
+    printf("%d", *p);   -- prints 10 (value of x)
+    *p = 20;            -- changes x to 20 through pointer
+  NULL pointer: int *p = NULL; -- pointer that points to nothing; safe default.
+    Always initialize pointers; uninitialized pointer -> undefined behaviour.
+  Relationship: if p = &x, then *p == x, and &(*p) == p.
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=pointer arithmetic increment decrement addition subtraction array traversal
+Pointer Arithmetic:
+  Pointers support arithmetic operations: ++, --, +, -.
+  When you add 1 to a pointer, it advances by sizeof(data_type) bytes.
+    int a[5] = {10,20,30,40,50};
+    int *p = a;      -- p points to a[0]
+    p++;             -- now p points to a[1] (moved 4 bytes forward for int)
+    printf("%d", *p); -- prints 20
+  Operations allowed:
+    ptr + n  : moves n elements forward (n * sizeof(type) bytes).
+    ptr - n  : moves n elements backward.
+    ptr++/-- : move one element forward/backward.
+    p1 - p2  : number of elements between two pointers (same array only).
+  Operations NOT allowed: pointer * pointer, pointer / pointer, adding two pointers.
+  Pointer and array: a[i] is equivalent to *(a+i). Array name = pointer to first element.
+  Traversing array with pointer:
+    for (p=a; p<a+n; p++) printf("%d ", *p);
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=pointer to array array of pointers difference string pointer char
+Pointer to Array and Array of Pointers:
+  POINTER TO ARRAY: one pointer points to entire array.
+    int a[5] = {1,2,3,4,5};
+    int (*p)[5] = &a;   -- p is pointer to an array of 5 ints
+    Access: (*p)[i] or p[0][i]
+  ARRAY OF POINTERS: array where each element is a pointer.
+    int *arr[5];         -- array of 5 integer pointers
+    arr[0] = &a; arr[1] = &b; etc.
+  ARRAY OF STRINGS using char pointers:
+    char *names[] = {"Alice", "Bob", "Carol"};
+    printf("%s", names[0]);   -- prints Alice
+    printf("%c", names[0][1]); -- prints l
+  vs char names[][20]: array of pointers uses less memory (each string exactly sized);
+    but string literals are read-only (cannot modify via pointer to literal).
+  Pointer to 2D array: int (*p)[4] = a; for int a[3][4];
+##END##
+
+#TOPIC=cprog
+#UNIT=4
+#KEYS=void pointer generic pointer cast malloc any type
+void Pointer and Generic Pointers:
+  void *p: a generic pointer that can hold address of any data type.
+  Cannot dereference a void pointer directly; must cast first.
+    int x = 10; float f = 3.14;
+    void *vp;
+    vp = &x;  printf("%d", *(int*)vp);   -- cast to int* first
+    vp = &f;  printf("%f", *(float*)vp); -- cast to float* first
+  malloc() returns void*: must cast to appropriate type.
+    int *p = (int*)malloc(5 * sizeof(int));
+  void pointer is used for:
+    1. Generic functions (like memcpy, memmove) that work on any type.
+    2. Dynamic memory allocation (malloc returns void*).
+    3. Function pointers in callbacks.
+  Cannot do arithmetic on void*; must cast to typed pointer first.
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=dynamic memory allocation heap malloc calloc realloc free runtime
+Dynamic Memory Allocation in C:
+  Static allocation: size fixed at COMPILE TIME (int a[100]).
+  Dynamic allocation: size determined at RUNTIME; memory from HEAP.
+  Four functions in <stdlib.h>:
+  malloc(size): allocates 'size' bytes; returns void*; contents UNINITIALIZED (garbage).
+    int *p = (int*)malloc(n * sizeof(int));
+    if (p == NULL) { printf("Allocation failed"); exit(1); }
+  calloc(n, size): allocates n*size bytes; ZERO-INITIALIZES all bytes.
+    int *p = (int*)calloc(n, sizeof(int));
+  realloc(ptr, new_size): resizes previously allocated block.
+    p = (int*)realloc(p, new_n * sizeof(int));
+    Returns new pointer (may be different address); old pointer invalid after call.
+  free(ptr): releases heap memory back to OS.
+    free(p); p = NULL;  -- set to NULL after free to avoid dangling pointer.
+  ALWAYS check if malloc/calloc returns NULL (allocation failure).
+  ALWAYS free every malloc/calloc to avoid memory leaks.
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=malloc calloc difference initialization zero memory comparison
+malloc vs calloc - Differences:
+  FEATURE          | malloc                  | calloc
+  Syntax           | malloc(size)            | calloc(n, size)
+  Arguments        | 1 (total bytes)         | 2 (count, element size)
+  Initialization   | NO (garbage values)     | YES (all bytes set to 0)
+  Return type      | void*                   | void*
+  Speed            | Slightly faster         | Slightly slower (zeroing takes time)
+  Usage            | When initialization     | When you need zeroed memory
+                   | not needed              | (counts, flags, numeric arrays)
+
+  Both return NULL on failure. Both require free().
+  Example:
+    int *a = (int*)malloc(5 * sizeof(int));  -- a[0]..a[4] have garbage
+    int *b = (int*)calloc(5, sizeof(int));   -- b[0]..b[4] are all 0
+  realloc can be used with memory from either malloc or calloc.
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=memory leak dangling pointer free null check common errors dynamic
+Memory Leak and Dangling Pointer:
+  MEMORY LEAK: allocated memory is never freed; program keeps consuming heap memory.
+    void func() { int *p = malloc(100); /* no free */ }  -- leak on every call!
+    Symptoms: program slows down, crashes after long run, system runs out of memory.
+    Fix: every malloc/calloc must have a matching free().
+  DANGLING POINTER: pointer that points to already-freed memory.
+    int *p = malloc(sizeof(int));
+    free(p);
+    *p = 10;  -- UNDEFINED BEHAVIOUR! Dangling pointer dereference.
+    Fix: set pointer to NULL after free: free(p); p = NULL;
+    Then check: if (p != NULL) before using.
+  DOUBLE FREE: calling free() twice on same pointer -> undefined behaviour.
+    Fix: set p = NULL after first free; free(NULL) is safe and does nothing.
+  NULL POINTER DEREFERENCE: *p when p is NULL -> crash (segmentation fault).
+    Fix: always check if malloc returned NULL before using pointer.
+  Good practice: initialize ALL pointers to NULL; check before use; free and null.
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=linked list definition node structure pointer next data self-referential
+Linked List - Definition and Node Structure:
+  A linked list is a dynamic data structure where elements (nodes) are stored in
+  non-contiguous memory and linked using POINTERS.
+  Each NODE contains:
+    1. DATA field: stores actual data.
+    2. NEXT pointer: stores address of the NEXT node (NULL for last node).
+  Node structure in C:
+    struct Node {
+        int data;
+        struct Node *next;   -- self-referential structure
+    };
+  HEAD pointer: points to the FIRST node; if HEAD == NULL, list is empty.
+  TYPES of linked lists:
+    1. Singly linked list: each node points to next only (one direction).
+    2. Doubly linked list: each node has next AND prev pointers (both directions).
+    3. Circular linked list: last node points back to first node.
+  Linked list vs Array:
+    Array: fixed size; random access O(1); insertion/deletion O(n) (shifting).
+    Linked list: dynamic size; sequential access O(n); insertion/deletion O(1) at known position.
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=singly linked list insert beginning create node malloc traversal display
+Singly Linked List - Insert at Beginning:
+  To insert a new node at the BEGINNING of the list:
+    struct Node* insert_front(struct Node* head, int data) {
+        struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+        newNode->data = data;
+        newNode->next = head;    -- new node points to current head
+        head = newNode;          -- head now points to new node
+        return head;
+    }
+  Steps: (1) Create new node with malloc. (2) Set its data. (3) Point new->next to old head. (4) Update head to new node.
+  Time complexity: O(1) — insert at beginning is constant time.
+  DISPLAY (traversal):
+    struct Node* temp = head;
+    while (temp != NULL) { printf("%d -> ", temp->data); temp = temp->next; }
+    printf("NULL\n");
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=singly linked list insert end append last node NULL update
+Singly Linked List - Insert at End:
+  To insert a new node at the END of the list:
+    struct Node* insert_end(struct Node* head, int data) {
+        struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+        newNode->data = data;
+        newNode->next = NULL;
+        if (head == NULL) return newNode;  -- empty list
+        struct Node* temp = head;
+        while (temp->next != NULL) temp = temp->next;  -- traverse to last node
+        temp->next = newNode;    -- link last node to new node
+        return head;
+    }
+  Steps: (1) Create new node. (2) Set next=NULL. (3) Traverse to last node. (4) Link last->next to new node.
+  Time complexity: O(n) — must traverse entire list to find end.
+  Optimization: keep a TAIL pointer to avoid traversal; then O(1).
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=singly linked list delete node beginning end middle free memory
+Singly Linked List - Deletion:
+  DELETE from BEGINNING:
+    struct Node* delete_front(struct Node* head) {
+        if (head == NULL) return NULL;
+        struct Node* temp = head;
+        head = head->next;
+        free(temp);
+        return head;
+    }
+  DELETE from END:
+    Traverse to second-last node. Set its next = NULL. Free last node.
+  DELETE a specific value:
+    struct Node* delete_val(struct Node* head, int val) {
+        if (head == NULL) return NULL;
+        if (head->data == val) { struct Node* t=head; head=head->next; free(t); return head; }
+        struct Node* prev = head, *curr = head->next;
+        while (curr != NULL && curr->data != val) { prev=curr; curr=curr->next; }
+        if (curr != NULL) { prev->next = curr->next; free(curr); }
+        return head;
+    }
+  ALWAYS free the deleted node to prevent memory leak.
+  Time complexity: O(1) at beginning; O(n) at end or for a specific value.
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=doubly linked list node prev next both directions insertion deletion
+Doubly Linked List:
+  Each node has TWO pointers: prev (to previous node) and next (to next node).
+  Node structure:
+    struct DNode {
+        int data;
+        struct DNode *prev;
+        struct DNode *next;
+    };
+  HEAD->prev = NULL; TAIL->next = NULL.
+  Advantages over singly linked list:
+    - Can traverse in BOTH directions (forward and backward).
+    - Deletion is O(1) if pointer to node is known (no need to find prev node).
+    - Can insert before a given node easily.
+  Disadvantages: extra memory for prev pointer per node.
+  INSERT at beginning:
+    newNode->next = head; newNode->prev = NULL;
+    if (head != NULL) head->prev = newNode;
+    head = newNode;
+  DELETE a node:
+    if (node->prev) node->prev->next = node->next;
+    if (node->next) node->next->prev = node->prev;
+    free(node);
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=circular linked list last node points head first traverse detect
+Circular Linked List:
+  In a circular linked list, the LAST node's next pointer points back to the FIRST node.
+  Singly circular: last->next = head (no NULL in the list).
+  Doubly circular: last->next = head AND head->prev = last.
+  ADVANTAGES:
+    - Can start traversal from ANY node and reach all other nodes.
+    - Useful for applications that require cyclic iteration (round-robin scheduling, music playlist).
+  TRAVERSAL: stop when you return to starting node (not NULL check).
+    struct Node* temp = head;
+    do { printf("%d ", temp->data); temp = temp->next; } while (temp != head);
+  INSERT at beginning: new->next = head; find last node; last->next = new; head = new.
+  Detecting circular list (Floyd's algorithm): slow and fast pointer; if they meet, loop exists.
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=file handling fopen fclose file pointer FILE mode read write append
+File Handling in C - Basics:
+  Files allow data to be stored PERMANENTLY on disk (not lost when program ends).
+  FILE type: FILE *fp; -- file pointer.
+  OPENING a file: fp = fopen("filename", "mode");
+    Returns NULL if file cannot be opened. ALWAYS check for NULL.
+  FILE MODES:
+    "r"  - read only; file must exist.
+    "w"  - write; creates new file or TRUNCATES existing file.
+    "a"  - append; writes at end; creates if not exists.
+    "r+" - read and write; file must exist.
+    "w+" - read and write; creates or truncates.
+    "a+" - read and append.
+    "rb","wb","ab" - binary modes (no newline translation).
+  CLOSING: fclose(fp); -- ALWAYS close file after use; flushes buffer.
+  Example:
+    FILE *fp = fopen("data.txt", "w");
+    if (fp == NULL) { printf("Error"); exit(1); }
+    fprintf(fp, "Hello World\n");
+    fclose(fp);
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=fprintf fscanf fgets fputs fgetc fputc file read write text
+File I/O Functions for Text Files:
+  WRITING to file:
+    fprintf(fp, format, args): like printf but writes to file.
+      fprintf(fp, "%d %s %.2f\n", roll, name, marks);
+    fputs(str, fp): writes a string to file (no automatic newline).
+    fputc(ch, fp): writes a single character to file.
+  READING from file:
+    fscanf(fp, format, args): like scanf but reads from file.
+      fscanf(fp, "%d %s %f", &roll, name, &marks);
+      Returns number of items read; returns EOF when end of file.
+    fgets(str, n, fp): reads one line (at most n-1 chars); includes '\n'.
+      Safe: won't overflow buffer; stops at newline or EOF.
+    fgetc(fp): reads one character; returns EOF at end.
+  DETECTING end of file:
+    feof(fp): returns non-zero if end of file reached.
+    while (!feof(fp)) { fscanf(fp, ...); }
+  Standard streams: stdin, stdout, stderr are FILE* already open.
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=fseek ftell rewind file position random access binary seek set cur end
+File Positioning Functions:
+  fseek(fp, offset, origin): moves file position pointer.
+    origin values:
+      SEEK_SET (0): from beginning of file.
+      SEEK_CUR (1): from current position.
+      SEEK_END (2): from end of file.
+    Examples:
+      fseek(fp, 0, SEEK_SET);   -- go to beginning
+      fseek(fp, 0, SEEK_END);   -- go to end
+      fseek(fp, -10, SEEK_CUR); -- go back 10 bytes from current
+      fseek(fp, n*sizeof(struct), SEEK_SET); -- jump to nth record
+  ftell(fp): returns current position (offset from beginning in bytes).
+    long pos = ftell(fp);
+  rewind(fp): equivalent to fseek(fp, 0, SEEK_SET); resets to beginning.
+  Random access: use fseek to jump to any record directly.
+    Particularly useful for BINARY files with fixed-size records.
+##END##
+
+#TOPIC=cprog
+#UNIT=5
+#KEYS=fread fwrite binary file structure record read write size count
+Binary File Operations - fread and fwrite:
+  Binary files store data in raw binary format (no text conversion).
+  WRITING with fwrite:
+    fwrite(ptr, size, count, fp);
+    ptr   = pointer to data to write.
+    size  = size of each element in bytes.
+    count = number of elements to write.
+    Returns: number of elements successfully written.
+    Example: fwrite(&s, sizeof(struct Student), 1, fp); -- write one record
+  READING with fread:
+    fread(ptr, size, count, fp);
+    Returns: number of elements read (0 at EOF).
+    Example: fread(&s, sizeof(struct Student), 1, fp);
+  Binary vs text files:
+    Binary: exact byte-for-byte copy; compact; not human-readable; platform-specific.
+    Text: human-readable; '\n' converted on Windows; slightly larger.
+  Binary files + fseek: perfect for fixed-size records (database-like access).
+    Jump to record n: fseek(fp, n*sizeof(struct Student), SEEK_SET);
+##END##
