@@ -91,6 +91,9 @@ void dm_get_topic_prompt(char *response_out);
 void dm_process_input(SessionState *session, const char *raw_input, char *response_out);
 void dm_run_quiz_step(SessionState *session, const char *raw_input, char *response_out);
 
+/* simulation.c */
+void run_simulation(void);
+
 /* main.c */
 char *si_safe_input(char *buf, int size, FILE *stream);
 void  si_log_entry(const char *speaker, const char *text, FILE *log_fp);

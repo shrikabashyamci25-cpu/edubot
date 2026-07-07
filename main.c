@@ -50,6 +50,9 @@ int main(void)
     /* Load runtime knowledge base from dataset file */
     load_knowledge_base(DATASET_FILE);
 
+    /* Run automated evaluation benchmark before starting chat */
+    run_simulation();
+
     FILE *log_fp=fopen(LOG_FILENAME,"a");
     if (!log_fp) fprintf(stderr,"[WARNING] Cannot open log file. Continuing without logging.\n\n");
     else { fprintf(log_fp,"\n=== NEW SESSION ===\n"); fflush(log_fp); }

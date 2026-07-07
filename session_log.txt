@@ -1,0 +1,1464 @@
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: shrika
+[EduBot]: 
+  Welcome, shrika! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shrika]: Physics
+[EduBot]: 
+  Physics selected.
+============================================================
+  Physics -- Q&A MODE
+============================================================
+  Ask any question about Physics.
+  Commands: quiz | menu | help | exit
+------------------------------------------------------------
+[shrika]: quiz
+[EduBot]: 
+============================================================
+  QUIZ -- Question 1 of 5
+============================================================
+  A 5 kg object is pushed with a net force of 20 N. What is its acceleration?
+
+  A) 2 m/s^2
+  B) 4 m/s^2
+  C) 10 m/s^2
+  D) 100 m/s^2
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: B
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: Using F=ma: a = F/m = 20/5 = 4 m/s^2.
+
+============================================================
+  QUIZ -- Question 2 of 5
+============================================================
+  Which quantity is conserved in ALL types of collisions?
+
+  A) Kinetic energy
+  B) Total mechanical energy
+  C) Momentum
+  D) Velocity
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, shrika!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : shrika
+  Start  : 2026-06-18 13:13:13
+  End    : 2026-06-18 13:15:10
+  Subject: Physics
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: triveni 
+[EduBot]: 
+  Welcome, triveni! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[triveni]: 2
+[EduBot]: 
+  Civil Engineering selected.
+============================================================
+  Civil Engineering -- Q&A MODE
+============================================================
+  Ask any question about Civil Engineering.
+  Commands: quiz | menu | help | exit
+------------------------------------------------------------
+[triveni]: menu 
+[EduBot]: 
+  Returning to subject selection.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[triveni]: 2
+[EduBot]: 
+  Civil Engineering selected.
+============================================================
+  Civil Engineering -- Q&A MODE
+============================================================
+  Ask any question about Civil Engineering.
+  Commands: quiz | menu | help | exit
+------------------------------------------------------------
+[triveni]: help 
+[EduBot]: 
+============================================================
+  Civil Engineering -- Q&A MODE
+============================================================
+  Ask any question about Civil Engineering.
+  Commands: quiz | menu | help | exit
+------------------------------------------------------------
+[triveni]: how many types of staircases are there
+[EduBot]: 
+Types of Portland Cement:
+  OPC  (Ordinary Portland Cement): general purpose; grades 33,43,53.
+  PPC  (Portland Pozzolana): fly-ash blend; sulfate resistant.
+  Rapid Hardening Cement: early strength gain.
+  SRC  (Sulfate Resistant Cement): for sulfate-rich soils.
+  Low Heat Cement: mass concrete (dams).
+  White Cement: decorative finishes.
+
+  [Ask another question | 'quiz' | 'menu' | 'help']
+[triveni]: quiz
+[EduBot]: 
+============================================================
+  QUIZ -- Question 1 of 5
+============================================================
+  Minimum concrete grade for RCC structures per IS 456:2000?
+
+  A) M10
+  B) M15
+  C) M20
+  D) M25
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: exit
+[EduBot]: 
+  Welcome, exit! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[exit]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, exit!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : exit
+  Start  : 2026-06-18 13:52:58
+  End    : 2026-06-18 13:53:50
+  Subject: None
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: exit
+[EduBot]: 
+  Welcome, exit! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[exit]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, exit!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : exit
+  Start  : 2026-06-18 13:54:44
+  End    : 2026-06-18 13:54:50
+  Subject: None
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: shrika 
+[EduBot]: 
+  Welcome, shrika! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shrika]: 7
+[EduBot]:   [!] Not recognised.
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shrika]: 7
+[EduBot]:   [!] Not recognised.
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shrika]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, shrika!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : shrika
+  Start  : 2026-06-18 13:57:22
+  End    : 2026-06-18 13:58:15
+  Subject: None
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+------------------------------------------------------------
+  Please enter your name to begin:
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: spap
+[EduBot]: 
+  Welcome, spap! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[spap]: physics
+[EduBot]: 
+  Physics selected.
+============================================================
+  Physics -- Q&A MODE
+============================================================
+  Ask any question about Physics.
+  Commands: quiz | menu | help | exit
+------------------------------------------------------------
+[spap]: quiz
+[EduBot]: 
+============================================================
+  QUIZ -- Question 1 of 5
+============================================================
+  A 5 kg object is pushed with a net force of 20 N. What is its acceleration?
+
+  A) 2 m/s^2
+  B) 4 m/s^2
+  C) 10 m/s^2
+  D) 100 m/s^2
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[spap]: b
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: Using F=ma: a = F/m = 20/5 = 4 m/s^2.
+
+============================================================
+  QUIZ -- Question 2 of 5
+============================================================
+  Which quantity is conserved in ALL types of collisions?
+
+  A) Kinetic energy
+  B) Total mechanical energy
+  C) Momentum
+  D) Velocity
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[spap]: c
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: Momentum is always conserved when no external force acts. KE is only conserved in elastic collisions.
+
+============================================================
+  QUIZ -- Question 3 of 5
+============================================================
+  The unit of electrical resistance is:
+
+  A) Ampere
+  B) Volt
+  C) Watt
+  D) Ohm
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[spap]: d
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: Resistance is measured in Ohms. From V=IR: Ohm = Volt/Ampere.
+
+============================================================
+  QUIZ -- Question 4 of 5
+============================================================
+  If the distance between two objects is doubled, gravitational force becomes:
+
+  A) Twice as large
+  B) Half as large
+  C) Four times as large
+  D) One quarter as large
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[spap]: d
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: F = Gm1m2/r^2. Doubling r: F' = Gm1m2/(2r)^2 = F/4. (Inverse-square law)
+
+============================================================
+  QUIZ -- Question 5 of 5
+============================================================
+  A wave has frequency 200 Hz and wavelength 1.5 m. What is its speed?
+
+  A) 133 m/s
+  B) 201.5 m/s
+  C) 300 m/s
+  D) 1.5 m/s
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[spap]: c
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: v = f * lambda = 200 * 1.5 = 300 m/s.
+
+============================================================
+  QUIZ COMPLETE!
+============================================================
+  Score: 5 / 5  (100%)   Grade: A+
+------------------------------------------------------------
+  Type 'quiz' to retry, 'menu' to change subject,
+  or ask any question to continue Q&A mode.
+============================================================
+[spap]: menu
+[EduBot]: 
+  Returning to subject selection.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics
+  [2] Civil Engineering
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[spap]: physics
+[EduBot]: 
+  Physics selected.
+============================================================
+  Physics -- Q&A MODE
+============================================================
+  Ask any question about Physics.
+  Commands: quiz | menu | help | exit
+------------------------------------------------------------
+[spap]: help
+[EduBot]: 
+============================================================
+  Physics -- Q&A MODE
+============================================================
+  Ask any question about Physics.
+  Commands: quiz | menu | help | exit
+------------------------------------------------------------
+[spap]: help
+[EduBot]: 
+============================================================
+  Physics -- Q&A MODE
+============================================================
+  Ask any question about Physics.
+  Commands: quiz | menu | help | exit
+------------------------------------------------------------
+[spap]: what is qubits in quantum physics?
+[EduBot]: 
+I couldn't find a relevant answer. Try rephrasing, or type 'help'.
+
+  [Ask another question | 'quiz' | 'menu' | 'help']
+[spap]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, spap!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : spap
+  Start  : 2026-06-18 14:08:51
+  End    : 2026-06-18 19:18:53
+  Subject: Physics
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+    [3] Mathematics
+    [4] Artificial Intelligence
+    [5] C Programming
+    [6] Chemistry
+    [7] Electronics
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: shrika
+[EduBot]: 
+  Welcome, shrika! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics            [2] Civil Engineering
+  [3] Mathematics        [4] Artificial Intelligence
+  [5] C Programming      [6] Chemistry
+  [7] Electronics
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shrika]: 3
+[EduBot]: 
+  Mathematics selected.
+============================================================
+  Mathematics -- Q&A MODE
+============================================================
+  Ask any question about Mathematics.
+  Commands:
+    quiz   - Start a multiple-choice quiz
+    menu   - Return to subject selection
+    help   - Show this help (type 'help' alone)
+    exit   - Quit EduBot
+------------------------------------------------------------
+[shrika]: quiz
+[EduBot]: 
+============================================================
+  QUIZ -- Question 1 of 5
+============================================================
+  d/dx(x^5) =
+
+  A) 5x^4
+  B) x^4
+  C) 5x^6
+  D) x^6/6
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: a
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: Power rule: d/dx(x^n)=n*x^(n-1). So d/dx(x^5)=5x^4.
+
+============================================================
+  QUIZ -- Question 2 of 5
+============================================================
+  Determinant of [[3,2],[1,4]]:
+
+  A) 14
+  B) 10
+  C) 5
+  D) 8
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: d
+[EduBot]: 
+  [INCORRECT] Correct answer: B
+  Explanation: det = ad-bc = (3)(4)-(2)(1) = 12-2 = 10.
+
+============================================================
+  QUIZ -- Question 3 of 5
+============================================================
+  Discriminant D<0 for quadratic ax^2+bx+c=0 means:
+
+  A) Two real roots
+  B) One repeated root
+  C) Two complex roots
+  D) No solution
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: a
+[EduBot]: 
+  [INCORRECT] Correct answer: C
+  Explanation: D<0 means square root is imaginary => two complex conjugate roots.
+
+============================================================
+  QUIZ -- Question 4 of 5
+============================================================
+  P(A and B) when A,B independent:
+
+  A) P(A)+P(B)
+  B) P(A)*P(B)
+  C) P(A)-P(B)
+  D) P(A)/P(B)
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: c
+[EduBot]: 
+  [INCORRECT] Correct answer: B
+  Explanation: For independent events: P(A and B) = P(A)*P(B).
+
+============================================================
+  QUIZ -- Question 5 of 5
+============================================================
+  log10(1000) =
+
+  A) 2
+  B) 3
+  C) 100
+  D) 10
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: d
+[EduBot]: 
+  [INCORRECT] Correct answer: B
+  Explanation: log10(1000)=log10(10^3)=3.
+
+============================================================
+  QUIZ COMPLETE!
+============================================================
+  Score: 1 / 5  (20%)   Grade: F
+------------------------------------------------------------
+  Type 'quiz' to retry, 'menu' to change subject,
+  or ask any question to continue Q&A mode.
+============================================================
+[shrika]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, shrika!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : shrika
+  Start  : 2026-06-18 19:28:02
+  End    : 2026-06-18 19:29:09
+  Subject: Mathematics
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+    [3] Mathematics
+    [4] Artificial Intelligence
+    [5] C Programming
+    [6] Chemistry
+    [7] Electronics
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: 1
+[EduBot]: 
+  Welcome, 1! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics            [2] Civil Engineering
+  [3] Mathematics        [4] Artificial Intelligence
+  [5] C Programming      [6] Chemistry
+  [7] Electronics
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[1]: 1
+[EduBot]: 
+  Physics selected.
+============================================================
+  Physics -- SELECT A UNIT / CHAPTER
+============================================================
+  [0] All Units
+  [1] Unit 1: Quantum Mechanics
+  [2] Unit 2: Electrical Conductivity
+  [3] Unit 3: Superconductivity
+  [4] Unit 4: Lasers & Optical Fibers
+  [5] Unit 5: Semiconductor Physics
+------------------------------------------------------------
+  Type a number (0-5), or 'menu' to go back.
+[1]: 1
+[EduBot]: 
+  Unit 1: Quantum Mechanics selected.
+============================================================
+  Physics (Unit 1: Quantum Mechanics) -- Q&A MODE
+============================================================
+  Ask any question about Physics.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[1]: quiz
+[EduBot]: 
+============================================================
+  QUIZ -- Question 1 of 5
+============================================================
+  A 5 kg object has net force 20 N applied. Its acceleration is:
+
+  A) 2 m/s^2
+  B) 4 m/s^2
+  C) 10 m/s^2
+  D) 100 m/s^2
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[1]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, 1!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : 1
+  Start  : 2026-06-18 20:01:01
+  End    : 2026-06-18 20:02:08
+  Subject: Physics
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+    [3] Mathematics
+    [4] Artificial Intelligence
+    [5] C Programming
+    [6] Chemistry
+    [7] Electronics
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: shri
+[EduBot]: 
+  Welcome, shri! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics            [2] Civil Engineering
+  [3] Mathematics        [4] Artificial Intelligence
+  [5] C Programming      [6] Chemistry
+  [7] Electronics
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shri]: 5
+[EduBot]: 
+  C Programming selected.
+============================================================
+  C Programming -- SELECT A UNIT / CHAPTER
+============================================================
+  [0] All Units
+  [1] Unit 1: Introduction & Basics
+  [2] Unit 2: Strings & Functions
+  [3] Unit 3: Arrays (1D & 2D)
+  [4] Unit 4: Structures & Pointers
+  [5] Unit 5: Dynamic Memory & Linked Lists
+------------------------------------------------------------
+  Type a number (0-5), or 'menu' to go back.
+[shri]: 3
+[EduBot]: 
+  Unit 3: Arrays (1D & 2D) selected.
+============================================================
+  C Programming (Unit 3: Arrays (1D & 2D)) -- Q&A MODE
+============================================================
+  Ask any question about C Programming.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[shri]: quiz
+[EduBot]: 
+============================================================
+  QUIZ -- Question 1 of 5
+============================================================
+  calloc() vs malloc(): calloc also:
+
+  A) Is faster
+  B) Zero-initialises memory
+  C) Allocates on stack
+  D) Takes one argument
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shri]: b
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: calloc(n,size) allocates n*size bytes AND initialises all bytes to zero.
+
+============================================================
+  QUIZ -- Question 2 of 5
+============================================================
+  Arrays passed to functions in C are passed as:
+
+  A) Full copy
+  B) Pointer to first element
+  C) Value of last element
+  D) Array size
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shri]: a
+[EduBot]: 
+  [INCORRECT] Correct answer: B
+  Explanation: Array name decays to pointer to its first element when passed to a function.
+
+============================================================
+  QUIZ -- Question 3 of 5
+============================================================
+  static local variable:
+
+  A) Makes it const
+  B) Stores in register
+  C) Persists between function calls
+  D) Makes it global
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shri]: c
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: static local variable is initialised once and retains value between calls.
+
+============================================================
+  QUIZ -- Question 4 of 5
+============================================================
+  Struct member access via pointer uses:
+
+  A) .
+  B) ->
+  C) *
+  D) &
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shri]: a
+[EduBot]: 
+  [INCORRECT] Correct answer: B
+  Explanation: Arrow operator (->) accesses struct member through pointer. ptr->member.
+
+============================================================
+  QUIZ -- Question 5 of 5
+============================================================
+  Binary search requires the array to be:
+
+  A) Random
+  B) Sorted
+  C) Reversed
+  D) Unique elements only
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shri]: b
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: Binary search only works on a sorted array. It halves the search space each step.
+
+============================================================
+  QUIZ COMPLETE!
+============================================================
+  Score: 3 / 5  (60%)   Grade: B
+------------------------------------------------------------
+  Type 'quiz' to retry, 'menu' to change subject,
+  or ask any question to continue Q&A mode.
+============================================================
+[shri]: menu
+[EduBot]: 
+  Returning to subject selection.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics            [2] Civil Engineering
+  [3] Mathematics        [4] Artificial Intelligence
+  [5] C Programming      [6] Chemistry
+  [7] Electronics
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shri]: 5
+[EduBot]: 
+  C Programming selected.
+============================================================
+  C Programming -- SELECT A UNIT / CHAPTER
+============================================================
+  [0] All Units
+  [1] Unit 1: Introduction & Basics
+  [2] Unit 2: Strings & Functions
+  [3] Unit 3: Arrays (1D & 2D)
+  [4] Unit 4: Structures & Pointers
+  [5] Unit 5: Dynamic Memory & Linked Lists
+------------------------------------------------------------
+  Type a number (0-5), or 'menu' to go back.
+[shri]: 3
+[EduBot]: 
+  Unit 3: Arrays (1D & 2D) selected.
+============================================================
+  C Programming (Unit 3: Arrays (1D & 2D)) -- Q&A MODE
+============================================================
+  Ask any question about C Programming.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[shri]: help
+[EduBot]: 
+============================================================
+  C Programming (Unit 3: Arrays (1D & 2D)) -- Q&A MODE
+============================================================
+  Ask any question about C Programming.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[shri]: help
+[EduBot]: 
+============================================================
+  C Programming (Unit 3: Arrays (1D & 2D)) -- Q&A MODE
+============================================================
+  Ask any question about C Programming.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[shri]: what is an array ?
+[EduBot]: 
+I could not find a relevant answer for that query.
+  Try rephrasing your question, or type 'help' alone to see commands.
+
+  [Ask another question | type 'quiz' | 'units' | 'menu' | 'help']
+[shri]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, shri!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : shri
+  Start  : 2026-06-18 20:15:23
+  End    : 2026-06-18 20:22:19
+  Subject: C Programming
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+    [3] Mathematics
+    [4] Artificial Intelligence
+    [5] C Programming
+    [6] Chemistry
+    [7] Electronics
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: spap
+[EduBot]: 
+  Welcome, spap! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics            [2] Civil Engineering
+  [3] Mathematics        [4] Artificial Intelligence
+  [5] C Programming      [6] Chemistry
+  [7] Electronics
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[spap]: 5
+[EduBot]: 
+  C Programming selected.
+============================================================
+  C Programming -- SELECT A UNIT / CHAPTER
+============================================================
+  [0] All Units
+  [1] Unit 1: Logical Reasoning & Algorithms
+  [2] Unit 2: Decision Controls & Loops
+  [3] Unit 3: Arrays & Strings
+  [4] Unit 4: Functions, Structures & Pointers
+  [5] Unit 5: Dynamic Memory & Linked Lists
+------------------------------------------------------------
+  Type a number (0-5), or 'menu' to go back.
+[spap]: 2
+[EduBot]: 
+  Unit 2: Decision Controls & Loops selected.
+============================================================
+  C Programming (Unit 2: Decision Controls & Loops) -- Q&A MODE
+============================================================
+  Ask any question about C Programming.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[spap]: help
+[EduBot]: 
+  Topics you can ask about (Unit 2):
+  ------------------------------------------------------------
+   1. Sorting Algorithms in C
+   2. Function Pointers in C
+   3. Enums and Unions in C
+   4. Stack and Queue Implementation in C
+   5. Binary Search in C
+   6. Header Guards and Include Guards in C
+   7. Strings in C
+   8. String Input and Output in C
+   9. Standard String Library Functions (string.h)
+  10. Functions in C - Declaration, Definition, Call
+  11. Call by Value vs Call by Reference
+  12. Storage Classes in C
+  13. Recursion in C
+  14. ctype.h Character Classification Functions
+  15. Arrays of Strings in C
+  16. Decision Making in C - Overview
+  17. if and if-else Statements in C
+  18. if-else Ladder (Chained if-else)
+  19. switch-case Statement in C
+  20. goto Statement in C
+  21. Loops in C - Types and Classification
+  22. while Loop in C
+  23. do-while Loop in C
+  24. for Loop in C
+  25. break and continue Statements
+  26. Nested Loops in C
+  27. Type Conversion in C
+  28. Comparison of Loop Types
+  ------------------------------------------------------------
+  Commands: quiz | units | menu | exit
+  Tip: type keywords from a topic title to ask about it.
+
+[spap]: loops in c 
+[EduBot]: 
+Function Pointers in C:
+  A pointer that stores the ADDRESS of a function.
+  Declaration: return_type (*ptr_name)(parameter_types);
+  Example:
+    int (*fptr)(int, int);
+    int add(int a, int b) { return a+b; }
+    fptr = add;       // assign
+    int res = fptr(3, 4);  // call via pointer -> res = 7
+  USES:
+    Callbacks: pass function as argument to another function.
+    qsort(arr, n, sizeof(int), compare_func);
+    Dispatch tables: array of function pointers for fast switching.
+    State machines: function pointer per state.
+    Plugin systems: dynamically load and call functions.
+  typedef makes it cleaner:
+    typedef int (*MathFunc)(int, int);
+    MathFunc ops[] = {add, subtract, multiply};
+    ops[0](3,4); // calls add(3,4)
+
+  [Ask another question | type 'quiz' | 'units' | 'menu' | 'help']
+[spap]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, spap!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : spap
+  Start  : 2026-06-18 20:38:10
+  End    : 2026-06-18 20:52:07
+  Subject: C Programming
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+    [3] Mathematics
+    [4] Artificial Intelligence
+    [5] C Programming
+    [6] Chemistry
+    [7] Electronics
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: shrika
+[EduBot]: 
+  Welcome, shrika! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics            [2] Civil Engineering
+  [3] Mathematics        [4] Artificial Intelligence
+  [5] C Programming      [6] Chemistry
+  [7] Electronics
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shrika]: 5
+[EduBot]: 
+  C Programming selected.
+============================================================
+  C Programming -- SELECT A UNIT / CHAPTER
+============================================================
+  [0] All Units
+  [1] Unit 1: Logical Reasoning & Algorithms
+  [2] Unit 2: Decision Controls & Loops
+  [3] Unit 3: Arrays & Strings
+  [4] Unit 4: Functions, Structures & Pointers
+  [5] Unit 5: Dynamic Memory & Linked Lists
+------------------------------------------------------------
+  Type a number (0-5), or 'menu' to go back.
+[shrika]: 2
+[EduBot]: 
+  Unit 2: Decision Controls & Loops selected.
+============================================================
+  C Programming (Unit 2: Decision Controls & Loops) -- Q&A MODE
+============================================================
+  Ask any question about C Programming.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[shrika]: help
+[EduBot]: 
+  Topics you can ask about (Unit 2):
+  ------------------------------------------------------------
+   1. Decision Making in C - Overview
+   2. if and if-else Statements in C
+   3. if-else Ladder (Chained if-else)
+   4. switch-case Statement in C
+   5. goto Statement in C
+   6. Loops in C - Types and Classification
+   7. while Loop in C
+   8. do-while Loop in C
+   9. for Loop in C
+  10. break and continue Statements
+  11. Nested Loops in C
+  12. Type Conversion in C
+  13. Comparison of Loop Types
+  ------------------------------------------------------------
+  Commands: quiz | units | menu | exit
+  Tip: type keywords from a topic title to ask about it.
+
+[shrika]: loops in c
+[EduBot]: 
+if and if-else Statements in C:
+  SIMPLE if:
+    if (condition) {
+        // code executed only if condition is TRUE
+    }
+    If condition is false, block is SKIPPED entirely.
+  IF-ELSE:
+    if (condition) {
+        // code if TRUE
+    } else {
+        // code if FALSE (exactly one block executes)
+    }
+  NESTED IF-ELSE: an if or else block contains another if-else.
+    if (a > b) {
+        if (a > c) printf("A is largest");
+        else printf("C is largest");
+    } else {
+        if (b > c) printf("B is largest");
+        else printf("C is largest");
+    }
+  Condition: any expression that evaluates to non-zero (true) or 0 (false).
+  Relational operators: == != < > <= >=
+  Logical operators: && (AND), || (OR), ! (NOT)
+
+  [Ask another question | type 'quiz' | 'units' | 'menu' | 'help']
+[shrika]: syntax for if (condition)
+[EduBot]: 
+if and if-else Statements in C:
+  SIMPLE if:
+    if (condition) {
+        // code executed only if condition is TRUE
+    }
+    If condition is false, block is SKIPPED entirely.
+  IF-ELSE:
+    if (condition) {
+        // code if TRUE
+    } else {
+        // code if FALSE (exactly one block executes)
+    }
+  NESTED IF-ELSE: an if or else block contains another if-else.
+    if (a > b) {
+        if (a > c) printf("A is largest");
+        else printf("C is largest");
+    } else {
+        if (b > c) printf("B is largest");
+        else printf("C is largest");
+    }
+  Condition: any expression that evaluates to non-zero (true) or 0 (false).
+  Relational operators: == != < > <= >=
+  Logical operators: && (AND), || (OR), ! (NOT)
+
+  [Ask another question | type 'quiz' | 'units' | 'menu' | 'help']
+[shrika]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, shrika!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : shrika
+  Start  : 2026-06-18 20:52:18
+  End    : 2026-06-18 20:53:35
+  Subject: C Programming
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+    [3] Mathematics
+    [4] Artificial Intelligence
+    [5] C Programming
+    [6] Chemistry
+    [7] Electronics
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: shrika
+[EduBot]: 
+  Welcome, shrika! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics            [2] Civil Engineering
+  [3] Mathematics        [4] Artificial Intelligence
+  [5] C Programming      [6] Chemistry
+  [7] Electronics
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shrika]: 5
+[EduBot]: 
+  C Programming selected.
+============================================================
+  C Programming -- SELECT A UNIT / CHAPTER
+============================================================
+  [0] All Units
+  [1] Unit 1: Logical Reasoning & Algorithms
+  [2] Unit 2: Decision Controls & Loops
+  [3] Unit 3: Arrays & Strings
+  [4] Unit 4: Functions, Structures & Pointers
+  [5] Unit 5: Dynamic Memory & Linked Lists
+------------------------------------------------------------
+  Type a number (0-5), or 'menu' to go back.
+[shrika]: 3
+[EduBot]: 
+  Unit 3: Arrays & Strings selected.
+============================================================
+  C Programming (Unit 3: Arrays & Strings) -- Q&A MODE
+============================================================
+  Ask any question about C Programming.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[shrika]: help
+[EduBot]: 
+  Topics you can ask about (Unit 3):
+  ------------------------------------------------------------
+   1. Sorting Algorithms in C
+   2. Binary Search in C
+   3. Strings in C
+   4. String Input and Output in C
+   5. Standard String Library Functions (string.h)
+   6. ctype.h Character Classification Functions
+   7. Arrays of Strings in C
+   8. 2D Array in C
+   9. Memory Layout and Address Calculation in 2D Arrays
+  10. Matrix Operations in C
+  11. What is an Array in C
+  12. 1D Array - Declaration and Initialization
+  13. Array Operations in C
+  14. Linear Search in C
+  15. Bubble Sort in C
+  16. Strings in C - Quick Reference
+  17. Selection Sort in C
+  18. Binary Search in C
+  19. Multidimensional Arrays (Beyond 2D)
+  20. Sorting Strings in C
+  ------------------------------------------------------------
+  Commands: quiz | units | menu | exit
+  Tip: type keywords from a topic title to ask about it.
+
+[shrika]: array definition 
+[EduBot]: 
+What is an Array in C:
+  An array is a COLLECTION of elements of the SAME data type stored in
+  CONTIGUOUS (adjacent) memory locations.
+  All elements share a common name and are accessed using an index.
+  Why use arrays: instead of declaring 100 separate variables (a1, a2, ...a100),
+    use one array: int a[100]; — much simpler and manageable.
+  DECLARATION: data_type array_name[size];
+    int marks[5];       -- 5 integers
+    float temp[10];     -- 10 floats
+    char name[20];      -- 20 characters (string)
+  ACCESSING: array_name[index]  (index starts at 0, ends at size-1)
+    marks[0] = first element, marks[4] = fifth element of marks[5].
+  INDEX OUT OF BOUNDS: accessing marks[5] in an array of size 5 is UNDEFINED BEHAVIOUR.
+  Arrays in C are zero-indexed: first element is at index 0, last at index (size-1).
+
+  [Ask another question | type 'quiz' | 'units' | 'menu' | 'help']
+[shrika]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, shrika!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : shrika
+  Start  : 2026-06-19 10:54:20
+  End    : 2026-06-19 10:55:00
+  Subject: C Programming
+  Status : Clean exit
+============================================================
+
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+    [3] Mathematics
+    [4] Artificial Intelligence
+    [5] C Programming
+    [6] Chemistry
+    [7] Electronics
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: shrika
+[EduBot]: 
+  Welcome, shrika! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics            [2] Civil Engineering
+  [3] Mathematics        [4] Artificial Intelligence
+  [5] C Programming      [6] Chemistry
+  [7] Electronics
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shrika]: 3
+[EduBot]: 
+  Mathematics selected.
+============================================================
+  Mathematics -- SELECT A UNIT / CHAPTER
+============================================================
+  [0] All Units
+  [1] Unit 1: Sequences & Series
+  [2] Unit 2: Vector Differentiation
+  [3] Unit 3: Vector Integration
+  [4] Unit 4: Linear Ordinary Differential Equations
+  [5] Unit 5: Numerical Methods
+------------------------------------------------------------
+  Type a number (0-5), or 'menu' to go back.
+[shrika]: 2
+[EduBot]: 
+  Unit 2: Vector Differentiation selected.
+============================================================
+  Mathematics (Unit 2: Vector Differentiation) -- Q&A MODE
+============================================================
+  Ask any question about Mathematics.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[shrika]: quiz
+[EduBot]: 
+============================================================
+  QUIZ -- Question 1 of 4
+============================================================
+  If |A| is constant, then A . (dA/dt) =
+
+  A) |A|
+  B) 1
+  C) 0
+  D) |A|^2
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: c
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: If magnitude is constant, A is perpendicular to its derivative, so dot product = 0.
+
+============================================================
+  QUIZ -- Question 2 of 4
+============================================================
+  div(F) = 0 means F is:
+
+  A) Irrotational
+  B) Solenoidal
+  C) Conservative
+  D) Scalar
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: c
+[EduBot]: 
+  [INCORRECT] Correct answer: B
+  Explanation: div(F)=0 means solenoidal (no sources/sinks). curl(F)=0 means irrotational.
+
+============================================================
+  QUIZ -- Question 3 of 4
+============================================================
+  curl(grad(phi)) is always:
+
+  A) grad(phi)
+  B) div(phi)
+  C) zero vector
+  D) phi
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: exit 
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, shrika!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : shrika
+  Start  : 2026-06-19 10:55:12
+  End    : 2026-06-19 10:57:15
+  Subject: Mathematics
+  Status : Clean exit
+============================================================
+

@@ -6,8 +6,8 @@ static const char *STOPWORDS[] = {
     "had","do","does","did","will","would","can","could","should","may","might",
     "shall","what","which","who","how","when","where","why","i","me","my","we",
     "our","you","your","he","she","his","her","they","their","its","about",
-    "tell","explain","define","describe","give","please","mean","means",
-    "difference","between","s", NULL
+    "tell","explain","describe","give","please","mean","means",
+    "difference","between","s","show","list","write","give","state", NULL
 };
 
 void normalize_string(char *str)

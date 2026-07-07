@@ -1,5 +1,5 @@
 #TOPIC=civil
-#KEYS=staircase types classification how many
+#KEYS=staircase classification straight dog-leg spiral open newel flight
 Types of Staircases (8 main types):
   1. Straight flight staircase:
      Single straight run from one floor to another. No change in direction.
@@ -28,7 +28,7 @@ Types of Staircases (8 main types):
 ##END##
 
 #TOPIC=civil
-#KEYS=arch types classification masonry
+#KEYS=arch classification masonry segmental semicircular pointed flat
 Types of Arches (by shape):
   1. Semicircular arch: rise = half the span. Strong, widely used in masonry.
   2. Segmental arch: rise < half span; a segment of a circle. Most common
@@ -44,7 +44,7 @@ Types of Arches (by shape):
 ##END##
 
 #TOPIC=civil
-#KEYS=bridge types classification span
+#KEYS=bridge classification span girder truss suspension cable stayed
 Types of Bridges (by structural form):
   1. Beam / Girder bridge: simplest form; beam rests on two supports.
      Used for short to medium spans.
@@ -63,7 +63,7 @@ Types of Bridges (by structural form):
 ##END##
 
 #TOPIC=civil
-#KEYS=roof types classification pitched flat truss
+#KEYS=roof classification pitched flat truss lean-to shell shed
 Types of Roofs:
   FLAT ROOFS:
     Flat / Terrace roof: slope < 10 deg. RCC/brick used. Common in hot
@@ -83,7 +83,7 @@ Types of Roofs:
 ##END##
 
 #TOPIC=civil
-#KEYS=dam types classification gravity arch earthen
+#KEYS=dam classification gravity arch earthen buttress rockfill
 Types of Dams (by construction material and structural action):
   1. Gravity dam: relies on its own weight to resist water pressure.
      Made of concrete or masonry. Example: Bhakra Dam.
@@ -140,7 +140,7 @@ Prestressed Concrete (PSC):
 ##END##
 
 #TOPIC=civil
-#KEYS=formwork shuttering types timber steel aluminum
+#KEYS=formwork shuttering timber steel aluminum plywood striking period
 Types of Formwork (Shuttering):
   Formwork: temporary structure that holds wet concrete in place until
   it gains sufficient strength.
@@ -160,7 +160,7 @@ Types of Formwork (Shuttering):
 ##END##
 
 #TOPIC=civil
-#KEYS=types beams simply supported cantilever fixed continuous
+#KEYS=beam simply supported cantilever fixed continuous propped portal
 Types of Beams (by end condition / support):
   1. Simply supported beam: rests on two supports; free to rotate at ends.
      BM at supports = 0; max BM at centre for UDL = wL^2/8.
@@ -177,7 +177,7 @@ Types of Beams (by end condition / support):
 ##END##
 
 #TOPIC=civil
-#KEYS=slab types one way two way flat plate waffle ribbed
+#KEYS=slab classification one-way two-way flat plate waffle ribbed
 Types of Slabs:
   1. One-way slab: Ly/Lx > 2. Load transfers along shorter span only.
      Reinforcement provided along shorter span (main steel).
@@ -195,7 +195,7 @@ Types of Slabs:
 ##END##
 
 #TOPIC=civil
-#KEYS=column types shape braced unbraced short long
+#KEYS=column classification shape braced unbraced slenderness ratio short long
 Types of Columns:
   By length/slenderness:
     Short column: leff/d < 12 (or leff/r < 45). Fails by crushing (material failure).
@@ -215,7 +215,7 @@ Types of Columns:
 ##END##
 
 #TOPIC=civil
-#KEYS=scaffolding types single double cantilever suspended
+#KEYS=scaffolding single double cantilever suspended putlog trestle
 Types of Scaffolding:
   1. Single (brick layer's) scaffolding: one row of vertical standards (uprights)
      near the wall. Ledgers connect standards; putlogs rest on ledgers and wall.
@@ -235,7 +235,7 @@ Types of Scaffolding:
 ##END##
 
 #TOPIC=civil
-#KEYS=brick masonry bond types english flemish stretcher header
+#KEYS=brick masonry bond english flemish stretcher header rat-trap
 Types of Brick Masonry Bonds:
   A bond is the arrangement of bricks in successive courses to ensure
   overlapping of vertical joints (no continuous vertical joints).
@@ -254,7 +254,7 @@ Types of Brick Masonry Bonds:
 ##END##
 
 #TOPIC=civil
-#KEYS=pointing types masonry weathered flush recessed tuck
+#KEYS=pointing masonry weathered flush recessed tuck struck finish
 Types of Pointing (Finishing of Mortar Joints):
   Pointing = finishing the mortar joints in brickwork/stonework after
   raking out the old/fresh mortar to a depth of 12-20mm.
@@ -272,7 +272,7 @@ Types of Pointing (Finishing of Mortar Joints):
 ##END##
 
 #TOPIC=civil
-#KEYS=mortar types lime cement gauged surkhi
+#KEYS=mortar classification lime cement gauged surkhi mud properties
 Types of Mortar:
   Mortar = binding material made by mixing a cementing agent + fine aggregate + water.
   1. Lime mortar: slaked lime + sand (1:2 or 1:3). Slow setting; flexible;
@@ -290,7 +290,7 @@ Types of Mortar:
 ##END##
 
 #TOPIC=civil
-#KEYS=plastering types cement lime gypsum
+#KEYS=plastering cement lime gypsum sand finish coat base
 Types of Plastering:
   Plastering = applying mortar coat on wall/ceiling surfaces for:
   (a) protection from weather, (b) smooth surface, (c) decoration.
@@ -308,7 +308,7 @@ Types of Plastering:
 ##END##
 
 #TOPIC=civil
-#KEYS=admixtures types plasticizer superplasticizer retarder accelerator
+#KEYS=admixtures plasticizer superplasticizer retarder accelerator air-entraining IS9103
 Types of Admixtures (IS 9103):
   Admixtures are materials added to concrete (other than cement, water,
   aggregate) to modify properties of fresh or hardened concrete.
@@ -386,7 +386,7 @@ Types of Joints in Concrete Structures:
 ##END##
 
 #TOPIC=civil
-#KEYS=pile types driven bored under-reamed material
+#KEYS=pile classification driven bored under-reamed friction end bearing
 Types of Piles (Foundation):
   By material:
     Timber piles: cheap, used in marine works; treated against decay.
@@ -448,7 +448,7 @@ CPM vs PERT (Network Analysis):
 ##END##
 
 #TOPIC=civil
-#KEYS=IS codes important civil engineering standards
+#KEYS=IS 456 875 1893 800 383 2386 codes civil engineering standard specifications
 Important IS Codes in Civil Engineering:
   Concrete:
     IS 456 : Plain and Reinforced Concrete Code of Practice.
@@ -474,7 +474,7 @@ Important IS Codes in Civil Engineering:
 ##END##
 
 #TOPIC=civil
-#KEYS=qualities good brick properties standard
+#KEYS=brick quality absorption hardness soundness strength compressive uniformity good
 Qualities of a Good Brick:
   1. Shape and size: uniform rectangular shape with sharp edges and
      plane surfaces. Standard size: 190x90x90 mm (IS 1077).
@@ -493,7 +493,7 @@ Qualities of a Good Brick:
 ##END##
 
 #TOPIC=civil
-#KEYS=surveying levelling types differential profile reciprocal
+#KEYS=levelling surveying differential profile reciprocal fly check RL benchmark
 Types of Levelling in Surveying:
   Levelling determines relative heights (elevations) of different points.
   Terms: Benchmark (BM), Back Sight (BS), Fore Sight (FS), Intermediate Sight (IS),
@@ -512,7 +512,7 @@ Types of Levelling in Surveying:
 ##END##
 
 #TOPIC=civil
-#KEYS=types walls load bearing partition cavity shear
+#KEYS=wall load bearing partition cavity shear retaining classification
 Types of Walls in Building Construction:
   1. Load-bearing wall: carries loads from slabs, beams, roofs down to
      foundation. Made of brick/stone/concrete. Cannot be removed easily.
@@ -531,7 +531,7 @@ Types of Walls in Building Construction:
 ##END##
 
 #TOPIC=civil
-#KEYS=concrete mix design M20 M25 nominal design mix
+#KEYS=concrete mix M20 M25 water cement ratio nominal standard mix proportions
 Concrete Mix Design (IS 10262):
   PURPOSE: Determine the proportions of cement, water, FA, CA to achieve
   target strength, workability, and durability.
@@ -550,7 +550,7 @@ Concrete Mix Design (IS 10262):
 ##END##
 
 #TOPIC=civil
-#KEYS=irrigation types surface drip sprinkler canal
+#KEYS=irrigation surface drip sprinkler canal furrow basin flood efficiency
 Types of Irrigation:
   1. Surface irrigation: water applied at one or more points on the
      surface and allowed to flow over and through the soil.
@@ -590,7 +590,7 @@ Geotechnical Investigation Methods:
 ##END##
 
 #TOPIC=civil
-#KEYS=concrete grades M30 M35 M40 high strength special
+#KEYS=concrete grade M30 M35 M40 high strength characteristic strength standard
 High Strength and Special Concrete:
   HIGH PERFORMANCE CONCRETE (HPC):
     Compressive strength > 60 MPa. Low w/c ratio (0.25-0.35).
@@ -696,7 +696,7 @@ Bernoulli's Theorem (Principle):
 ##END##
 
 #TOPIC=physics
-#KEYS=faraday law electromagnetic induction EMF
+#KEYS=faraday law EMF rate change flux coil turns voltage generation
 Faraday's Laws of Electromagnetic Induction:
   First Law: whenever the magnetic flux through a coil changes, an EMF
   (electromotive force) is induced in the coil.
@@ -765,7 +765,7 @@ Photoelectric Effect:
 ##END##
 
 #TOPIC=physics
-#KEYS=Lenz law magnetic induction direction oppose
+#KEYS=lenz law opposition direction back force counteract prevent flux change
 Lenz's Law:
   The direction of the induced current (or EMF) is always such that it
   opposes the change in magnetic flux that caused it.
@@ -780,7 +780,7 @@ Lenz's Law:
 ##END##
 
 #TOPIC=maths
-#KEYS=differential equations types ordinary partial order degree
+#KEYS=differential equation introduction types ODE PDE classification overview
 Differential Equations:
   An equation involving derivatives of an unknown function.
   ORDER: highest derivative present. DEGREE: power of highest derivative.
@@ -1003,7 +1003,7 @@ RNN and LSTM:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=sorting algorithms bubble selection insertion quicksort mergesort
+#KEYS=sorting comparison quicksort mergesort insertion sort divide conquer pivot partition
 Sorting Algorithms in C:
   1. BUBBLE SORT: O(n^2) avg/worst. Repeatedly swap adjacent elements.
      for(i=0;i<n-1;i++) for(j=0;j<n-i-1;j++) if(a[j]>a[j+1]) swap.
@@ -1024,7 +1024,7 @@ Sorting Algorithms in C:
 
 #TOPIC=cprog
 #UNIT=4
-#KEYS=function pointer callback typedef C
+#KEYS=function pointer callback syntax address variable void asterisk C
 Function Pointers in C:
   A pointer that stores the ADDRESS of a function.
   Declaration: return_type (*ptr_name)(parameter_types);
@@ -1047,7 +1047,7 @@ Function Pointers in C:
 
 #TOPIC=cprog
 #UNIT=4
-#KEYS=enum union C user defined
+#KEYS=enum union together combined C user defined type usage example
 Enums and Unions in C:
   ENUM (enumeration):
     User-defined type assigning names to integer constants.
@@ -1070,7 +1070,7 @@ Enums and Unions in C:
 
 #TOPIC=cprog
 #UNIT=5
-#KEYS=stack queue implementation C data structure
+#KEYS=stack queue push pop enqueue dequeue LIFO FIFO implementation array
 Stack and Queue Implementation in C:
   STACK (LIFO - Last In First Out):
     Using array:
@@ -1092,7 +1092,7 @@ Stack and Queue Implementation in C:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=binary search algorithm C O(log n)
+#KEYS=binary search concept prerequisite sorted array requirement faster efficient
 Binary Search in C:
   Searches a SORTED array for target in O(log n) time.
   Algorithm:
@@ -1120,7 +1120,7 @@ Binary Search in C:
 
 #TOPIC=cprog
 #UNIT=1
-#KEYS=header guard include preprocessor double inclusion
+#KEYS=header guard ifndef define endif multiple inclusion prevention guard macro
 Header Guards and Include Guards in C:
   Prevent a header file from being included multiple times in the same
   translation unit (which would cause duplicate declaration errors).
@@ -1277,7 +1277,7 @@ ADC and DAC:
 ##END##
 
 #TOPIC=electronics
-#KEYS=communication protocol UART SPI I2C serial
+#KEYS=UART SPI I2C serial protocol embedded microcontroller peripheral
 Serial Communication Protocols:
   UART (Universal Asynchronous Receiver-Transmitter):
     Asynchronous (no shared clock); uses start and stop bits.
@@ -1364,7 +1364,7 @@ Power Supply Design:
 
 #TOPIC=maths
 #UNIT=3
-#KEYS=line integral work done scalar vector field curve path
+#KEYS=line integral definition scalar field vector field curve ds dr formula
 Line Integral:
   A line integral evaluates a function along a curve (path) in space.
   SCALAR line integral: integral of f(x,y,z) ds along curve C.
@@ -1399,7 +1399,7 @@ Green's Theorem:
 
 #TOPIC=maths
 #UNIT=3
-#KEYS=surface integral flux normal vector parametric
+#KEYS=surface integral flux double integral normal vector dS parametric surface
 Surface Integral:
   Integral of a function or vector field over a 2D surface S in 3D space.
   SCALAR surface integral: iint_S f(x,y,z) dS
@@ -1417,7 +1417,7 @@ Surface Integral:
 
 #TOPIC=maths
 #UNIT=3
-#KEYS=gauss divergence theorem volume integral flux closed surface
+#KEYS=gauss divergence theorem volume triple integral outward flux closed surface
 Gauss's Divergence Theorem:
   Relates a SURFACE integral over a closed surface S to a VOLUME integral
   over the region V enclosed by S.
@@ -1438,7 +1438,7 @@ Gauss's Divergence Theorem:
 
 #TOPIC=maths
 #UNIT=3
-#KEYS=stokes theorem curl line integral surface integral circulation
+#KEYS=stokes theorem curl boundary surface closed loop circulation verification
 Stokes' Theorem:
   Relates a LINE integral around a closed curve C to a SURFACE integral
   over any surface S bounded by C.
@@ -1460,7 +1460,7 @@ Stokes' Theorem:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=string character array null terminated declaration c language
+#KEYS=string declaration null terminated char array syntax memory literal pointer
 Strings in C:
   A string is a sequence of characters stored in a char array, ending
   with a null character '\0' (ASCII 0).
@@ -1638,7 +1638,7 @@ ctype.h Character Classification Functions:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=array of strings two-dimensional char array names declaration access
+#KEYS=array of strings 2D char array names rows columns access input output
 Arrays of Strings in C:
   Declaration: char names[20][30]; -- 20 strings, each max 29 characters.
   Input: scanf("%s", names[i]); or fgets(names[i], 30, stdin);
@@ -1754,7 +1754,7 @@ Curl of a Vector Field:
 
 #TOPIC=maths
 #UNIT=4
-#KEYS=ODE order degree linear homogeneous complementary particular general solution
+#KEYS=ODE introduction order degree linear non-linear homogeneous classification
 Linear Ordinary Differential Equations - Introduction:
   General nth-order linear ODE: a_n*y^(n) + ... + a_1*y' + a_0*y = g(x).
   Homogeneous: g(x) = 0. Non-homogeneous: g(x) not= 0.
@@ -1798,7 +1798,7 @@ Particular Integral - Rules for Finding yp:
 
 #TOPIC=maths
 #UNIT=4
-#KEYS=variation of parameters Wronskian method particular integral
+#KEYS=variation parameters Wronskian u1 u2 second order non-homogeneous method
 Variation of Parameters Method:
   Used when inverse operator method is difficult.
   For y'' + Py' + Qy = R with yc = C1*y1 + C2*y2.
@@ -1982,7 +1982,7 @@ Extrinsic Semiconductors - N-type and P-type:
 
 #TOPIC=physics
 #UNIT=2
-#KEYS=Hall effect magnetic field transverse voltage carrier sign concentration mobility
+#KEYS=hall effect transverse voltage carrier type concentration mobility RH
 Hall Effect:
   When current I flows in x-direction and magnetic field B is applied in z-direction,
   a transverse voltage VH develops in y-direction.
@@ -2156,7 +2156,7 @@ Optical Fiber - Principle and Construction:
 
 #TOPIC=physics
 #UNIT=4
-#KEYS=types optical fiber single mode multimode step index graded index attenuation
+#KEYS=optical fiber single mode multimode step index graded index attenuation bandwidth
 Types of Optical Fibers and Attenuation:
   SINGLE-MODE FIBER:
     Core diameter ~8-10 um; only one mode propagates.
@@ -2309,7 +2309,7 @@ Analytical Reasoning:
 
 #TOPIC=cprog
 #UNIT=2
-#KEYS=decision making branching conditional unconditional if else switch goto
+#KEYS=decision making C program flow control branching overview types
 Decision Making in C - Overview:
   Decision making = ability to execute a specific block of code based on a condition.
   Also called: branching or selection.
@@ -2524,7 +2524,7 @@ for Loop in C:
 
 #TOPIC=cprog
 #UNIT=2
-#KEYS=break continue return loop control statement exit skip
+#KEYS=break continue loop control statement exit skip iteration
 break and continue Statements:
   BREAK:
     - Immediately exits the NEAREST enclosing loop or switch.
@@ -2545,7 +2545,7 @@ break and continue Statements:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=array definition what is array collection elements same type index
+#KEYS=array definition basics introduction contiguous homogeneous collection index
 What is an Array in C:
   An array is a COLLECTION of elements of the SAME data type stored in
   CONTIGUOUS (adjacent) memory locations.
@@ -2564,7 +2564,7 @@ What is an Array in C:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=array initialization declaration values assign elements one dimensional 1D
+#KEYS=array initialization declare values assign curly braces 1D int float
 1D Array - Declaration and Initialization:
   DECLARATION without initialization:
     int a[5];           -- 5 elements, contents are garbage (uninitialised)
@@ -2584,7 +2584,7 @@ What is an Array in C:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=array operations traversal insert delete search sort linear binary
+#KEYS=array operations traversal insert delete sum average max min
 Array Operations in C:
   TRAVERSAL: visit each element once.
     for (i=0; i<n; i++) printf("%d ", a[i]);
@@ -2608,7 +2608,7 @@ Array Operations in C:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=linear search array algorithm found index sequential
+#KEYS=linear search sequential scan found not found key element loop
 Linear Search in C:
   Linear (sequential) search: check each element one by one from start to end.
   Works on UNSORTED or SORTED arrays.
@@ -2625,7 +2625,7 @@ Linear Search in C:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=bubble sort array algorithm swap comparison pass adjacent ascending order
+#KEYS=bubble sort swap adjacent pass largest bubbles ascending descending n squared
 Bubble Sort in C:
   Bubble sort compares adjacent elements and swaps them if they are in wrong order.
   After each pass, the LARGEST unsorted element "bubbles up" to its correct position.
@@ -2644,7 +2644,7 @@ Bubble Sort in C:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=string what is string char array null character definition operations
+#KEYS=string overview operations concatenate compare copy reverse quick reference
 Strings in C - Quick Reference:
   A string is a NULL-TERMINATED character array (ends with '\0').
   Declaration: char name[20]; or char name[] = "Hello";
@@ -2716,7 +2716,7 @@ High-Temperature Superconductors (HTS):
 
 #TOPIC=physics
 #UNIT=3
-#KEYS=applications superconductivity MRI maglev SQUID power loss zero resistance
+#KEYS=superconductivity applications MRI maglev SQUID lossless transmission cryotron
 Applications of Superconductivity:
   1. MRI (Magnetic Resonance Imaging):
      Superconducting coils generate strong, stable magnetic fields (1.5-3 T) for body scanning.
@@ -2848,7 +2848,7 @@ Important Vector Identities:
 
 #TOPIC=maths
 #UNIT=3
-#KEYS=conservative field path independent work done scalar potential condition
+#KEYS=conservative field path independence scalar potential gradient zero curl irrotational
 Conservative Vector Field and Path Independence:
   A vector field F is CONSERVATIVE if the line integral is PATH INDEPENDENT.
   integral_C F.dr depends only on endpoints, not on the path C.
@@ -2865,7 +2865,7 @@ Conservative Vector Field and Path Independence:
 
 #TOPIC=maths
 #UNIT=3
-#KEYS=work done line integral calculation example force field parametric substitution
+#KEYS=line integral evaluation example parametric substitution calculation numerical
 Evaluating Line Integrals - Method and Examples:
   To evaluate integral_C F.dr along curve C:
   Step 1: Parametrize C: x=x(t), y=y(t), z=z(t), t from a to b.
@@ -3040,7 +3040,7 @@ Type Conversion in C:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=selection sort algorithm minimum element position swap unsorted
+#KEYS=selection sort minimum position swap unsorted pass inner outer
 Selection Sort in C:
   Find the minimum element in unsorted portion and place it at the beginning.
   Algorithm: n-1 passes; each pass selects minimum and swaps to correct position.
@@ -3060,7 +3060,7 @@ Selection Sort in C:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=binary search sorted array algorithm mid left right logarithmic
+#KEYS=binary search implementation mid low high while loop C code algorithm steps
 Binary Search in C:
   Requires SORTED array. Repeatedly halves the search space.
   Algorithm:
@@ -3080,7 +3080,7 @@ Binary Search in C:
 
 #TOPIC=cprog
 #UNIT=3
-#KEYS=multidimensional array 3D array declaration access memory
+#KEYS=multidimensional 3D nD array blocks dimensions total elements nested
 Multidimensional Arrays (Beyond 2D):
   3D array: int a[2][3][4]; -- 2 blocks of 3x4 matrices = 24 total elements.
   Access: a[i][j][k].
@@ -3203,7 +3203,7 @@ Array of Structures:
 
 #TOPIC=cprog
 #UNIT=4
-#KEYS=nested structure structure within structure member access inner outer
+#KEYS=nested structure embedded struct within struct inner field access
 Nested Structures:
   A structure can contain another structure as a member.
   Example:
@@ -3225,7 +3225,7 @@ Nested Structures:
 
 #TOPIC=cprog
 #UNIT=4
-#KEYS=structure function pass by value reference pointer argument return
+#KEYS=structure function parameter pass struct pointer return value modify
 Structures and Functions:
   PASSING BY VALUE: entire struct is copied; changes inside don't affect original.
     void display(struct Student s) { printf("%s", s.name); }
@@ -3359,7 +3359,7 @@ Pointer Arithmetic:
 
 #TOPIC=cprog
 #UNIT=4
-#KEYS=pointer to array array of pointers difference string pointer char
+#KEYS=pointer to array array of pointers difference char pointer row address
 Pointer to Array and Array of Pointers:
   POINTER TO ARRAY: one pointer points to entire array.
     int a[5] = {1,2,3,4,5};
@@ -3379,7 +3379,7 @@ Pointer to Array and Array of Pointers:
 
 #TOPIC=cprog
 #UNIT=4
-#KEYS=void pointer generic pointer cast malloc any type
+#KEYS=void pointer generic typeless cast dereference universal pointer
 void Pointer and Generic Pointers:
   void *p: a generic pointer that can hold address of any data type.
   Cannot dereference a void pointer directly; must cast first.
