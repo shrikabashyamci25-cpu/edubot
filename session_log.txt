@@ -1462,3 +1462,176 @@ What is an Array in C:
   Status : Clean exit
 ============================================================
 
+
+=== NEW SESSION ===
+[EduBot]: ============================================================
+       EduBot -- Text-Based Educational Assistant
+============================================================
+  Subjects available:
+    [1] Physics
+    [2] Civil Engineering
+    [3] Mathematics
+    [4] Artificial Intelligence
+    [5] C Programming
+    [6] Chemistry
+    [7] Electronics
+------------------------------------------------------------
+  Please enter your name to begin:
+[User]: shrika
+[EduBot]: 
+  Welcome, shrika! Let's get started.
+
+============================================================
+  SELECT A SUBJECT
+============================================================
+  [1] Physics            [2] Civil Engineering
+  [3] Mathematics        [4] Artificial Intelligence
+  [5] C Programming      [6] Chemistry
+  [7] Electronics
+------------------------------------------------------------
+  Type a number or subject name. Type 'exit' to quit.
+[shrika]: 5
+[EduBot]: 
+  C Programming selected.
+============================================================
+  C Programming -- SELECT A UNIT / CHAPTER
+============================================================
+  [0] All Units
+  [1] Unit 1: Logical Reasoning & Algorithms
+  [2] Unit 2: Decision Controls & Loops
+  [3] Unit 3: Arrays & Strings
+  [4] Unit 4: Functions, Structures & Pointers
+  [5] Unit 5: Dynamic Memory & Linked Lists
+------------------------------------------------------------
+  Type a number (0-5), or 'menu' to go back.
+[shrika]: 0
+[EduBot]: 
+  Studying all units.
+============================================================
+  C Programming (All Units) -- Q&A MODE
+============================================================
+  Ask any question about C Programming.
+  Commands:
+    quiz     - Start a multiple-choice quiz
+    units    - Change unit/chapter
+    menu     - Return to subject selection
+    help     - Show this help (type 'help' alone)
+    exit     - Quit EduBot
+------------------------------------------------------------
+[shrika]: quiz
+[EduBot]: 
+============================================================
+  QUIZ -- Question 1 of 75
+============================================================
+  C language was developed by:
+
+  A) Bjarne Stroustrup
+  B) Dennis Ritchie
+  C) James Gosling
+  D) Guido van Rossum
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: a
+[EduBot]: 
+  [INCORRECT] Correct answer: B
+  Explanation: Dennis Ritchie developed C at Bell Labs (1972). Used to write UNIX.
+
+============================================================
+  QUIZ -- Question 2 of 75
+============================================================
+  Which header file is needed for printf and scanf?
+
+  A) stdlib.h
+  B) string.h
+  C) stdio.h
+  D) math.h
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: c
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: stdio.h (standard input/output) contains printf, scanf, fgets, puts, etc.
+
+============================================================
+  QUIZ -- Question 3 of 75
+============================================================
+  The entry point of every C program is:
+
+  A) start()
+  B) begin()
+  C) init()
+  D) main()
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: d
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: Every C program must have a main() function; execution begins there.
+
+============================================================
+  QUIZ -- Question 4 of 75
+============================================================
+  An algorithm is best described as:
+
+  A) A programming language
+  B) A step-by-step procedure to solve a problem
+  C) A type of variable
+  D) A compiler
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: b
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: An algorithm is a finite, well-defined sequence of steps to solve a problem, independent of any language.
+
+============================================================
+  QUIZ -- Question 5 of 75
+============================================================
+  A flowchart is used to:
+
+  A) Compile code faster
+  B) Visually represent the logic/flow of an algorithm
+  C) Store variables
+  D) Execute a program
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: b
+[EduBot]: 
+  [CORRECT!] Well done!
+  Explanation: Flowcharts use standard symbols to visually depict the sequence of steps in an algorithm.
+
+============================================================
+  Checkpoint: 5 of 75 questions done. Score so far: 4/5
+------------------------------------------------------------
+  Continue with the quiz? (yes/no)
+============================================================
+[shrika]: yes
+[EduBot]: 
+============================================================
+  QUIZ -- Question 6 of 75
+============================================================
+  Which is a valid identifier in C?
+
+  A) 2value
+  B) _value
+  C) value-1
+  D) int
+------------------------------------------------------------
+  Enter your answer (A / B / C / D):
+[shrika]: exit
+[EduBot]: 
+============================================================
+  Thank you for studying with EduBot, shrika!
+  Session saved to 'session_log.txt'. Keep learning!
+============================================================
+
+============================================================
+  SESSION SUMMARY
+============================================================
+  User   : shrika
+  Start  : 2026-07-15 19:17:59
+  End    : 2026-07-15 19:19:19
+  Subject: C Programming
+  Status : Clean exit
+============================================================
+

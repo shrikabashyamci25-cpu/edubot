@@ -6,6 +6,8 @@
 static const char *EXIT_KW[]  = {"exit","quit","bye","goodbye",NULL};
 static const char *MENU_KW[]  = {"menu","back","home","return","change subject",NULL};
 static const char *QUIZ_KW[]  = {"quiz","test","practice","mcq",NULL};
+static const char *YES_KW[]   = {"yes","y","yeah","yep","continue","sure",NULL};
+static const char *NO_KW[]    = {"no","n","nope","stop","end","quit",NULL};
 
 /* Topic keywords */
 static const char *PHYS_KW[]  = {"physics","1",NULL};
@@ -219,6 +221,48 @@ void dm_run_quiz_step(SessionState *session, const char *raw_input, char *respon
     if (!session || !raw_input || !response_out) return;
     int total = get_quiz_count(session->current_topic, session->current_unit);
 
+    /* Phase C: awaiting yes/no at a checkpoint (every QUIZ_BATCH_SIZE questions) */
+    if (session->quiz_awaiting_continue) {
+        char cnorm[MAX_INPUT_LEN];
+        strncpy(cnorm, raw_input, MAX_INPUT_LEN-1); cnorm[MAX_INPUT_LEN-1] = '\0';
+        normalize_string(cnorm);
+
+        if (contains_keyword(cnorm, YES_KW)) {
+            session->quiz_awaiting_continue = 0;
+            QuizQuestion qn; char nb[MAX_RESPONSE_LEN];
+            if (get_quiz_question(session->current_topic, session->current_unit, session->quiz_question_index, &qn))
+                format_quiz_q(&qn, session->quiz_question_index + 1, total, nb);
+            else
+                strncpy(nb, "Error loading next question.", MAX_RESPONSE_LEN-1);
+            strncpy(response_out, nb, MAX_RESPONSE_LEN-1); response_out[MAX_RESPONSE_LEN-1]='\0';
+            return;
+        }
+        if (contains_keyword(cnorm, NO_KW)) {
+            int sc = session->quiz_score, done = session->quiz_question_index;
+            float pct = done > 0 ? (100.0f * sc / done) : 0.0f;
+            const char *grade =
+                pct>=90?"A+": pct>=75?"A": pct>=60?"B": pct>=50?"C": "F";
+            snprintf(response_out, MAX_RESPONSE_LEN,
+                "\n============================================================\n"
+                "  QUIZ ENDED\n"
+                "============================================================\n"
+                "  Score: %d / %d  (%.0f%%)   Grade: %s\n"
+                "------------------------------------------------------------\n"
+                "  Type 'quiz' to start again, 'menu' to change subject,\n"
+                "  or ask any question to continue Q&A mode.\n"
+                "============================================================",
+                sc, done, pct, grade);
+            session->quiz_awaiting_continue = 0;
+            session->quiz_question_index    = 0;
+            session->quiz_total             = 0;
+            session->current_state          = STATE_QA_MODE;
+            return;
+        }
+        snprintf(response_out, MAX_RESPONSE_LEN,
+            "  [!] Please answer yes or no — continue the quiz?");
+        return;
+    }
+
     /* Phase A: first entry — show question 0 */
     if (session->quiz_total == 0) {
         session->quiz_score          = 0;
@@ -283,9 +327,20 @@ void dm_run_quiz_step(SessionState *session, const char *raw_input, char *respon
             "  or ask any question to continue Q&A mode.\n"
             "============================================================",
             fb, sc, tot, pct, grade);
-        session->quiz_question_index = 0;
-        session->quiz_total          = 0;
-        session->current_state       = STATE_QA_MODE;
+        session->quiz_question_index    = 0;
+        session->quiz_total             = 0;
+        session->quiz_awaiting_continue = 0;
+        session->current_state          = STATE_QA_MODE;
+    } else if (session->quiz_question_index % QUIZ_BATCH_SIZE == 0) {
+        /* Checkpoint: a batch of QUIZ_BATCH_SIZE questions is done, more remain */
+        session->quiz_awaiting_continue = 1;
+        snprintf(response_out, MAX_RESPONSE_LEN,
+            "%s\n============================================================\n"
+            "  Checkpoint: %d of %d questions done. Score so far: %d/%d\n"
+            "------------------------------------------------------------\n"
+            "  Continue with the quiz? (yes/no)\n"
+            "============================================================",
+            fb, session->quiz_question_index, total, session->quiz_score, session->quiz_question_index);
     } else {
         QuizQuestion qn; char nb[MAX_RESPONSE_LEN];
         if (get_quiz_question(session->current_topic, session->current_unit, session->quiz_question_index, &qn))
@@ -442,6 +497,7 @@ void dm_process_input(SessionState *session, const char *raw_input, char *respon
     if (session->current_state == STATE_QUIZ_MODE) {
         if (contains_keyword(norm, MENU_KW)) {
             session->quiz_question_index = 0; session->quiz_total = 0;
+            session->quiz_awaiting_continue = 0;
             session->current_state = STATE_TOPIC_SELECT;
             session->current_topic = TOPIC_NONE;
             session->current_unit  = 0;
@@ -493,10 +549,11 @@ void dm_process_input(SessionState *session, const char *raw_input, char *respon
 
         /* quiz */
         if (contains_keyword(norm, QUIZ_KW)) {
-            session->current_state       = STATE_QUIZ_MODE;
-            session->quiz_question_index = 0;
-            session->quiz_total          = 0;
-            session->quiz_score          = 0;
+            session->current_state          = STATE_QUIZ_MODE;
+            session->quiz_question_index    = 0;
+            session->quiz_total             = 0;
+            session->quiz_score             = 0;
+            session->quiz_awaiting_continue = 0;
             dm_run_quiz_step(session, raw_input, response_out);
             return;
         }

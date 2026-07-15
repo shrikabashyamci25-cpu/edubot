@@ -17,6 +17,7 @@
 #define DATASET_FILE         "edubot_data.txt"
 #define NUM_QUIZ_OPTIONS     4
 #define SIMILARITY_THRESHOLD 0.10f
+#define QUIZ_BATCH_SIZE       5
 
 typedef enum {
     STATE_GREETING = 0,
@@ -68,6 +69,7 @@ typedef struct {
     int           quiz_question_index;
     int           quiz_score;
     int           quiz_total;
+    int           quiz_awaiting_continue;
     char          session_start[32];
 } SessionState;
 

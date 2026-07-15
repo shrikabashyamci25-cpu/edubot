@@ -1,0 +1,9 @@
+err*.txt
+out*.txt
+compile_err*.txt
+compile_out*.txt
+sim_err*.txt
+sim_out*.txt
+sim_build_out*.txt
+sim_stderr*.txt
+sim_stdout*.txt
